@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Criminology PhD Faculty Explorer</title>
+    <meta name="description" content="A searchable directory of criminology and criminal-justice faculty across PhD-granting programs in the United States plus international CrimRxiv Consortium members. Search by name or research interest and jump to each scholar's official profile." />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Criminology PhD Faculty Explorer" />
+    <meta property="og:description" content="A searchable directory of criminology and criminal-justice faculty — US PhD-granting programs plus CrimRxiv Consortium members." />
+    <meta property="og:type" content="website" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e0e0e'/><path d='M9 22 V10 L16 6 L23 10 V22 Z M9 22 H23' stroke='%23f68212' stroke-width='1.6' fill='none' stroke-linejoin='round'/><circle cx='16' cy='14' r='2.2' fill='%23f68212'/></svg>" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <div class="brand">
+          <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+            <path d="M9 23 V11 L16 7 L23 11 V23 Z M9 23 H23" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+            <circle cx="16" cy="15" r="2.4" fill="currentColor" />
+          </svg>
+          <div class="brand-text">
+            <div class="brand-title">Criminology Faculty</div>
+            <div class="brand-subtitle">PhD Program Explorer</div>
+          </div>
+        </div>
+        <div class="header-actions">
+          <button class="icon-btn" data-theme-toggle aria-label="Toggle color scheme">
+            <!-- icon injected by JS -->
+          </button>
+        </div>
+      </header>
+
+      <section class="hero">
+        <div class="hero-eyebrow">A searchable directory of criminology and criminal-justice faculty — US PhD-granting programs plus <a href="https://crimrxiv.com/consortium" target="_blank" rel="noopener">CrimRxiv Consortium</a> members</div>
+        <h1 class="hero-title">Find the scholar whose work aligns with <em>your interests</em>.</h1>
+        <p class="hero-lead">
+          Browse faculty across PhD-granting criminology and criminal-justice programs in the United States, alongside member departments of the CrimRxiv Consortium worldwide.
+          Search by name or research interest, filter to Consortium members, and jump to each scholar's official profile.
+        </p>
+        <p class="hero-cta">
+          <a href="https://crimrxiv.com" target="_blank" rel="noopener">Visit CrimRxiv</a> to browse open-access criminology research and make your own work freely available.
+        </p>
+      </section>
+
+      <section class="stats" aria-label="Dataset summary">
+        <div>
+          <div class="stat-value" id="stat-faculty">—</div>
+          <div class="stat-label">Faculty indexed</div>
+        </div>
+        <div>
+          <div class="stat-value" id="stat-depts">—</div>
+          <div class="stat-label">Departments covered</div>
+        </div>
+        <div>
+          <div class="stat-value" id="stat-filtered">—</div>
+          <div class="stat-label">Matching current view</div>
+        </div>
+        <div>
+          <div class="stat-value" id="stat-last">—</div>
+          <div class="stat-label">Data compiled</div>
+        </div>
+      </section>
+
+      <div class="workspace">
+        <aside class="sidebar">
+          <div class="panel">
+            <div class="panel-title">Departments</div>
+            <div class="panel-hint">Alphabetical. Click to scope the results to one program.</div>
+            <div class="dept-list" id="dept-list"></div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-title">Filters</div>
+
+            <div class="filter-group">
+              <label class="filter-label">Affiliation</label>
+              <label class="checkbox-row consortium-row">
+                <input type="checkbox" id="crimrxiv-filter" />
+                <span class="kw-label-wrap">
+                  <span class="kw-label">CrimRxiv Consortium</span>
+                  <button type="button" class="kw-info" id="crimrxiv-info" aria-label="What is the CrimRxiv Consortium?" tabindex="0">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+                  </button>
+                </span>
+                <span class="count" id="crimrxiv-count">—</span>
+              </label>
+            </div>
+
+            <div class="filter-group">
+              <label class="filter-label">Faculty rank</label>
+              <div class="checkbox-list" id="title-filter"></div>
+            </div>
+
+            <div class="filter-group">
+              <div class="filter-label-row">
+                <label class="filter-label">Research interest keywords</label>
+                <div class="match-toggle" role="radiogroup" aria-label="Match mode">
+                  <button type="button" class="match-toggle-btn active" data-match="any" role="radio" aria-checked="true">Match any</button>
+                  <button type="button" class="match-toggle-btn" data-match="all" role="radio" aria-checked="false">Match all</button>
+                </div>
+              </div>
+              <div class="filter-hint">Hover the <span class="filter-hint-icon" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg></span> icon next to each tag for a plain-language definition. Groupings are editorial &mdash; criminology has no universally agreed taxonomy.</div>
+              <div class="checkbox-list" id="keyword-filter"></div>
+            </div>
+
+            <button class="clear-btn" id="clear-filters">Clear all filters</button>
+          </div>
+        </aside>
+
+        <main class="main">
+          <div class="search-bar">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="11" cy="11" r="7" />
+              <line x1="21" y1="21" x2="16.65" y2="16.65" />
+            </svg>
+            <input
+              type="search"
+              id="search-input"
+              placeholder="Search by name or research interest across all programs…"
+              autocomplete="off"
+              spellcheck="false"
+            />
+            <button class="search-clear" id="search-clear" aria-label="Clear search">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18" />
+                <line x1="6" y1="6" x2="18" y2="18" />
+              </svg>
+            </button>
+          </div>
+
+          <div class="active-filters" id="active-filters"></div>
+
+          <div class="results-header">
+            <h2 class="results-title" id="results-title">All faculty</h2>
+            <div class="results-meta" id="results-meta"></div>
+          </div>
+
+          <div class="faculty-grid" id="faculty-grid"></div>
+
+          <div class="empty-state" id="empty-state" style="display: none">
+            <h3>No matches</h3>
+            <p>Try adjusting your filters or clearing the search.</p>
+          </div>
+        </main>
+      </div>
+
+      <footer class="coverage">
+        <div class="coverage-title">Coverage log</div>
+        <p class="coverage-lead">
+          A record of where data is partial or missing. Departments whose directory pages don't list research interests or emails centrally are noted here so users can investigate individual faculty profile pages for the full picture.
+        </p>
+        <button class="coverage-toggle" id="coverage-toggle">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+          <span id="coverage-toggle-label">Show coverage details</span>
+        </button>
+        <div class="coverage-items" id="coverage-items"></div>
+
+        <div class="footer-note" id="footer-note"></div>
+      </footer>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal-backdrop" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-name">
+      <div class="modal">
+        <button class="modal-close" id="modal-close" aria-label="Close">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+        <div class="modal-eyebrow" id="modal-eyebrow"></div>
+        <h2 class="modal-name" id="modal-name">—</h2>
+        <div class="modal-title" id="modal-title">—</div>
+        <div id="modal-body"></div>
+        <div class="modal-actions" id="modal-actions"></div>
+      </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script data-goatcounter="https://criminologyfaculty.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+  </body>
+</html>
