@@ -1,6 +1,6 @@
 # Criminology Faculty Explorer
 
-A searchable directory of [CrimConsortium](https://crimconsortium.com) member faculty (formerly the CrimRxiv Consortium), plus criminology and criminal-justice faculty at PhD-granting programs in the United States. Search by name or research interest, filter to Consortium members, and jump to each scholar's official profile page.
+An expert-finding tool from [CrimConsortium](https://crimconsortium.com) (formerly the CrimRxiv Consortium). Search criminology and criminal-justice faculty across CrimConsortium member institutions and U.S. PhD-granting programs by name or research interest, and jump to each scholar's official profile page.
 
 **Live site:** https://crimconsortium.github.io/faculty-explorer/
 
