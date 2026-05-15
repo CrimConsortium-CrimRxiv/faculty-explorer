@@ -1,7 +1,7 @@
 /* =============================================================
    Criminology PhD Faculty Explorer
-   CrimRxiv-inspired aesthetic — black surfaces, burnt-orange accents
-   Brand orange sampled from crimrxiv.com/consortium: #f68212
+   CrimConsortium-inspired aesthetic — black surfaces, burnt-orange accents
+   Brand orange sampled from crimrxiv.com / crimconsortium.com: #f68212
    ============================================================= */
 
 :root, [data-theme="light"] {
@@ -15,12 +15,13 @@
   --color-border: #beb9aa;
 
   /* Text — black ink, like the CrimRxiv site */
+  /* (kept original reference: aesthetic was inspired by crimrxiv.com) */
   --color-text: #0e0e0e;
   --color-text-muted: #5a5750;
   --color-text-faint: #9c9890;
   --color-text-inverse: #ffffff;
 
-  /* Primary — CrimRxiv burnt orange */
+  /* Primary — CrimConsortium burnt orange */
   --color-primary: #f68212;
   --color-primary-hover: #9c4f08;
   --color-primary-active: #823f04;
@@ -36,7 +37,7 @@
 }
 
 [data-theme="dark"] {
-  /* Surfaces — true black like the CrimRxiv consortium tiles */
+  /* Surfaces — true black like the CrimConsortium tiles */
   --color-bg: #000000;
   --color-surface: #0d0d0d;
   --color-surface-2: #161616;
@@ -265,6 +266,12 @@ a:hover { border-bottom-color: var(--color-primary); }
   background: var(--color-accent-soft, rgba(246, 130, 18, 0.06));
   color: var(--color-text);
   font-size: var(--text-base);
+}
+.hero-cta p {
+  margin: 0;
+}
+.hero-cta p + p {
+  margin-top: var(--space-2);
 }
 .hero-cta a {
   color: var(--color-accent);
@@ -991,8 +998,8 @@ a:hover { border-bottom-color: var(--color-primary); }
 }
 
 /* ============================================================
-   CrimRxiv Consortium badge & highlights
-   Solid orange-on-black to mirror the CrimRxiv consortium tiles.
+   CrimConsortium badge & highlights
+   Solid orange-on-black to mirror the CrimConsortium tiles.
    ============================================================ */
 .crimrxiv-badge {
   display: inline-flex;

@@ -1,6 +1,6 @@
 # Criminology PhD Faculty Explorer
 
-A searchable directory of criminology and criminal-justice faculty across U.S. PhD-granting programs and the [CrimRxiv Consortium](https://crimrxiv.com/consortium) worldwide. Search by name or research interest, filter to Consortium members, and jump to each scholar's official profile page.
+A searchable directory of criminology and criminal-justice faculty across U.S. PhD-granting programs and [CrimConsortium](https://crimconsortium.com) (formerly the CrimRxiv Consortium) worldwide. Search by name or research interest, filter to Consortium members, and jump to each scholar's official profile page.
 
 **Live site:** https://crimconsortium.github.io/criminology-faculty-explorer/
 
@@ -20,9 +20,9 @@ Data is compiled from:
 - [U.S. News & World Report Best Criminology Schools rankings](https://www.usnews.com/best-graduate-schools/top-humanities-schools/criminology-rankings)
 - [Academy of Doctoral Programs in Criminology & Criminal Justice (ADPCCJ)](https://adpccj.com/members) member roster
 - Each department's official faculty directory
-- [CrimRxiv Consortium](https://crimrxiv.com/consortium) member list
+- [CrimConsortium](https://crimconsortium.com) member list (formerly the CrimRxiv Consortium)
 
-Not affiliated with U.S. News, ADPCCJ, CrimRxiv, or any listed institution.
+Not affiliated with U.S. News, ADPCCJ, CrimRxiv, CrimConsortium, or any listed institution.
 
 ## Updating
 

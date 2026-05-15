@@ -154,11 +154,11 @@
     f._keywords = keywordsFor(f.research_interests);
   });
 
-  // ---------- CrimRxiv Consortium ----------
-  // https://crimrxiv.com/consortium
-  // Members are tagged in the dataset (department.crimrxiv_member).
-  const CRIMRXIV_DESCRIPTION = 'Open-criminology consortium hosted by the University of Manchester. Member institutions support open access to criminology research via CrimRxiv. Faculty here belong to a department whose institution is a Consortium member.';
-  const CRIMRXIV_URL = 'https://crimrxiv.com/consortium';
+  // ---------- CrimConsortium ----------
+  // https://crimconsortium.com (formerly CrimRxiv Consortium at crimrxiv.com/consortium)
+  // Members are tagged in the dataset (department.crimrxiv_member; legacy field name retained for compatibility).
+  const CRIMRXIV_DESCRIPTION = 'CrimConsortium (formerly the CrimRxiv Consortium) is a network of institutions that support open access to criminology research. Faculty here belong to a department whose institution is a CrimConsortium member.';
+  const CRIMRXIV_URL = 'https://crimconsortium.com';
 
   // ---------- State ----------
   const state = {
@@ -334,7 +334,7 @@
   });
 
   // ---------- Render department list ----------
-  // CrimRxiv Consortium institutions sort to the top, then alpha within each group.
+  // CrimConsortium institutions sort to the top, then alpha within each group.
   function renderDeptList() {
     const depts = DATA.departments.slice().sort(function (a, b) {
       var ax = a.crimrxiv_member ? 0 : 1;
@@ -391,8 +391,8 @@
 
   function consortiumBadgeHtml(small) {
     var cls = 'crimrxiv-badge' + (small ? ' crimrxiv-badge-sm' : '');
-    return '<span class="' + cls + '" title="CrimRxiv Consortium member">' +
-      'CrimRxiv' +
+    return '<span class="' + cls + '" title="CrimConsortium member">' +
+      'CrimConsortium' +
       '</span>';
   }
 
@@ -440,7 +440,7 @@
     // Active filter chips
     var chips = [];
     if (state.crimrxivOnly) {
-      chips.push(chipHtml('Affiliation', 'CrimRxiv Consortium', 'crimrxiv'));
+      chips.push(chipHtml('Affiliation', 'CrimConsortium', 'crimrxiv'));
     }
     if (state.department) {
       chips.push(chipHtml('Dept', state.department, 'dept'));
@@ -474,7 +474,7 @@
       el.emptyState.style.display = 'block';
     } else {
       el.emptyState.style.display = 'none';
-      // Sort: CrimRxiv members first (when not already filtered to them), then alpha by last name
+      // Sort: CrimConsortium members first (when not already filtered to them), then alpha by last name
       results.sort(function (a, b) {
         if (!state.crimrxivOnly) {
           var ax = a.crimrxiv_member ? 0 : 1;
@@ -680,8 +680,8 @@
       'Data compiled ' + escapeHtml(formatCompiledDate(DATA.generated_at)) + ' from the ' +
       '<a href="https://www.usnews.com/best-graduate-schools/top-humanities-schools/criminology-rankings" target="_blank" rel="noopener">U.S. News &amp; World Report Best Criminology Schools</a>, the ' +
       '<a href="https://adpccj.com/members" target="_blank" rel="noopener">Academy of Doctoral Programs in Criminology &amp; Criminal Justice (ADPCCJ)</a> member roster, and each department\'s official faculty directory. ' +
-      'CrimRxiv Consortium membership is sourced from the <a href="https://crimrxiv.com/consortium" target="_blank" rel="noopener">CrimRxiv Consortium page</a>. ' +
-      'Not affiliated with U.S. News, ADPCCJ, CrimRxiv, or any listed institution. If you spot an error, it likely reflects an out-of-date department page — please verify on the institution\'s own site.' +
+      'CrimConsortium membership is sourced from the <a href="https://crimconsortium.com" target="_blank" rel="noopener">CrimConsortium website</a>. ' +
+      'Not affiliated with U.S. News, ADPCCJ, CrimRxiv, CrimConsortium, or any listed institution. If you spot an error, it likely reflects an out-of-date department page — please verify on the institution\'s own site.' +
       buildStampHtml();
   }
 
@@ -728,7 +728,7 @@
     render();
   });
 
-  // ---------- CrimRxiv filter ----------
+  // ---------- CrimConsortium filter ----------
   if (el.crimrxivFilter) {
     el.crimrxivFilter.addEventListener('change', function () {
       state.crimrxivOnly = el.crimrxivFilter.checked;
@@ -748,7 +748,7 @@
         document.body.appendChild(crimrxivPopover);
         return crimrxivPopover;
       })();
-      pop.innerHTML = '<div class="kw-popover-title">CrimRxiv Consortium</div>' +
+      pop.innerHTML = '<div class="kw-popover-title">CrimConsortium</div>' +
         '<div class="kw-popover-body">' + escapeHtml(CRIMRXIV_DESCRIPTION) +
         ' <a href="' + escapeAttr(CRIMRXIV_URL) + '" target="_blank" rel="noopener">Member list ↗</a></div>';
       pop.style.display = 'block';

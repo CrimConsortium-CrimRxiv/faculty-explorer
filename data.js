@@ -10841,7 +10841,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -11134,7 +11134,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -11603,7 +11603,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -12016,7 +12016,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -12037,7 +12037,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -12066,7 +12066,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -12175,7 +12175,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -12404,7 +12404,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -12689,7 +12689,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -13070,7 +13070,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -13259,7 +13259,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     },
     {
@@ -13424,12 +13424,12 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "source": "CrimRxiv Consortium",
+      "source": "CrimConsortium",
       "crimrxiv_member": true
     }
   ],
-  "sources_note": "Departments in this directory come from two sources: the U.S. News & World Report criminology rankings and the Academy of Doctoral Programs in Criminology & Criminal Justice (ADPCCJ) member roster. Rankings are intentionally not shown or used for sorting. Additional CrimRxiv Consortium member directories (US plus international) were collected from each institution's public faculty page.",
+  "sources_note": "Departments in this directory come from two sources: the U.S. News & World Report criminology rankings and the Academy of Doctoral Programs in Criminology & Criminal Justice (ADPCCJ) member roster. Rankings are intentionally not shown or used for sorting. Additional CrimConsortium member directories (US plus international) were collected from each institution's public faculty page.",
   "compiled_at": "2026-04-29T14:54:52.985025+00:00",
-  "build_version": 18,
-  "build_date": "2026-05-04"
+  "build_version": 19,
+  "build_date": "2026-05-15"
 };
