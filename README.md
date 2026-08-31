@@ -2,7 +2,7 @@
 
 An expert-finding tool from [CrimConsortium](https://crimconsortium.com) (formerly the CrimRxiv Consortium). Search criminology and criminal-justice faculty across CrimConsortium member institutions and U.S. PhD-granting programs by name or research interest, and jump to each scholar's official profile page.
 
-**Live site:** https://crimconsortium.github.io/faculty-explorer/
+**Live site:** https://faculty.crimconsortium.com/
 
 ## What's inside
 
