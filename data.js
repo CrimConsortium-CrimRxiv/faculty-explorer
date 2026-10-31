@@ -1,8 +1,8 @@
 window.__DATA__ = {
-  "generated_at": "2026-04-28T18:28:11.570362Z",
+  "generated_at": "2026-10-31T12:00:00Z",
   "source": "U.S. News & World Report criminology rankings + ADPCCJ member roster",
   "total_departments": 56,
-  "total_faculty": 1569,
+  "total_faculty": 1599,
   "coverage_log": [
     {
       "institution": "Data sources",
@@ -109,7 +109,7 @@ window.__DATA__ = {
       "issue": "research interests not shown on directory (0/33 captured). Full profiles available via individual faculty page links."
     },
     {
-      "institution": "University of Missouri\u2013St. Louis (UMSL)",
+      "institution": "University of Missouri–St. Louis (UMSL)",
       "issue": "research interests not shown on directory (2/22 captured). Full profiles available via individual faculty page links."
     },
     {
@@ -168,14 +168,6 @@ window.__DATA__ = {
       "faculty_count": 35,
       "faculty": [
         {
-          "name": "Kwan-Lamar Blount-Hill",
-          "title": "Assistant Professor",
-          "email": "kbh@asu.edu",
-          "research_interests": "Group identity, fairness, power and dominance, and the influence of context on human behavior",
-          "profile_url": "https://search.asu.edu/profile/4151549",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Krystlelynn Caraballo",
           "title": "Assistant Professor",
           "email": "Krystlelynn.Caraballo@asu.edu",
@@ -233,10 +225,18 @@ window.__DATA__ = {
         },
         {
           "name": "Abigail Henson",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "Abigail.Henson@asu.edu",
           "research_interests": "Corrections, Critical Theory, Policing, Program Evaluation, Qualitative Methods, Transformative Justice",
           "profile_url": "https://search.asu.edu/profile/3650120",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kwan-Lamar Blount-Hill",
+          "title": "Assistant Professor",
+          "email": "kbh@asu.edu",
+          "research_interests": "Group identity, fairness, power and dominance, and the influence of context on human behavior",
+          "profile_url": "https://search.asu.edu/profile/4151549",
           "crimrxiv_member": false
         },
         {
@@ -433,7 +433,7 @@ window.__DATA__ = {
         },
         {
           "name": "Jacob Young",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "Jacob.Young.1@asu.edu",
           "research_interests": "Network Criminology, Data Science & R, Corrections, Criminological Theory, Quantitative methods",
           "profile_url": "https://search.asu.edu/profile/1791683",
@@ -449,7 +449,8 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "CUNY--John Jay College of Criminal Justice",
@@ -458,8 +459,16 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.jjay.cuny.edu/academics/departments/criminal-justice/faculty",
       "extraction_status": "complete",
       "extraction_notes": "All 26 faculty captured (24 active + 2 emeriti). Research interests are not displayed on the directory page; only available on individual profile pages. Checked one profile (Natarajan) for research interests; remaining profiles not checked to avoid excessive requests. Emails, titles, and profile URLs captured for all.",
-      "faculty_count": 26,
+      "faculty_count": 28,
       "faculty": [
+        {
+          "name": "Chelsea Binns",
+          "title": "Associate Professor",
+          "email": "cbinns@jjay.cuny.edu",
+          "research_interests": "Cybercrime; fraud; investigations; financial crime; security management; artificial intelligence; cyber fraud; identity theft; private security",
+          "profile_url": "https://www.jjay.cuny.edu/faculty/chelsea-binns",
+          "crimrxiv_member": true
+        },
         {
           "name": "Joel Capellan",
           "title": "Associate Professor",
@@ -486,7 +495,7 @@ window.__DATA__ = {
         },
         {
           "name": "Marcia Esparza",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "esparzahistoricalmemoryproject@jjay.cuny.edu",
           "research_interests": "Genocide, historical memory, legacies of state violence, colonialism, postcolonialism, critical human rights, militarization, hate crimes, immigration, racial & social justice, terrorism & violent extremism",
           "profile_url": "https://www.jjay.cuny.edu/faculty/marcia-esparza",
@@ -498,6 +507,14 @@ window.__DATA__ = {
           "email": "jfreilich@jjay.cuny.edu",
           "research_interests": "Active Shooter, Hate Crimes, School Shootings, Terrorism & Violent Extremism",
           "profile_url": "https://www.jjay.cuny.edu/faculty/joshua-d-freilich",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Jill (Paccione) Frometa",
+          "title": "Adjunct Assistant Professor",
+          "email": "jfrometa@jjay.cuny.edu",
+          "research_interests": "Evidence-based policing; policy evaluation; law enforcement culture",
+          "profile_url": "https://www.jjay.cuny.edu/faculty/jill-paccione-frometa",
           "crimrxiv_member": true
         },
         {
@@ -522,6 +539,14 @@ window.__DATA__ = {
           "email": "dkenney@jjay.cuny.edu",
           "research_interests": "Police pursuits, organized crime, crime in schools, crime and fear in public transit, policing",
           "profile_url": "https://www.jjay.cuny.edu/faculty/dennis-kenney",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "John Kleinig",
+          "title": "Emeritus Professor",
+          "email": "jkleinig@jjay.cuny.edu",
+          "research_interests": "Criminal justice ethics; professional ethics; social and political philosophy",
+          "profile_url": "https://www.jjay.cuny.edu/faculty/john-kleinig",
           "crimrxiv_member": true
         },
         {
@@ -554,6 +579,14 @@ window.__DATA__ = {
           "email": "emandery@jjay.cuny.edu",
           "research_interests": "Capital Punishment, Death Penalty, Educational Equity and Access, Civil Liberties",
           "profile_url": "https://www.jjay.cuny.edu/faculty/evan-mandery",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Michael Maxfield",
+          "title": "Professor Emeritus",
+          "email": "mmaxfield@jjay.cuny.edu",
+          "research_interests": "Research Methods for Criminal Justice and Criminology, Crime and Delinquency",
+          "profile_url": "https://www.jjay.cuny.edu/faculty/michael-maxfield",
           "crimrxiv_member": true
         },
         {
@@ -651,26 +684,11 @@ window.__DATA__ = {
           "research_interests": "Crime prevention, corrections, crime prevention and reduction, environmental criminology, spatial patterns of crime, routine activities theory, firearm availability and violence, suicidal ideation of probationers",
           "profile_url": "https://www.jjay.cuny.edu/faculty/sung-suk-violet-yu",
           "crimrxiv_member": true
-        },
-        {
-          "name": "John Kleinig",
-          "title": "Emeritus Professor",
-          "email": "jkleinig@jjay.cuny.edu",
-          "research_interests": "Criminal justice ethics; professional ethics; social and political philosophy",
-          "profile_url": "https://www.jjay.cuny.edu/faculty/john-kleinig",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Michael Maxfield",
-          "title": "Professor Emeritus",
-          "email": "mmaxfield@jjay.cuny.edu",
-          "research_interests": "Research Methods for Criminal Justice and Criminology, Crime and Delinquency",
-          "profile_url": "https://www.jjay.cuny.edu/faculty/michael-maxfield",
-          "crimrxiv_member": true
         }
       ],
       "source": "US News",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Georgia State University",
@@ -811,7 +829,8 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Indiana University of Pennsylvania",
@@ -823,11 +842,11 @@ window.__DATA__ = {
       "faculty_count": 17,
       "faculty": [
         {
-          "name": "John Lewis",
-          "title": "Professor and Chair",
-          "email": "J.A.Lewis@iup.edu",
-          "research_interests": "Criminological Theory, Research Methods, Policing, Terrorism, legal impact studies, deterrence theory, underage alcohol use",
-          "profile_url": "https://www.iup.edu/criminology/faculty/lewis-john-a.html",
+          "name": "Timothy Austin",
+          "title": "Professor Emeritus",
+          "email": "wtaustinz4@gmail.com",
+          "research_interests": "informal justice in rural Philippines, crime prevention in Singapore, vigilantism and terrorism in Mindanao, bribery and extortion in Philippines, prisoner social structure, Crow Indian justice, courtroom ecology",
+          "profile_url": "https://www.iup.edu/criminology/faculty/index.html",
           "crimrxiv_member": false
         },
         {
@@ -855,11 +874,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Daniel R Lee",
-          "title": "Professor",
-          "email": "danlee@iup.edu",
-          "research_interests": "Criminological Theory, Criminal Justice Policy, Violence and Crime Prevention",
-          "profile_url": "https://www.iup.edu/criminology/faculty/lee-daniel-r.html",
+          "name": "John J. Gibbs",
+          "title": "Professor Emeritus",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Rosemary Gido",
+          "title": "Professor Emerita",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
           "crimrxiv_member": false
         },
         {
@@ -868,6 +895,30 @@ window.__DATA__ = {
           "email": "jgossett@iup.edu",
           "research_interests": "Cybersecurity, content analysis, race/class/gender issues",
           "profile_url": "https://www.iup.edu/criminology/faculty/gossett-jennifer-l.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Daniel R Lee",
+          "title": "Professor",
+          "email": "danlee@iup.edu",
+          "research_interests": "Criminological Theory, Criminal Justice Policy, Violence and Crime Prevention",
+          "profile_url": "https://www.iup.edu/criminology/faculty/lee-daniel-r.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "John Lewis",
+          "title": "Professor and Chair",
+          "email": "J.A.Lewis@iup.edu",
+          "research_interests": "Criminological Theory, Research Methods, Policing, Terrorism, legal impact studies, deterrence theory, underage alcohol use",
+          "profile_url": "https://www.iup.edu/criminology/faculty/lewis-john-a.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "R. Paul McCauley",
+          "title": "Professor Emeritus",
+          "email": "rpaulmccauley@gmail.com",
+          "research_interests": "",
+          "profile_url": "",
           "crimrxiv_member": false
         },
         {
@@ -887,6 +938,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Imogene Moyer",
+          "title": "Professor Emerita",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Robert Mutchnick",
+          "title": "Professor Emeritus",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://www.iup.edu/criminology/faculty/index.html",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Shannon Phaneuf",
           "title": "Professor",
           "email": "S.Phaneuf1@iup.edu",
@@ -903,64 +970,17 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Timothy Austin",
-          "title": "Professor Emeritus",
-          "email": "wtaustinz4@gmail.com",
-          "research_interests": "informal justice in rural Philippines, crime prevention in Singapore, vigilantism and terrorism in Mindanao, bribery and extortion in Philippines, prisoner social structure, Crow Indian justice, courtroom ecology",
-          "profile_url": "https://www.iup.edu/criminology/faculty/index.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "John J. Gibbs",
-          "title": "Professor Emeritus",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Rosemary Gido",
-          "title": "Professor Emerita",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "R. Paul McCauley",
-          "title": "Professor Emeritus",
-          "email": "rpaulmccauley@gmail.com",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Imogene Moyer",
-          "title": "Professor Emerita",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Nancy Wilson",
           "title": "Professor Emerita",
           "email": "",
           "research_interests": "",
           "profile_url": "",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Robert Mutchnick",
-          "title": "Professor Emeritus",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://www.iup.edu/criminology/faculty/index.html",
-          "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Michigan State University",
@@ -968,8 +988,8 @@ window.__DATA__ = {
       "department_homepage": "https://cj.msu.edu/",
       "faculty_directory_url": "https://cj.msu.edu/about/people",
       "extraction_status": "complete",
-      "extraction_notes": "Extracted all 51 faculty members across 3 pages from the MSU School of Criminal Justice directory, filtered by \"Faculty and Academic Staff\" employment type. Excluded: Tiana Gaudette (PhD Candidate | Specialist), Heather Perez (Specialist), and Steven Wu-Chaves (Research Associate) as they do not hold faculty titles. Email addresses were not displayed on directory cards; individual profile pages were not clicked through for efficiency. Research interests were only shown on cards where available (e.g., Caitlin Cavanagh - Juvenile Justice, Sanja Kutnjak Ivkovi\u0107 - editorial roles, Edmund McGarrell - project affiliations).",
-      "faculty_count": 51,
+      "extraction_notes": "Extracted all 51 faculty members across 3 pages from the MSU School of Criminal Justice directory, filtered by \"Faculty and Academic Staff\" employment type. Excluded: Tiana Gaudette (PhD Candidate | Specialist), Heather Perez (Specialist), and Steven Wu-Chaves (Research Associate) as they do not hold faculty titles. Email addresses were not displayed on directory cards; individual profile pages were not clicked through for efficiency. Research interests were only shown on cards where available (e.g., Caitlin Cavanagh - Juvenile Justice, Sanja Kutnjak Ivković - editorial roles, Edmund McGarrell - project affiliations).",
+      "faculty_count": 50,
       "faculty": [
         {
           "name": "Joel Allen",
@@ -977,14 +997,6 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "",
           "profile_url": "https://cj.msu.edu/about/people/a/allen-joel",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Vivian Aranda-Hughes",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Correctional experiences, well-being and stress of correctional staff, organizational contexts of correctional staff, institutional environments in prisons and jails, criminal justice policies affecting staff and system functioning",
-          "profile_url": "https://cj.msu.edu/about/people/a/aranda-hughes-vivian",
           "crimrxiv_member": false
         },
         {
@@ -1049,14 +1061,6 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Black Lives Matter movement and systemic racism; protester perceptions of policing; neighborhood context and violence; justice for incarcerated populations; criminal justice reform",
           "profile_url": "https://cj.msu.edu/about/people/d/dungy-jennifer",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Michelle Emerson-Lewis",
-          "title": "Instructor",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://cj.msu.edu/about/people/e/emerson-lewis-michelle",
           "crimrxiv_member": false
         },
         {
@@ -1172,19 +1176,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Vivian Aranda-Hughes",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Correctional experiences, well-being and stress of correctional staff, organizational contexts of correctional staff, institutional environments in prisons and jails, criminal justice policies affecting staff and system functioning",
+          "profile_url": "https://cj.msu.edu/about/people/a/aranda-hughes-vivian",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Sanja Kutnjak Ivković",
+          "title": "Professor",
+          "email": "",
+          "research_interests": "Co-Editor, Policing: An International Journal | Editor, Routledge Global Criminology",
+          "profile_url": "https://cj.msu.edu/about/people/k/kutnjak-ivkovic-sanja",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Julie Krupa",
           "title": "Associate Professor | Director of Undergraduate Studies",
           "email": "",
           "research_interests": "health and social disparities among justice-involved youth and young adults; violence prevention; juvenile justice system; public health and juvenile justice intersection",
           "profile_url": "https://cj.msu.edu/about/people/k/krupa-julie",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Sanja Kutnjak Ivkovi\u0107",
-          "title": "Professor",
-          "email": "",
-          "research_interests": "Co-Editor, Policing: An International Journal | Editor, Routledge Global Criminology",
-          "profile_url": "https://cj.msu.edu/about/people/k/kutnjak-ivkovic-sanja",
           "crimrxiv_member": false
         },
         {
@@ -1316,14 +1328,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Kate Seigfried-Spellar",
-          "title": "Professor",
-          "email": "",
-          "research_interests": "Grooming strategies of online child sexual exploitation and abuse offenders; Knuckle and fingernail bed biometrics; Behavioral analysis of digital forensic evidence; Mental health & well-being of forensic science professionals; Psychosocial and technological factors in cybercriminal behavior; Artificial intelligence and natural language processing in criminal justice",
-          "profile_url": "https://cj.msu.edu/about/people/s/seigfried-spellar-kate",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Bilal Sevinc",
           "title": "Assistant Professor (Fixed-Term)",
           "email": "",
@@ -1345,6 +1349,14 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "judicial policy-making, U.S. Supreme Court, court processes, constitutional rights in criminal justice, prisoners' rights",
           "profile_url": "https://cj.msu.edu/about/people/s/smith-christopher",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kate Seigfried-Spellar",
+          "title": "Professor",
+          "email": "",
+          "research_interests": "Grooming strategies of online child sexual exploitation and abuse offenders; Knuckle and fingernail bed biometrics; Behavioral analysis of digital forensic evidence; Mental health & well-being of forensic science professionals; Psychosocial and technological factors in cybercriminal behavior; Artificial intelligence and natural language processing in criminal justice",
+          "profile_url": "https://cj.msu.edu/about/people/s/seigfried-spellar-kate",
           "crimrxiv_member": false
         },
         {
@@ -1381,7 +1393,8 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "North Dakota State University",
@@ -1392,14 +1405,6 @@ window.__DATA__ = {
       "extraction_notes": "Only 5 faculty members listed on the page. No profile URLs or research interests are displayed on the directory page itself. No pagination or load more buttons. Names on cards are not linked to individual profile pages.",
       "faculty_count": 5,
       "faculty": [
-        {
-          "name": "Amy Stichman",
-          "title": "Associate Professor and Chair",
-          "email": "amy.stichman@ndsu.edu",
-          "research_interests": "Tokenism in policing, sex offender laws, evaluation of correctional programs, internships in criminal justice, mentoring",
-          "profile_url": "https://www.ndsu.edu/criminal-justice/people/faculty/amy-j-stichman",
-          "crimrxiv_member": false
-        },
         {
           "name": "Carol A. Archbold",
           "title": "Walter & Verna Gehrts Endowed Professor",
@@ -1425,6 +1430,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Amy Stichman",
+          "title": "Associate Professor and Chair",
+          "email": "amy.stichman@ndsu.edu",
+          "research_interests": "Tokenism in policing, sex offender laws, evaluation of correctional programs, internships in criminal justice, mentoring",
+          "profile_url": "https://www.ndsu.edu/criminal-justice/people/faculty/amy-j-stichman",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Kevin Thompson",
           "title": "Professor",
           "email": "kevin.thompson@ndsu.edu",
@@ -1434,7 +1447,8 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Old Dominion University",
@@ -1443,38 +1457,14 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.odu.edu/sociology/directory",
       "extraction_status": "complete",
       "extraction_notes": "Excluded administrative staff (Calisa Farmer - Program Support Technician), Krista Fulton (listed under College of Arts & Letters), Cynthia Collard, Michael Gulland, Briana Paige, Dianne Berger-Hill (no title listed), Kristin Macak (College of Arts & Letters), Ruth Caicedo (Housing & Residence Life). Melvina Sumter excluded - no title listed. Brian Payne excluded - Provost & VP, not dept faculty. Included Full-Time Faculty section (28 with faculty titles) and Part-Time Faculty section (12 with faculty titles). Research interests were sparse on the directory page; only a few entries had visible research interests.",
-      "faculty_count": 40,
+      "faculty_count": 45,
       "faculty": [
         {
-          "name": "Ruth Triplett",
-          "title": "Professor & Chair",
-          "email": "rtriplet@odu.edu",
+          "name": "Nicholas Adams",
+          "title": "Adjunct Instructional Faculty",
+          "email": "n2adams@odu.edu",
           "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/ruth-triplett",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Daniel Pryce",
-          "title": "Associate Professor",
-          "email": "dpryce@odu.edu",
-          "research_interests": "Criminology/Criminal Justice: policing and race, immigrants and immigration, fear of crime and victimization, quality of life, terrorism, college internships, research methods",
-          "profile_url": "https://www.odu.edu/directory/daniel-pryce",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Vanessa Panfil",
-          "title": "Associate Professor",
-          "email": "vpanfil@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/vanessa-panfil",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jessica Huffman",
-          "title": "Senior Lecturer",
-          "email": "jhuffman@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/jessica-huffman",
+          "profile_url": "https://www.odu.edu/directory/nicholas-adams",
           "crimrxiv_member": false
         },
         {
@@ -1486,11 +1476,59 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "LaQuana N. Askew",
+          "title": "Adjunct Instructional Faculty",
+          "email": "laskew@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/dr-laquana-n-askew",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Phil Austin",
+          "title": "Visiting Lecturer",
+          "email": "pfaustin@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/phil-austin",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kathleen Slauson-Blevins",
+          "title": "Associate Professor",
+          "email": "kslauson@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/kathleen-slauson-blevins",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Ian Bolling",
+          "title": "Higher Ed.Teach/Res.Asst",
+          "email": "ibolling@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/ian-bolling",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Isabella Burns",
+          "title": "Adjunct Instructional Faculty",
+          "email": "iburns@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/isabella-burns",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Allison Chappell",
           "title": "Professor",
           "email": "achappel@odu.edu",
           "research_interests": "",
           "profile_url": "https://www.odu.edu/directory/allison-chappell",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Cynthia Collard",
+          "title": "Adjunct Instructional Faculty",
+          "email": "ccollard@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/cynthia-collard",
           "crimrxiv_member": false
         },
         {
@@ -1515,6 +1553,14 @@ window.__DATA__ = {
           "email": "jellison@odu.edu",
           "research_interests": "",
           "profile_url": "https://www.odu.edu/directory/jared-ellison",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Michael Freeman",
+          "title": "Adjunct Instructional Faculty",
+          "email": "mdfreema@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/michael-freeman",
           "crimrxiv_member": false
         },
         {
@@ -1543,10 +1589,18 @@ window.__DATA__ = {
         },
         {
           "name": "Charles R. Gray",
-          "title": "Master Lecturer",
+          "title": "Teaching Professor",
           "email": "crgray@odu.edu",
           "research_interests": "",
           "profile_url": "https://www.odu.edu/directory/dr-charles-r-gray",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jessica Huffman",
+          "title": "Senior Lecturer",
+          "email": "jhuffman@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/jessica-huffman",
           "crimrxiv_member": false
         },
         {
@@ -1555,6 +1609,38 @@ window.__DATA__ = {
           "email": "jkang@odu.edu",
           "research_interests": "",
           "profile_url": "https://www.odu.edu/directory/jeehye-kang",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jude Klena",
+          "title": "Lecturer",
+          "email": "jklena@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/jude-klena",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Paul Leccese",
+          "title": "Adjunct Instructional Faculty",
+          "email": "pleccese@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/paul-leccese",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Shonda Lomans",
+          "title": "Adjunct Instructional Faculty",
+          "email": "qlomans@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/shonda-lomans",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Lucien Lombardo",
+          "title": "Adjunct Instructional Faculty",
+          "email": "llombard@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/lucien-lombardo",
           "crimrxiv_member": false
         },
         {
@@ -1590,115 +1676,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Kent Sandstrom",
-          "title": "Adjunct Instructional Faculty",
-          "email": "ksandstr@odu.edu",
-          "research_interests": "Symbolic interactionism, social reality, social life",
-          "profile_url": "https://www.odu.edu/directory/kent-sandstrom",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Derek P. Siegel",
-          "title": "Assistant Professor",
-          "email": "dsiegel@odu.edu",
-          "research_interests": "Race, Gender, and Class; Family; Medical Sociology; LGBTQ Studies; Feminist Theory; Qualitative Methods",
-          "profile_url": "https://www.odu.edu/directory/derek-p-siegel",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Kathleen Slauson-Blevins",
-          "title": "Associate Professor",
-          "email": "kslauson@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/kathleen-slauson-blevins",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Tracy Sohoni",
-          "title": "Associate Professor",
-          "email": "tsohoni@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/tracy-sohoni",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Brittany Suh",
-          "title": "Assistant Professor",
-          "email": "bsuh@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/brittany-suh",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Elizabeth Monk Turner",
-          "title": "Professor",
-          "email": "eturner@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/elizabeth-monk-turner",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Victoria Time",
-          "title": "Professor",
-          "email": "vtime@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/victoria-time",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ingrid Whitaker",
-          "title": "Associate Professor",
-          "email": "iwhitake@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/ingrid-whitaker",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Brandi Woodell",
-          "title": "Assistant Professor",
-          "email": "bwoodell@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/brandi-woodell",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Xiushi Yang",
-          "title": "Professor",
-          "email": "xyang@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/xiushi-yang",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Nicholas Adams",
-          "title": "Adjunct Instructional Faculty",
-          "email": "n2adams@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/nicholas-adams",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Phil Austin",
-          "title": "Adjunct Instructional Faculty",
-          "email": "pfaustin@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/phil-austin",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ian Bolling",
-          "title": "Higher Ed.Teach/Res.Asst",
-          "email": "ibolling@odu.edu",
-          "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/ian-bolling",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Moises Mina",
           "title": "Lecturer",
           "email": "mmina@odu.edu",
           "research_interests": "",
           "profile_url": "https://www.odu.edu/directory/moises-mina",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Vanessa Panfil",
+          "title": "Associate Professor",
+          "email": "vpanfil@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/vanessa-panfil",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Daniel Pryce",
+          "title": "Associate Professor",
+          "email": "dpryce@odu.edu",
+          "research_interests": "Criminology/Criminal Justice: policing and race, immigrants and immigration, fear of crime and victimization, quality of life, terrorism, college internships, research methods",
+          "profile_url": "https://www.odu.edu/directory/daniel-pryce",
           "crimrxiv_member": false
         },
         {
@@ -1710,11 +1708,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Kent Sandstrom",
+          "title": "Adjunct Instructional Faculty",
+          "email": "ksandstr@odu.edu",
+          "research_interests": "Symbolic interactionism, social reality, social life",
+          "profile_url": "https://www.odu.edu/directory/kent-sandstrom",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Tonya M. Shell",
           "title": "Higher Ed Teach Res Asst",
           "email": "tshell@odu.edu",
           "research_interests": "",
           "profile_url": "https://www.odu.edu/directory/dr-tonya-m-shell-phd",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Derek P. Siegel",
+          "title": "Assistant Professor",
+          "email": "dsiegel@odu.edu",
+          "research_interests": "Race, Gender, and Class; Family; Medical Sociology; LGBTQ Studies; Feminist Theory; Qualitative Methods",
+          "profile_url": "https://www.odu.edu/directory/derek-p-siegel",
           "crimrxiv_member": false
         },
         {
@@ -1734,6 +1748,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Tracy Sohoni",
+          "title": "Associate Professor",
+          "email": "tsohoni@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/tracy-sohoni",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Brittany Suh",
+          "title": "Assistant Professor",
+          "email": "bsuh@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/brittany-suh",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Charles Thomas",
           "title": "Adjunct Instructional Faculty",
           "email": "c3thomas@odu.edu",
@@ -1742,32 +1772,57 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Paul Leccese",
-          "title": "Adjunct Instructional Faculty",
-          "email": "pleccese@odu.edu",
+          "name": "Victoria Time",
+          "title": "Professor",
+          "email": "vtime@odu.edu",
           "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/paul-leccese",
+          "profile_url": "https://www.odu.edu/directory/victoria-time",
           "crimrxiv_member": false
         },
         {
-          "name": "Lucien Lombardo",
-          "title": "Adjunct Instructional Faculty",
-          "email": "llombard@odu.edu",
+          "name": "Ruth Triplett",
+          "title": "Professor & Chair",
+          "email": "rtriplet@odu.edu",
           "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/lucien-lombardo",
+          "profile_url": "https://www.odu.edu/directory/ruth-triplett",
           "crimrxiv_member": false
         },
         {
-          "name": "Jude Klena",
-          "title": "Adjunct Instructional Faculty",
-          "email": "jklena@odu.edu",
+          "name": "Elizabeth Monk Turner",
+          "title": "Professor",
+          "email": "eturner@odu.edu",
           "research_interests": "",
-          "profile_url": "https://www.odu.edu/directory/jude-klena",
+          "profile_url": "https://www.odu.edu/directory/elizabeth-monk-turner",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Ingrid Whitaker",
+          "title": "Associate Professor",
+          "email": "iwhitake@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/ingrid-whitaker",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Brandi Woodell",
+          "title": "Associate Professor",
+          "email": "bwoodell@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/brandi-woodell",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Xiushi Yang",
+          "title": "Professor",
+          "email": "xyang@odu.edu",
+          "research_interests": "",
+          "profile_url": "https://www.odu.edu/directory/xiushi-yang",
           "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Prairie View A&M University",
@@ -1779,18 +1834,26 @@ window.__DATA__ = {
       "faculty_count": 12,
       "faculty": [
         {
-          "name": "Kareem Jordan",
-          "title": "Professor and Dean",
-          "email": "kljordan@pvamu.edu",
-          "research_interests": "juvenile justice, race and justice issues, juvenile transfer to adult court, sentencing disparities by race/ethnicity",
-          "profile_url": "https://www.pvamu.edu/cojj/faculty-staff/",
+          "name": "Wa'ed Alshoubaki",
+          "title": "Associate Professor of Public Policy",
+          "email": "walshoubaki@pvamu.edu",
+          "research_interests": "Public policy and governance, with emphasis on immigration, refugee studies, and environmental policy",
+          "profile_url": "",
           "crimrxiv_member": false
         },
         {
-          "name": "Nabil Ouassini",
-          "title": "Associate Professor",
-          "email": "nmouassini@pvamu.edu",
-          "research_interests": "Comparative criminal justice/criminology, criminal justice reform, legitimation and legitimacy",
+          "name": "Myrna Cintrón",
+          "title": "Professor and Department Head",
+          "email": "mycintron@pvamu.edu",
+          "research_interests": "Crime/delinquency theory, juvenile gangs, drug use and control, racial/ethnic issues in criminal justice",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Sherrill Morris-Francis",
+          "title": "Assistant Professor",
+          "email": "svmorrisfrancis@pvamu.edu",
+          "research_interests": "Minorities and the Juvenile Justice System, Juvenile Mental Health Issues, Female Juveniles, Domestic Violence",
           "profile_url": "",
           "crimrxiv_member": false
         },
@@ -1803,6 +1866,38 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Robin D. Jackson",
+          "title": "Associate Professor",
+          "email": "rdjackson@pvamu.edu",
+          "research_interests": "Racial/Ethnic and gender issues in the criminal/juvenile justice system",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kareem Jordan",
+          "title": "Professor and Dean",
+          "email": "kljordan@pvamu.edu",
+          "research_interests": "juvenile justice, race and justice issues, juvenile transfer to adult court, sentencing disparities by race/ethnicity",
+          "profile_url": "https://www.pvamu.edu/cojj/faculty-staff/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Mathai Mathew",
+          "title": "Lecturer II",
+          "email": "mvmathew@pvamu.edu",
+          "research_interests": "Criminal Law and Procedure, American Court System, Homeland Security, Transnational Crimes, Constitution",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Nabil Ouassini",
+          "title": "Associate Professor",
+          "email": "nmouassini@pvamu.edu",
+          "research_interests": "Comparative criminal justice/criminology, criminal justice reform, legitimation and legitimacy",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Everette Penn",
           "title": "Associate Professor",
           "email": "ebpenn@pvamu.edu",
@@ -1811,26 +1906,10 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Myrna Cintr\u00f3n",
-          "title": "Professor and Department Head",
-          "email": "mycintron@pvamu.edu",
-          "research_interests": "Crime/delinquency theory, juvenile gangs, drug use and control, racial/ethnic issues in criminal justice",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
           "name": "David A. Rembert",
           "title": "Associate Professor",
           "email": "darembert@pvamu.edu",
           "research_interests": "Juvenile justice, criminal justice and social diversity, police violence, corrections, family law",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Robin D. Jackson",
-          "title": "Associate Professor",
-          "email": "rdjackson@pvamu.edu",
-          "research_interests": "Racial/Ethnic and gender issues in the criminal/juvenile justice system",
           "profile_url": "",
           "crimrxiv_member": false
         },
@@ -1849,34 +1928,11 @@ window.__DATA__ = {
           "research_interests": "Intersectionality of race and gender and how this impacts crime",
           "profile_url": "",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Mathai Mathew",
-          "title": "Lecturer II",
-          "email": "mvmathew@pvamu.edu",
-          "research_interests": "Criminal Law and Procedure, American Court System, Homeland Security, Transnational Crimes, Constitution",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Sherrill Morris-Francis",
-          "title": "Assistant Professor",
-          "email": "svmorrisfrancis@pvamu.edu",
-          "research_interests": "Minorities and the Juvenile Justice System, Juvenile Mental Health Issues, Female Juveniles, Domestic Violence",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Wa'ed Alshoubaki",
-          "title": "Associate Professor of Public Policy",
-          "email": "walshoubaki@pvamu.edu",
-          "research_interests": "Public policy and governance, with emphasis on immigration, refugee studies, and environmental policy",
-          "profile_url": "",
-          "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Rutgers University--Newark",
@@ -1885,8 +1941,24 @@ window.__DATA__ = {
       "faculty_directory_url": "https://rscj.newark.rutgers.edu/people/faculty",
       "extraction_status": "complete",
       "extraction_notes": "Extracted all 23 full-time faculty (including 1 affiliated research faculty and 5 emeriti) from https://rscj.newark.rutgers.edu/people/faculty and all 14 lecturers from https://rscj.newark.rutgers.edu/people/part-time-lecturers/. No pagination or load-more buttons were present. Some emeriti faculty had no title listed on the directory page. Robert Apel's title shown as \"Professor and Undergraduate Program Chair\" was simplified to \"Professor\". Nancy La Vigne listed as \"Dean and Professor\" and Michael Ostermann as \"Professor and MA Program Chair\" - titles simplified to primary rank. Sara Wakefield listed as \"Professor and PhD Program Chair\". Elizabeth Griffiths listed as \"Professor and Faculty Chair\".",
-      "faculty_count": 43,
+      "faculty_count": 53,
       "faculty": [
+        {
+          "name": "Beth Adubato",
+          "title": "Lecturer",
+          "email": "badubato@scj.rutgers.edu",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/beth-adubato/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Diba Ahmadirouzbahani",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/diba-ahmadirouzbahani/",
+          "crimrxiv_member": false
+        },
         {
           "name": "Robert Apel",
           "title": "Professor",
@@ -1904,7 +1976,15 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Valerio Ba\u0107ak",
+          "name": "Fabian Armilla",
+          "title": "Lecturer",
+          "email": "farmilla20@gmail.com",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/fabian-armilla/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Valerio Baćak",
           "title": "Associate Professor",
           "email": "vb302@scj.rutgers.edu",
           "research_interests": "Health and Criminal Justice, Human Rights, Comparative Criminology, Drug Policy, Quantitative Methods",
@@ -1928,6 +2008,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Paul Boxer",
+          "title": "Professor of Psychology",
+          "email": "pboxer@rutgers.edu",
+          "research_interests": "Juvenile Delinquency, Juvenile Justice",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-paul-boxer/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jennifer Brandt",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/jennifer-brandt/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Joel Caplan",
           "title": "Professor",
           "email": "jcaplan@scj.rutgers.edu",
@@ -1944,6 +2040,38 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Todd Clear",
+          "title": "University Professor",
+          "email": "tclear@scj.rutgers.edu",
+          "research_interests": "Corrections, Mass Incarceration, Sentencing, Alternatives to Incarceration",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-todd-clear/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Glenn Dinetz",
+          "title": "Lecturer",
+          "email": "gdinetz@greystoneintel.com",
+          "research_interests": "Identity Theft, Money Laundering, Financial Crime",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/glenn-dinetz/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Suray Duygulu",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/suray-duygulu/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "John Eck",
+          "title": "Lecturer",
+          "email": "john.eck@gmail.com",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/john-eck/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Frank Edwards",
           "title": "Associate Professor",
           "email": "frank.edwards@rutgers.edu",
@@ -1952,11 +2080,35 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Alex Gimenez-Santana",
-          "title": "Assistant Professor of Professional Practice",
-          "email": "alejandro.gimenez@rutgers.edu",
-          "research_interests": "Crime Mapping, GIS, Neighborhood Effects on Crime, International Comparative Studies",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-alex-gimenez-santana/",
+          "name": "James O. Finckenauer",
+          "title": "",
+          "email": "finckena@scarletmail.rutgers.edu",
+          "research_interests": "Organized Crime, International & Comparative Crime and Justice, Juvenile Delinquency, Juvenile Justice, Crime Policy, Planning & Evaluation, Sentencing",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-james-o-finckenauer/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Katarzyna Gershman",
+          "title": "Lecturer",
+          "email": "kg564@scj.rutgers.edu",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/katarzyna-gershman/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Nicholas Goldrosen",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Sentencing; law enforcement misconduct; prosecutorial discretion; criminal justice reform",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/nicholas-goldrosen/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Robert Gonzalez",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/robert-gonzalez/",
           "crimrxiv_member": false
         },
         {
@@ -1968,11 +2120,35 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Nancy La Vigne",
-          "title": "Dean and Professor",
-          "email": "nancy.lavigne@rutgers.edu",
-          "research_interests": "Crime Prevention, Spatial Analysis, Policing, Corrections and Reentry, Criminal Justice Technologies",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-nancy-la-vigne/",
+          "name": "Rafael Heredia",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/rafael-heredia/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Leslie Kennedy",
+          "title": "",
+          "email": "les.kennedy@rutgers.edu",
+          "research_interests": "Risk Assessment, Crime Mapping, Data Informed Community Engagement",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/kennedy-leslie/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jedidiah Knode",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Institutional roles in distributing inequality across neighborhoods and the criminal justice system; reducing barriers between research, communities, and practitioners",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/jedidiah-knode/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Tanvi Kothari",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/tanvi-kothari/",
           "crimrxiv_member": false
         },
         {
@@ -1981,6 +2157,30 @@ window.__DATA__ = {
           "email": "pl632@scj.rutgers.edu",
           "research_interests": "Incarceration & Reentry, Life Course, Gender & Crime",
           "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/pilar-larroulet/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Matthew Larson",
+          "title": "Associate Professor of Research",
+          "email": "",
+          "research_interests": "Managing Director of the CLEAR Institute",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/matthew-larson/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Emmanuel Pierre-Louis",
+          "title": "Lecturer",
+          "email": "eplouis23@gmail.com",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/emmanuel-pierre-louis/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Di (Kathy) Mao",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/di-kathy-mao/",
           "crimrxiv_member": false
         },
         {
@@ -2008,11 +2208,43 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Carlos Ortiz",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/carlos-ortiz/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Michael Ostermann",
           "title": "Professor",
           "email": "Michael.Ostermann@rutgers.edu",
           "research_interests": "Evidence-based crime policy, Reentry, Parole, Corrections, Program evaluation, Risk assessment, Translational criminology",
           "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-michael-ostermann/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Leah Ouellet",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Punishment; sentencing policy; penal reform; life sentencing practices for youth; evidence-based approaches to humane and effective justice policy",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/leah-ouellet/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Tatiana Padilla",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Immigration, policy analysis and management; how immigration enforcement produces and reinforces inequality across race, ethnicity, and legal status, with implications for health, institutional access, and legal-system case outcomes.",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/tatiana-padilla/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Hyoungah Park",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/hyoungah-park/",
           "crimrxiv_member": false
         },
         {
@@ -2032,6 +2264,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Gina Robertiello",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/gina-robertiello/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Ebony Ruhland",
           "title": "Associate Professor",
           "email": "er781@scj.rutgers.edu",
@@ -2048,6 +2288,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Norman Samuels",
+          "title": "University Professor",
+          "email": "samuelsn@scj.rutgers.edu",
+          "research_interests": "Terrorism & Counter-Terrorism, Security & Intelligence Studies, International Crime",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/samuels-norman/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Alex Gimenez-Santana",
+          "title": "Associate Professor of Professional Practice",
+          "email": "alejandro.gimenez@rutgers.edu",
+          "research_interests": "Crime Mapping, GIS, Neighborhood Effects on Crime, International Comparative Studies",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-alex-gimenez-santana/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Jason Silver",
           "title": "Associate Professor",
           "email": "jason.r.silver@rutgers.edu",
@@ -2056,59 +2312,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Bonita Veysey",
-          "title": "Professor",
-          "email": "veysey@scj.rutgers.edu",
-          "research_interests": "Transformation and Reform, Criminal Identity, Implicit Social Cognition, Gender Stereotypes, Mental Health and Trauma-Informed Care",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/veysey-bonita/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Sara Wakefield",
-          "title": "Professor",
-          "email": "sara.wakefield@rutgers.edu",
-          "research_interests": "Incarceration and Reentry, Stratification and Inequality, Life Course, Family and Childhood Wellbeing, Methods",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/sara-wakefield/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Paul Boxer",
-          "title": "Professor of Psychology",
-          "email": "pboxer@rutgers.edu",
-          "research_interests": "Juvenile Delinquency, Juvenile Justice",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-paul-boxer/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Todd Clear",
-          "title": "University Professor",
-          "email": "tclear@scj.rutgers.edu",
-          "research_interests": "Corrections, Mass Incarceration, Sentencing, Alternatives to Incarceration",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-todd-clear/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "James O. Finckenauer",
-          "title": "",
-          "email": "finckena@scarletmail.rutgers.edu",
-          "research_interests": "Organized Crime, International & Comparative Crime and Justice, Juvenile Delinquency, Juvenile Justice, Crime Policy, Planning & Evaluation, Sentencing",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-james-o-finckenauer/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Leslie Kennedy",
-          "title": "",
-          "email": "les.kennedy@rutgers.edu",
-          "research_interests": "Risk Assessment, Crime Mapping, Data Informed Community Engagement",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/kennedy-leslie/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Norman Samuels",
-          "title": "University Professor",
-          "email": "samuelsn@scj.rutgers.edu",
-          "research_interests": "Terrorism & Counter-Terrorism, Security & Intelligence Studies, International Crime",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/samuels-norman/",
+          "name": "Howard Spieler",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/howard-spieler/",
           "crimrxiv_member": false
         },
         {
@@ -2120,94 +2328,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Beth Adubato",
-          "title": "Lecturer",
-          "email": "badubato@scj.rutgers.edu",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/beth-adubato/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Fabian Armilla",
-          "title": "Lecturer",
-          "email": "farmilla20@gmail.com",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/fabian-armilla/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Glenn Dinetz",
-          "title": "Lecturer",
-          "email": "gdinetz@greystoneintel.com",
-          "research_interests": "Identity Theft, Money Laundering, Financial Crime",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/glenn-dinetz/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "John Eck",
-          "title": "Lecturer",
-          "email": "john.eck@gmail.com",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/john-eck/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Douglas Evans",
-          "title": "Lecturer",
-          "email": "devans@jjay.cuny.edu",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/douglas-evans/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Katarzyna Gershman",
-          "title": "Lecturer",
-          "email": "kg564@scj.rutgers.edu",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/katarzyna-gershman/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Arlana Henry",
-          "title": "Lecturer",
-          "email": "ah1113@rutgers.edu",
-          "research_interests": "Victimization, Gun Violence, Qualitative Research Methods, Incarceration and Reentry, Race and Inequality",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/arlana-henry/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Carolyn Murray",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/carolyn-murray/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Emmanuel Pierre-Louis",
-          "title": "Lecturer",
-          "email": "eplouis23@gmail.com",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/emmanuel-pierre-louis/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Carolina Ribeiro Caliman",
-          "title": "Lecturer",
-          "email": "cr859@scj.rutgers.edu",
-          "research_interests": "Courts and Sentencing, Drug-related Crimes, Punishment Practices",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/carolina-ribeiro-caliman/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Merin Sanil",
-          "title": "Lecturer",
-          "email": "ms2222@scj.rutgers.edu",
-          "research_interests": "Psychopathy and Offending, Morality and Criminal Decision Making, Life-Course Developmental Criminology",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/merin-sanil/",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Nicole Swiderski",
           "title": "Lecturer",
           "email": "nmsachs@gmail.com",
@@ -2216,24 +2336,41 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "William Walsh",
+          "name": "Kishani Udugampola",
           "title": "Lecturer",
-          "email": "walsh3477@gmail.com",
+          "email": "",
           "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/william-walsh/",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/kishani-udugampola-2/",
           "crimrxiv_member": false
         },
         {
-          "name": "Shaun Winter",
-          "title": "Lecturer",
-          "email": "shaunpwinter@yahoo.com",
-          "research_interests": "",
-          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/shaun-winter/",
+          "name": "Bonita Veysey",
+          "title": "Professor",
+          "email": "veysey@scj.rutgers.edu",
+          "research_interests": "Transformation and Reform, Criminal Identity, Implicit Social Cognition, Gender Stereotypes, Mental Health and Trauma-Informed Care",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/veysey-bonita/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Nancy La Vigne",
+          "title": "Dean and Professor",
+          "email": "nancy.lavigne@rutgers.edu",
+          "research_interests": "Crime Prevention, Spatial Analysis, Policing, Corrections and Reentry, Criminal Justice Technologies",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/dr-nancy-la-vigne/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Sara Wakefield",
+          "title": "Professor",
+          "email": "sara.wakefield@rutgers.edu",
+          "research_interests": "Incarceration and Reentry, Stratification and Inequality, Life Course, Family and Childhood Wellbeing, Methods",
+          "profile_url": "https://rscj.newark.rutgers.edu/people/faculty/sara-wakefield/",
           "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Sam Houston State University",
@@ -2241,9 +2378,17 @@ window.__DATA__ = {
       "department_homepage": "https://www.shsu.edu/academics/colleges/criminal-justice/criminal-justice-criminology/index.php",
       "faculty_directory_url": "https://cj.shsu.edu/_inc/dir.php",
       "extraction_status": "complete",
-      "extraction_notes": "Extracted 65 faculty members from all departments (Criminal Justice & Criminology, Forensic Science, Security Studies, Victim Studies) plus research centers. Excluded adjunct/clinical faculty, PhD/Masters students, and pure administrative staff. Emails and research interests were not extracted from individual profile pages (only one sample profile visited); they are available on each profile page linked. The directory has no pagination \u2014 all content loaded on a single page.",
+      "extraction_notes": "Extracted 65 faculty members from all departments (Criminal Justice & Criminology, Forensic Science, Security Studies, Victim Studies) plus research centers. Excluded adjunct/clinical faculty, PhD/Masters students, and pure administrative staff. Emails and research interests were not extracted from individual profile pages (only one sample profile visited); they are available on each profile page linked. The directory has no pagination — all content loaded on a single page.",
       "faculty_count": 66,
       "faculty": [
+        {
+          "name": "Jeremiah O. Asaka",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Environmental security, human security, environmental conflict and peacemaking, resource nexus (water-energy-food), conservation governance, climate change, wildlife conservation, security studies",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=341",
+          "crimrxiv_member": false
+        },
         {
           "name": "Andia Azimi",
           "title": "Associate Professor",
@@ -2266,6 +2411,38 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "life-course/developmental criminology, biosocial criminology, behavioral genetics, genetic and environmental influences on delinquent and criminal behaviors",
           "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=560",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Mary Breaux",
+          "title": "Professor of Practice and Director of CVI",
+          "email": "",
+          "research_interests": "Child abuse, neglect, elder mistreatment, elder abuse, victim services, community engagement, domestic violence",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=299",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Patrick Buzzini",
+          "title": "Professor",
+          "email": "",
+          "research_interests": "Forensic applications of microscopical and instrumental analysis methods; trace materials analysis (paint, fibers, glass); questioned documents and ink analysis; crime reconstruction; micro Raman spectroscopy; dichroism and UV-Vis microspectrophotometry; physical evidence interpretation",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=404",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Eduardo G. De Campos",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Forensic toxicology, analytical method development for controlled substances and NPS, in silico prediction of chemical/toxicological data, characterization of NPS in drug materials, in vitro metabolism studies of NPS",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=384",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Shelly Clevenger",
+          "title": "Chair/Professor",
+          "email": "",
+          "research_interests": "Victimization (in-person and online), Criminology",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=467",
           "crimrxiv_member": false
         },
         {
@@ -2301,11 +2478,35 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Edward Gallagher III",
-          "title": "Assistant Professor of Practice",
+          "name": "J. Tyler Davidson",
+          "title": "Assistant Professor and Graduate Program Director",
+          "email": "",
+          "research_interests": "Seized drug analysis and toxicology; identification of novel psychoactive substances (NPS); gas chromatography-electron ionization mass spectrometry (GC-EI-MS); multivariate analysis of electron ionization mass spectra (EI-MS); ambient ionization mass spectrometry (AI-MS); fragmentation mechanisms; novel synthetic drug identification",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=452",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Magdalena Denham",
+          "title": "Professor of Practice",
+          "email": "",
+          "research_interests": "Emergency management, disaster risk reduction, homeland security, comparative homeland security, leadership and management, policing, intelligence, school violence, mass emergencies and disasters, safety and security engineering",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=302",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Mayra Eduardoff",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Forensic genetics, human identification, ancestry and phenotype prediction, DNA typing technologies, massively parallel sequencing, DNA extraction from degraded remains, bioinformatics, large-scale identification events",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=425",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jessica Fleming",
+          "title": "Assistant Professor",
           "email": "",
           "research_interests": "",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=580",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=348",
           "crimrxiv_member": false
         },
         {
@@ -2314,6 +2515,14 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Social influence, persuasion, leadership, criminal justice, behavioral sciences, community policing, law enforcement management",
           "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=82",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Shelby Garza",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "human variation and adaptation, forensic anthropology, human osteology, skeletal methods, human remains recovery, identification of unknown decedents",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=571",
           "crimrxiv_member": false
         },
         {
@@ -2341,11 +2550,43 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Larry T. Hoover",
+          "title": "Director",
+          "email": "",
+          "research_interests": "Police response to persons with mental illness; police management; police program evaluation; quality control in policing; crime data and crime reduction; policing technology; information systems in law enforcement; GIS in law enforcement; law enforcement executive certification standards",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=106",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Rachel Houston",
+          "title": "Associate Professor, Online Program Director",
+          "email": "",
+          "research_interests": "Human identification; forensic genetics; non-human forensic genetics; direct PCR; forensic plant science; cannabis genetics; alternate DNA markers (INDELs, SNPs, INNULs); Massively Parallel Sequencing (MPS)",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=395",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Sheree Hughes",
+          "title": "Chair, Director of the Southeast Texas Applied Forensic Science (STAFS) Facility, and Professor",
+          "email": "",
+          "research_interests": "Forensic DNA typing of highly degraded samples, DNA repair techniques, phenotypic SNP analysis, forensic anthropology, human identification, forensic intelligence, disaster victim identification, alternate DNA markers (INDELs, SNPs), Next Generation Sequencing (NGS), Massively Parallel Sequencing (MPS), touch DNA, body fluid identification (miRNA)",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=326",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Laura Iesue",
           "title": "Assistant Professor",
           "email": "",
           "research_interests": "Global & Comparative Justice and Criminology; Criminology & War; Migration, Displacement, Refugee Studies; Democratic Policing; Conflict and Violence; Project Evaluation and Implementation; Gender-Based Violence",
           "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=506",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Edward Gallagher III",
+          "title": "Assistant Professor of Practice",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=580",
           "crimrxiv_member": false
         },
         {
@@ -2365,6 +2606,30 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Nathan Jones",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "organized crime violence in Mexico, drug trafficking organizations, social network analysis, border security, political economy of homeland security",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=360",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Tim Kalafut",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "Complex DNA mixture interpretation; DNA transfer, persistence, prevalence, recovery; activity level propositions; probabilistic genotyping; Next Generation Sequencing (NGS) for forensic intelligence; DNA evidence presentation in court",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=474",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Sarah Kerrigan",
+          "title": "Director of the Institute for Forensic Research, Training and Innovation and Professor",
+          "email": "",
+          "research_interests": "forensic science reform, quality assurance, accreditation, leadership in forensic sciences, laboratory administration, forensic toxicology, new psychoactive substances (NPSs), designer drugs, human performance toxicology, behavioral toxicology, impaired driving",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=492",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Bitna Kim",
           "title": "Professor, Director of International Initiatives",
           "email": "",
@@ -2378,6 +2643,14 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "",
           "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=475",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Eroll Kuhn",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=554",
           "crimrxiv_member": false
         },
         {
@@ -2413,6 +2686,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Russell Lundberg",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "risk and perception of risk, aviation and postal security effectiveness, analyses of terrorist events, link between crime and drugs, law enforcement intelligence, corrections",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=361",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Fei Luo",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=468",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Phillip Lyons",
           "title": "Dean",
           "email": "",
@@ -2434,6 +2723,38 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "psychological assessment; malingered mental illness; psychopathy; offender risk/need assessment; sexual offenders; law enforcement leadership assessment; human diversity training",
           "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=168",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Geraldine Monjardez",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Analytical chemistry (Spectroscopy), trace evidence, forensic field detection of trace materials, SERS (Surface Enhanced Raman Spectroscopy), automotive greases, explosives, chemical contaminants in food and biological matrices",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=343",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Nadav Morag",
+          "title": "Professor and Chair",
+          "email": "",
+          "research_interests": "Homeland security, terrorism, national security policy, counterterrorism, Middle East security, bilateral security relations",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=412",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Janet Mullings",
+          "title": "Professor Emeritus",
+          "email": "",
+          "research_interests": "Corrections, women in prison, sexual assault, intimate partner violence, child abuse and neglect, victimology, family violence, violence against women",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=521",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Philip Mulvey",
+          "title": "Associate Professor & Victim Services Management Program Coordinator",
+          "email": "",
+          "research_interests": "experiences of vulnerable and marginalized individuals, mental health system, coercive criminal justice social control, qualitative and field research methodologies, program evaluation, military veterans, justice policy",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=409",
           "crimrxiv_member": false
         },
         {
@@ -2493,6 +2814,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Kathleen Ratajczak",
+          "title": "Assistant Professor & Undergraduate Program Coordinator",
+          "email": "",
+          "research_interests": "Sexual and gender-based violence, help-seeking behaviors after victimization, feminist theory, feminist jurisprudence, Title IX policy, masculinity theory, violence against women",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=352",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Mitchel Roth",
           "title": "Professor",
           "email": "",
@@ -2517,6 +2846,30 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Heather Alaniz-Salas",
+          "title": "Senior Lecturer, COCJ Internships & Career Services Director",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=512",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Britni Skillman",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Forensic Toxicology, Novel Psychoactive Substances, Sedative Hypnotics, Liquid Chromatography, High Resolution Mass Spectrometry, Method Development and Validation",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=367",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Gary Smith",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "Database interfaces, GPS module design and operation, CRIMES",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=310",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Michael Vaughn",
           "title": "Professor",
           "email": "",
@@ -2530,6 +2883,14 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "",
           "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=582",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jorn (Chi-Chung) Yu",
+          "title": "Professor",
+          "email": "",
+          "research_interests": "Forensic Chemistry, Chemical Profiling of Marijuana, Headspace Solid Phase Microextraction, Trace Evidence, Crime Scene Management, Crime Scene Chemistry, Separation Science",
+          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=268",
           "crimrxiv_member": false
         },
         {
@@ -2547,234 +2908,11 @@ window.__DATA__ = {
           "research_interests": "Community policing, contemporary policing issues, police confidence, criminal victimization, crime-fear linkage, determinants of police strength, public satisfaction with police",
           "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=270",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Heather Alaniz-Salas",
-          "title": "Senior Lecturer, COCJ Internships & Career Services Director",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=512",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Patrick Buzzini",
-          "title": "Professor",
-          "email": "",
-          "research_interests": "Forensic applications of microscopical and instrumental analysis methods; trace materials analysis (paint, fibers, glass); questioned documents and ink analysis; crime reconstruction; micro Raman spectroscopy; dichroism and UV-Vis microspectrophotometry; physical evidence interpretation",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=404",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "J. Tyler Davidson",
-          "title": "Assistant Professor and Graduate Program Director",
-          "email": "",
-          "research_interests": "Seized drug analysis and toxicology; identification of novel psychoactive substances (NPS); gas chromatography-electron ionization mass spectrometry (GC-EI-MS); multivariate analysis of electron ionization mass spectra (EI-MS); ambient ionization mass spectrometry (AI-MS); fragmentation mechanisms; novel synthetic drug identification",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=452",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Eduardo G. De Campos",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Forensic toxicology, analytical method development for controlled substances and NPS, in silico prediction of chemical/toxicological data, characterization of NPS in drug materials, in vitro metabolism studies of NPS",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=384",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Mayra Eduardoff",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Forensic genetics, human identification, ancestry and phenotype prediction, DNA typing technologies, massively parallel sequencing, DNA extraction from degraded remains, bioinformatics, large-scale identification events",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=425",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Shelby Garza",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "human variation and adaptation, forensic anthropology, human osteology, skeletal methods, human remains recovery, identification of unknown decedents",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=571",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Rachel Houston",
-          "title": "Associate Professor, Online Program Director",
-          "email": "",
-          "research_interests": "Human identification; forensic genetics; non-human forensic genetics; direct PCR; forensic plant science; cannabis genetics; alternate DNA markers (INDELs, SNPs, INNULs); Massively Parallel Sequencing (MPS)",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=395",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Sheree Hughes",
-          "title": "Chair, Director of the Southeast Texas Applied Forensic Science (STAFS) Facility, and Professor",
-          "email": "",
-          "research_interests": "Forensic DNA typing of highly degraded samples, DNA repair techniques, phenotypic SNP analysis, forensic anthropology, human identification, forensic intelligence, disaster victim identification, alternate DNA markers (INDELs, SNPs), Next Generation Sequencing (NGS), Massively Parallel Sequencing (MPS), touch DNA, body fluid identification (miRNA)",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=326",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Tim Kalafut",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "Complex DNA mixture interpretation; DNA transfer, persistence, prevalence, recovery; activity level propositions; probabilistic genotyping; Next Generation Sequencing (NGS) for forensic intelligence; DNA evidence presentation in court",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=474",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Geraldine Monjardez",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Analytical chemistry (Spectroscopy), trace evidence, forensic field detection of trace materials, SERS (Surface Enhanced Raman Spectroscopy), automotive greases, explosives, chemical contaminants in food and biological matrices",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=343",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Britni Skillman",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Forensic Toxicology, Novel Psychoactive Substances, Sedative Hypnotics, Liquid Chromatography, High Resolution Mass Spectrometry, Method Development and Validation",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=367",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jorn (Chi-Chung) Yu",
-          "title": "Professor",
-          "email": "",
-          "research_interests": "Forensic Chemistry, Chemical Profiling of Marijuana, Headspace Solid Phase Microextraction, Trace Evidence, Crime Scene Management, Crime Scene Chemistry, Separation Science",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=268",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jeremiah O. Asaka",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Environmental security, human security, environmental conflict and peacemaking, resource nexus (water-energy-food), conservation governance, climate change, wildlife conservation, security studies",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=341",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Magdalena Denham",
-          "title": "Professor of Practice",
-          "email": "",
-          "research_interests": "Emergency management, disaster risk reduction, homeland security, comparative homeland security, leadership and management, policing, intelligence, school violence, mass emergencies and disasters, safety and security engineering",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=302",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Nathan Jones",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "organized crime violence in Mexico, drug trafficking organizations, social network analysis, border security, political economy of homeland security",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=360",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Eroll Kuhn",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=554",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Russell Lundberg",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "risk and perception of risk, aviation and postal security effectiveness, analyses of terrorist events, link between crime and drugs, law enforcement intelligence, corrections",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=361",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Nadav Morag",
-          "title": "Professor and Chair",
-          "email": "",
-          "research_interests": "Homeland security, terrorism, national security policy, counterterrorism, Middle East security, bilateral security relations",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=412",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Shelly Clevenger",
-          "title": "Chair/Professor",
-          "email": "",
-          "research_interests": "Victimization (in-person and online), Criminology",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=467",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Mary Breaux",
-          "title": "Professor of Practice and Director of CVI",
-          "email": "",
-          "research_interests": "Child abuse, neglect, elder mistreatment, elder abuse, victim services, community engagement, domestic violence",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=299",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jessica Fleming",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=348",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Fei Luo",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=468",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Philip Mulvey",
-          "title": "Associate Professor & Victim Services Management Program Coordinator",
-          "email": "",
-          "research_interests": "experiences of vulnerable and marginalized individuals, mental health system, coercive criminal justice social control, qualitative and field research methodologies, program evaluation, military veterans, justice policy",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=409",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Kathleen Ratajczak",
-          "title": "Assistant Professor & Undergraduate Program Coordinator",
-          "email": "",
-          "research_interests": "Sexual and gender-based violence, help-seeking behaviors after victimization, feminist theory, feminist jurisprudence, Title IX policy, masculinity theory, violence against women",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=352",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Janet Mullings",
-          "title": "Professor Emeritus",
-          "email": "",
-          "research_interests": "Corrections, women in prison, sexual assault, intimate partner violence, child abuse and neglect, victimology, family violence, violence against women",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=521",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Larry T. Hoover",
-          "title": "Director",
-          "email": "",
-          "research_interests": "Police response to persons with mental illness; police management; police program evaluation; quality control in policing; crime data and crime reduction; policing technology; information systems in law enforcement; GIS in law enforcement; law enforcement executive certification standards",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=106",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Gary Smith",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "Database interfaces, GPS module design and operation, CRIMES",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=310",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Sarah Kerrigan",
-          "title": "Director of the Institute for Forensic Research, Training and Innovation and Professor",
-          "email": "",
-          "research_interests": "forensic science reform, quality assurance, accreditation, leadership in forensic sciences, laboratory administration, forensic toxicology, new psychoactive substances (NPSs), designer drugs, human performance toxicology, behavioral toxicology, impaired driving",
-          "profile_url": "https://cj.shsu.edu/_inc/dir.php?mode=view&item=492",
-          "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Temple University",
@@ -2954,7 +3092,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "E. Rely V\u00eelcic\u0103",
+          "name": "E. Rely Vîlcică",
           "title": "Associate Professor",
           "email": "",
           "research_interests": "Courts and Corrections, Justice Decision Making, Criminal Processing, Adjudication and Punishment, Policy Analysis, Comparative Criminal Justice",
@@ -2995,11 +3133,12 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Texas Southern University",
-      "department_name": "Department of Administration of Justice, Barbara Jordan\u2013Mickey Leland School of Public Affairs, Texas Southern University",
+      "department_name": "Department of Administration of Justice, Barbara Jordan–Mickey Leland School of Public Affairs, Texas Southern University",
       "department_homepage": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/index.php",
       "faculty_directory_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty.php",
       "extraction_status": "complete",
@@ -3015,38 +3154,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Jasmine Drake",
-          "title": "Associate Professor",
-          "email": "jasmine.drake@tsu.edu",
-          "research_interests": "Texas Forensics Science Commissioner, Laboratory Coordinator of the Forensic Science Learning Laboratory",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ihekwoaba Onwudiwe",
-          "title": "Professor",
-          "email": "declan.onwudiwe@tsu.edu",
-          "research_interests": "African Criminology, Community Policing, Counter Insurgency Policing, Homeland Security, Human Trafficking, Security Strategies and Intelligence, Terrorism, Theories of Crime and Justice",
-          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-ihekwoaba-onwudiwe.php",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Howard Henderson",
-          "title": "Founding Director - Center for Justice Research",
-          "email": "howard.henderson@tsu.edu",
-          "research_interests": "culturally responsive criminal justice research, program evaluation, predictive bias, risk assessment instruments, racial disparities",
-          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-howard-henderson.php",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ashraf Mozayani",
-          "title": "",
-          "email": "ashraf.mozayani@tsu.edu",
-          "research_interests": "forensic science leadership, accreditation, criminal justice reform, forensic toxicology, postmortem toxicology, drug interactions, impaired driving",
-          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-ashraf-mozayani.php",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Anita Kalunta Crumpton",
           "title": "Professor",
           "email": "anita.kalunta-crumpton@tsu.edu",
@@ -3055,11 +3162,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Robert M Mupier",
+          "name": "Jasmine Drake",
           "title": "Associate Professor",
-          "email": "robert.mupier@tsu.edu",
-          "research_interests": "Afro Centrism and Criminality, Economics of Crime, Global Terrorism and Security in Africa, Program Evaluation, Quantitative Methods, Statistical Analysis",
-          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-robert-mupier.php",
+          "email": "jasmine.drake@tsu.edu",
+          "research_interests": "Texas Forensics Science Commissioner, Laboratory Coordinator of the Forensic Science Learning Laboratory",
+          "profile_url": "",
           "crimrxiv_member": false
         },
         {
@@ -3068,6 +3175,14 @@ window.__DATA__ = {
           "email": "sharlette.gilbert@tsu.edu",
           "research_interests": "Internship Coordinator",
           "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Howard Henderson",
+          "title": "Founding Director - Center for Justice Research",
+          "email": "howard.henderson@tsu.edu",
+          "research_interests": "culturally responsive criminal justice research, program evaluation, predictive bias, risk assessment instruments, racial disparities",
+          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-howard-henderson.php",
           "crimrxiv_member": false
         },
         {
@@ -3085,10 +3200,35 @@ window.__DATA__ = {
           "research_interests": "Graduate Program Director and eMAJ Program Coordinator",
           "profile_url": "",
           "crimrxiv_member": false
+        },
+        {
+          "name": "Ashraf Mozayani",
+          "title": "",
+          "email": "ashraf.mozayani@tsu.edu",
+          "research_interests": "forensic science leadership, accreditation, criminal justice reform, forensic toxicology, postmortem toxicology, drug interactions, impaired driving",
+          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-ashraf-mozayani.php",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Robert M Mupier",
+          "title": "Associate Professor",
+          "email": "robert.mupier@tsu.edu",
+          "research_interests": "Afro Centrism and Criminality, Economics of Crime, Global Terrorism and Security in Africa, Program Evaluation, Quantitative Methods, Statistical Analysis",
+          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-robert-mupier.php",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Ihekwoaba Onwudiwe",
+          "title": "Professor",
+          "email": "declan.onwudiwe@tsu.edu",
+          "research_interests": "African Criminology, Community Policing, Counter Insurgency Policing, Homeland Security, Human Trafficking, Security Strategies and Intelligence, Terrorism, Theories of Crime and Justice",
+          "profile_url": "https://tsu.edu/academics/colleges-and-schools/bjml-school-public-affairs/departments/administration-of-justice/faculty-bio/bio-ihekwoaba-onwudiwe.php",
+          "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Arkansas--Little Rock",
@@ -3097,14 +3237,38 @@ window.__DATA__ = {
       "faculty_directory_url": "https://ualr.edu/criminaljustice/faculty/",
       "extraction_status": "complete",
       "extraction_notes": "Extracted all faculty and emeritus professors from the page. Excluded staff (Justin Williams, Nina Hale). Emails not available on directory page for most faculty; emeritus faculty emails were listed. Research interests were truncated where shown with ellipsis on the page.",
-      "faculty_count": 16,
+      "faculty_count": 18,
       "faculty": [
+        {
+          "name": "Tusty ten Bensel",
+          "title": "Professor",
+          "email": "",
+          "research_interests": "Violence and Victimization; Crime Against Special Populations; Program Evaluation",
+          "profile_url": "https://ualr.edu/criminaljustice/faculty/tusty-ten-bensel/",
+          "crimrxiv_member": false
+        },
         {
           "name": "Michael R. Cavanaugh",
           "title": "Associate Professor",
           "email": "",
           "research_interests": "Policy; Guns; Criminal Justice Education; Program Evaluation",
           "profile_url": "https://ualr.edu/criminaljustice/michael-cavanaugh/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jim Golden",
+          "title": "Professor (Emeritus)",
+          "email": "jwgolden@ualr.edu",
+          "research_interests": "Policing, Community-Oriented Policing",
+          "profile_url": "https://ualr.edu/criminaljustice/jim-golden/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Misty Ladd",
+          "title": "Professional Instructor",
+          "email": "",
+          "research_interests": "Forensic Psychology; Shift Work and Burnout; Security Management and Investigations",
+          "profile_url": "https://ualr.edu/criminaljustice/misty-ladd/",
           "crimrxiv_member": false
         },
         {
@@ -3116,19 +3280,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "David R. Montague",
-          "title": "Professor",
+          "name": "Robert \"Bob\" Lytle",
+          "title": "Associate Professor",
           "email": "",
-          "research_interests": "Policy and Administration; Prison Education; JFK Assassination",
-          "profile_url": "https://ualr.edu/criminaljustice/faculty/montague/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Tusty ten Bensel",
-          "title": "Professor",
-          "email": "",
-          "research_interests": "Violence and Victimization; Crime Against Special Populations; Program Evaluation",
-          "profile_url": "https://ualr.edu/criminaljustice/faculty/tusty-ten-bensel/",
+          "research_interests": "Institutional and Community Corrections; Criminal Justice Policy Process; Applied Research",
+          "profile_url": "https://ualr.edu/criminaljustice/faculty/bob-lytle/",
           "crimrxiv_member": false
         },
         {
@@ -3140,19 +3296,51 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Molly Smith",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "Victimization; Human Trafficking; Institutional Corrections; Correctional Healthcare",
-          "profile_url": "https://ualr.edu/criminaljustice/faculty/molly-smith/",
+          "name": "Katelyn McMahon",
+          "title": "Assistant Professor",
+          "email": "kmcmahon1@ualr.edu",
+          "research_interests": "Victimology; Police Response to Sexual Assault; Mental Health",
+          "profile_url": "https://directory.ualr.edu/search?p=4895",
           "crimrxiv_member": false
         },
         {
-          "name": "Robert \"Bob\" Lytle",
-          "title": "Associate Professor",
+          "name": "David R. Montague",
+          "title": "Professor",
           "email": "",
-          "research_interests": "Institutional and Community Corrections; Criminal Justice Policy Process; Applied Research",
-          "profile_url": "https://ualr.edu/criminaljustice/faculty/bob-lytle/",
+          "research_interests": "Policy and Administration; Prison Education; JFK Assassination",
+          "profile_url": "https://ualr.edu/criminaljustice/faculty/montague/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Haley Moon",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Legal Decision Making; Sentencing and Punishment; Mental Health and Legal System Interaction",
+          "profile_url": "https://ualr.edu/criminaljustice/haley-moon/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Mary Parker",
+          "title": "Professor (Emeritus)",
+          "email": "mlparker@ualr.edu",
+          "research_interests": "Institutional and Community Corrections, Teaching Strategies",
+          "profile_url": "https://ualr.edu/criminaljustice/faculty/parker/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Cameron Price",
+          "title": "Professional Instructor",
+          "email": "",
+          "research_interests": "Juvenile Justice; Violence against Women and Children; Sex Crimes; Police Education and Training; Forensic Psychology; Criminal Justice",
+          "profile_url": "https://ualr.edu/criminaljustice/people/cameron-price/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kilby Raptopoulos",
+          "title": "Senior Instructor",
+          "email": "",
+          "research_interests": "Violence and Victimization; Sex Offenders; Media Portrayal of Victims and Offenders",
+          "profile_url": "https://ualr.edu/criminaljustice/faculty/kilby-raptopoulos/",
           "crimrxiv_member": false
         },
         {
@@ -3172,19 +3360,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Haley Moon",
-          "title": "Assistant Professor",
+          "name": "Molly Smith",
+          "title": "Associate Professor",
           "email": "",
-          "research_interests": "Legal Decision Making; Sentencing and Punishment; Mental Health and Legal System Interaction",
-          "profile_url": "https://ualr.edu/criminaljustice/haley-moon/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Suzanne Coble",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "decision-making in criminal justice, children's testimony, police decisions in sexual violence cases, attorney witness questioning, child sexual abuse trials, victim race in arrests",
-          "profile_url": "https://ualr.edu/criminaljustice/faculty/",
+          "research_interests": "Victimization; Human Trafficking; Institutional Corrections; Correctional Healthcare",
+          "profile_url": "https://ualr.edu/criminaljustice/faculty/molly-smith/",
           "crimrxiv_member": false
         },
         {
@@ -3196,40 +3376,17 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Kilby Raptopoulos",
-          "title": "Senior Instructor",
-          "email": "",
-          "research_interests": "Violence and Victimization; Sex Offenders; Media Portrayal of Victims and Offenders",
-          "profile_url": "https://ualr.edu/criminaljustice/faculty/kilby-raptopoulos/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Misty Ladd",
+          "name": "Justin Williams",
           "title": "Professional Instructor",
           "email": "",
-          "research_interests": "Forensic Psychology; Shift Work and Burnout; Security Management and Investigations",
-          "profile_url": "https://ualr.edu/criminaljustice/misty-ladd/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Mary Parker",
-          "title": "Professor (Emeritus)",
-          "email": "mlparker@ualr.edu",
-          "research_interests": "Institutional and Community Corrections, Teaching Strategies",
-          "profile_url": "https://ualr.edu/criminaljustice/faculty/parker/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jim Golden",
-          "title": "Professor (Emeritus)",
-          "email": "jwgolden@ualr.edu",
-          "research_interests": "Policing, Community-Oriented Policing",
-          "profile_url": "https://ualr.edu/criminaljustice/jim-golden/",
+          "research_interests": "Law Enforcement; Legal Issues; Foundations of the Criminal Justice System",
+          "profile_url": "https://ualr.edu/criminaljustice/people/justin-williams/",
           "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of California--Irvine",
@@ -3238,7 +3395,7 @@ window.__DATA__ = {
       "faculty_directory_url": "https://cls.soceco.uci.edu/faculty",
       "extraction_status": "complete",
       "extraction_notes": "All 30 faculty members extracted from the single-page directory at [UCI CLS Faculty](https://cls.soceco.uci.edu/faculty). No pagination was needed. Some specializations were truncated by the page (indicated by trailing ellipses in source).",
-      "faculty_count": 30,
+      "faculty_count": 29,
       "faculty": [
         {
           "name": "Lee Cabatingan",
@@ -3278,14 +3435,6 @@ window.__DATA__ = {
           "email": "tdalton@uci.edu",
           "research_interests": "food justice, games of chance and the death penalty",
           "profile_url": "http://faculty.sites.uci.edu/tdalton",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Eraldo Souza dos Santos",
-          "title": "Assistant Professor of Criminology, Law & Society",
-          "email": "esouzado@uci.edu",
-          "research_interests": "History of ideas, invention of traditions, politics of translation, civil disobedience, anti-protest rhetoric, Brazilian military dictatorship",
-          "profile_url": "https://eraldosouzadossantos.com/",
           "crimrxiv_member": true
         },
         {
@@ -3338,7 +3487,7 @@ window.__DATA__ = {
         },
         {
           "name": "Nicole Iturriaga",
-          "title": "Assistant Professor of Criminology, Law & Society",
+          "title": "Associate Professor of Criminology, Law & Society",
           "email": "n.iturriaga@uci.edu",
           "research_interests": "science and technology, political sociology, social movements, and human rights",
           "profile_url": "http://www.nicoleiturriaga.com/",
@@ -3346,7 +3495,7 @@ window.__DATA__ = {
         },
         {
           "name": "Valerie Jenness",
-          "title": "Distinguished Professor of Criminology, Law & Society, Sociology, and Nursing Science",
+          "title": "Distinguished Professor Emerita of Criminology, Law & Society, Sociology, and Nursing Science",
           "email": "jenness@uci.edu",
           "research_interests": "links between deviance and social control (especially law); the politics of crime control and criminal justice",
           "profile_url": "http://faculty.sites.uci.edu/jenness",
@@ -3393,19 +3542,11 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Ana Mu\u00f1iz",
+          "name": "Ana Muñiz",
           "title": "Associate Professor of Criminology, Law & Society",
           "email": "anamuniz@uci.edu",
           "research_interests": "gang profiling, youth justice, gang injunctions and databases, immigration enforcement, policing",
           "profile_url": "http://faculty.sites.uci.edu/anamuniz",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Emily Owens",
-          "title": "Chair and Deans' Professor of Criminology, Law & Society and Economics",
-          "email": "egowens@uci.edu",
-          "research_interests": "how government policies affect the prevalence of criminal activity as well as how agents within the criminal justice system behave",
-          "profile_url": "http://faculty.sites.uci.edu/egowens/",
           "crimrxiv_member": true
         },
         {
@@ -3417,6 +3558,22 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Carolina Valdivia Ordorica",
+          "title": "Associate Professor of Criminology, Law & Society",
+          "email": "c.valdivia@uci.edu",
+          "research_interests": "immigration; law and society; race and ethnicity; youth and families; U.S.-Mexico borderlands",
+          "profile_url": "https://carolinavaldivia.org/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Emily Owens",
+          "title": "Chair and Deans' Professor of Criminology, Law & Society and Economics",
+          "email": "egowens@uci.edu",
+          "research_interests": "how government policies affect the prevalence of criminal activity as well as how agents within the criminal justice system behave",
+          "profile_url": "http://faculty.sites.uci.edu/egowens/",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Keramet Reiter",
           "title": "Professor of Criminology, Law & Society and Law",
           "email": "reiterk@uci.edu",
@@ -3425,19 +3582,19 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Nancy Rodriguez",
-          "title": "Professor of Criminology, Law & Society",
-          "email": "rodrign6@uci.edu",
-          "research_interests": "Race, Crime, & Justice; Juvenile Justice; Collateral Consequences of Imprisonment; Criminal Justice",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Mercy Romero",
           "title": "Associate Professor of Criminology, Law and Society",
           "email": "mercyr@uci.edu",
           "research_interests": "built environment, the archives and documents of Black/Latinx transformative art and social movement",
           "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Eraldo Souza dos Santos",
+          "title": "Assistant Professor of Criminology, Law & Society",
+          "email": "esouzado@uci.edu",
+          "research_interests": "History of ideas, invention of traditions, politics of translation, civil disobedience, anti-protest rhetoric, Brazilian military dictatorship",
+          "profile_url": "https://eraldosouzadossantos.com/",
           "crimrxiv_member": true
         },
         {
@@ -3471,18 +3628,11 @@ window.__DATA__ = {
           "research_interests": "criminology, community context of violence, urban youth gangs, homicide studies",
           "profile_url": "http://faculty.sites.uci.edu/tita",
           "crimrxiv_member": true
-        },
-        {
-          "name": "Carolina Valdivia Ordorica",
-          "title": "Assistant Professor of Criminology, Law & Society",
-          "email": "c.valdivia@uci.edu",
-          "research_interests": "immigration; law and society; race and ethnicity; youth and families; U.S.-Mexico borderlands",
-          "profile_url": "https://carolinavaldivia.org/",
-          "crimrxiv_member": true
         }
       ],
       "source": "US News",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Delaware",
@@ -3493,14 +3643,6 @@ window.__DATA__ = {
       "extraction_notes": "Adjunct faculty (Gregory Babowal, Bryn Hill, Kristin Maiden, Branwen McNabb, Dan O'Connell, Kevin O'Connell, Martin O'Connor) were excluded per instructions. Research interests were not listed on the directory page; individual profile pages were not visited to avoid excessive clicking. 23 tenure-track/tenured faculty captured from the Primary Faculty section.",
       "faculty_count": 23,
       "faculty": [
-        {
-          "name": "Jennifer Earl",
-          "title": "Professor",
-          "email": "jearl@udel.edu",
-          "research_interests": "Social movements, sociology of law, digital and social media",
-          "profile_url": "https://www.udel.edu/academics/colleges/cas/units/departments/sociology-and-criminal-justice/our-people/Jennifer-earl/",
-          "crimrxiv_member": false
-        },
         {
           "name": "Tammy L. Anderson",
           "title": "Professor of Sociology & Criminal Justice",
@@ -3550,6 +3692,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Jennifer Earl",
+          "title": "Professor",
+          "email": "jearl@udel.edu",
+          "research_interests": "Social movements, sociology of law, digital and social media",
+          "profile_url": "https://www.udel.edu/academics/colleges/cas/units/departments/sociology-and-criminal-justice/our-people/Jennifer-earl/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Mieke Eeckhaut",
           "title": "Associate Professor of Sociology & Criminal Justice",
           "email": "eeckhaut@udel.edu",
@@ -3566,16 +3716,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Benjamin Fleury-Steiner",
-          "title": "Professor of Sociology & Criminal Justice",
-          "email": "bfs@udel.edu",
-          "research_interests": "racial and ethnic inequality in criminal justice, death penalty judgments, identity politics of criminal justice policy, social control, drug addiction and opioid epidemic, stigma, governance of historically marginalized groups",
-          "profile_url": "https://www.udel.edu/academics/colleges/cas/units/departments/sociology-and-criminal-justice/our-people/ben-fleury-steiner/",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Asia Friedman",
-          "title": "Professor",
+          "title": "Associate Chair of Sociology & Criminal Justice; Professor",
           "email": "asiaf@udel.edu",
           "research_interests": "Cultural sociology; cognitive and sensory underpinnings of social construction; gender; race; the body; medicine; sociological theory",
           "profile_url": "https://www.udel.edu/academics/colleges/cas/units/departments/sociology-and-criminal-justice/our-people/asia-friedman/",
@@ -3654,6 +3796,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Benjamin Fleury-Steiner",
+          "title": "Professor of Sociology & Criminal Justice",
+          "email": "bfs@udel.edu",
+          "research_interests": "racial and ethnic inequality in criminal justice, death penalty judgments, identity politics of criminal justice policy, social control, drug addiction and opioid epidemic, stigma, governance of historically marginalized groups",
+          "profile_url": "https://www.udel.edu/academics/colleges/cas/units/departments/sociology-and-criminal-justice/our-people/ben-fleury-steiner/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Ivan Sun",
           "title": "Professor of Sociology & Criminal Justice",
           "email": "isun@udel.edu",
@@ -3679,7 +3829,8 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Florida",
@@ -3688,14 +3839,30 @@ window.__DATA__ = {
       "faculty_directory_url": "https://soccrim.clas.ufl.edu/directory/criminology/",
       "extraction_status": "complete",
       "extraction_notes": "Extracted 11 current faculty and 7 emeritus faculty from the UF Criminology, Law and Society directory. The page contained no pagination (11 entries on one page for faculty, 7 for emeritus). Research interests were not listed on the directory page; only checked one profile (Myunghee You) which listed research areas. Some emails appear truncated in the page source (e.g., Mario Cano's email showed as @ufl.edu). Jessica Kahler and Marv Krohn had no title listed.",
-      "faculty_count": 18,
+      "faculty_count": 20,
       "faculty": [
+        {
+          "name": "Ronald L. Akers",
+          "title": "Professor of Criminology, Law and Society",
+          "email": "rlakers@ufl.edu",
+          "research_interests": "Social Learning in Crime and Deviance",
+          "profile_url": "https://soccrim.clas.ufl.edu/directory/akers/",
+          "crimrxiv_member": false
+        },
         {
           "name": "Erika Brooke",
           "title": "Associate Instructional Professor in Criminology",
           "email": "ejbrooke@ufl.edu",
           "research_interests": "Military Service and Crime/CJ Contact; Correctional Policy and Programming; Problem Solving Courts; Program Evaluation; Gender and Crime",
           "profile_url": "https://soccrim.clas.ufl.edu/erika-brooke/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Justin Burnworth",
+          "title": "Assistant Professor of Criminology",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://soccrim.clas.ufl.edu/justin_burnworth/",
           "crimrxiv_member": false
         },
         {
@@ -3715,6 +3882,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Charles F. Frazier",
+          "title": "Professor of Criminology, Law and Society",
+          "email": "",
+          "research_interests": "Juvenile Delinquency, Juvenile Justice, Race and Gender, Evaluation Research, Criminology, Deviance, Criminological Theory, Reform Law",
+          "profile_url": "http://soccrim.clas.ufl.edu/directory/emeritus/frazier/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Rebecca Hanson",
           "title": "Assistant Professor of Latin American Studies, Sociology, and Criminology, Law and Society",
           "email": "rhanson@ufl.edu",
@@ -3723,19 +3898,43 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Kyle Hewit",
+          "title": "Lecturer in Criminology",
+          "email": "kyle.hewit@ufl.edu",
+          "research_interests": "",
+          "profile_url": "https://soccrim.clas.ufl.edu/kyle_hewit/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Richard Hollinger",
+          "title": "Professor of Criminology, Law and Society",
+          "email": "",
+          "research_interests": "Deviance; Criminology; Crime and Deviance in the Workplace; White-Collar Crime; Employee Theft",
+          "profile_url": "https://soccrim.clas.ufl.edu/directory/sociology/richard-hollinger/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Tiffany Jenson",
           "title": "Associate Instructional Professor in Criminology",
           "email": "jensont@ufl.edu",
-          "research_interests": "Statistics and Research Methods, Terrorism Studies, IPV/Sexual Assault, Social Work \u2013 Addiction Recovery & Juvenile Justice, Social Justice",
+          "research_interests": "Statistics and Research Methods, Terrorism Studies, IPV/Sexual Assault, Social Work – Addiction Recovery & Juvenile Justice, Social Justice",
           "profile_url": "https://soccrim.clas.ufl.edu/tiffany-jenson/",
           "crimrxiv_member": false
         },
         {
           "name": "Jessica Kahler",
-          "title": "",
+          "title": "Assistant Professor of Sociology and Criminology, Law and Society",
           "email": "jkahler@ufl.edu",
           "research_interests": "Community-based wildlife crime prevention, Conservation criminology, Environmental Justice, Situational Crime Prevention, Wildlife Crime, Wildlife Guardianship",
           "profile_url": "https://soccrim.clas.ufl.edu/jessica-kahler/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Marv Krohn",
+          "title": "Professor of Criminology, Law and Society",
+          "email": "mkrohn@ufl.edu",
+          "research_interests": "Juvenile Delinquency, Criminology, Adolescent Substance Use, Sociology of Law",
+          "profile_url": "https://soccrim.clas.ufl.edu/directory/criminology/krohn/",
           "crimrxiv_member": false
         },
         {
@@ -3763,59 +3962,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Joseph Rivera",
-          "title": "Lecturer in Criminology",
-          "email": "jrivera29@ufl.edu",
-          "research_interests": "Law and Society; Economic Crime; Transnational Organized Crime; Terrorism; Wildlife and Environmental Crime; International Criminal Law",
-          "profile_url": "https://soccrim.clas.ufl.edu/joseph-rivera/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Myunghee You",
-          "title": "Assistant Professor of Criminology, Law and Society",
-          "email": "myunghee@ufl.edu",
-          "research_interests": "Developmental and Life Course Criminology, Victimology, Neighborhoods and Crime, Crime Trends",
-          "profile_url": "https://soccrim.clas.ufl.edu/myunghee_you/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ronald L. Akers",
-          "title": "Professor of Criminology, Law and Society",
-          "email": "rlakers@ufl.edu",
-          "research_interests": "Social Learning in Crime and Deviance",
-          "profile_url": "https://soccrim.clas.ufl.edu/directory/akers/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Charles F. Frazier",
-          "title": "Professor of Criminology, Law and Society",
-          "email": "",
-          "research_interests": "Juvenile Delinquency, Juvenile Justice, Race and Gender, Evaluation Research, Criminology, Deviance, Criminological Theory, Reform Law",
-          "profile_url": "http://soccrim.clas.ufl.edu/directory/emeritus/frazier/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Richard Hollinger",
-          "title": "Professor of Criminology, Law and Society",
-          "email": "",
-          "research_interests": "Deviance; Criminology; Crime and Deviance in the Workplace; White-Collar Crime; Employee Theft",
-          "profile_url": "https://soccrim.clas.ufl.edu/directory/sociology/richard-hollinger/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Marv Krohn",
-          "title": "",
-          "email": "mkrohn@ufl.edu",
-          "research_interests": "Juvenile Delinquency, Criminology, Adolescent Substance Use, Sociology of Law",
-          "profile_url": "https://soccrim.clas.ufl.edu/directory/criminology/krohn/",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Paul Magnarella",
           "title": "Professor of Anthropology",
           "email": "",
           "research_interests": "Humanitarian Law, International Law, Human Rights Law, Anthropology of Law",
           "profile_url": "http://soccrim.clas.ufl.edu/directory/emeritus/magnarella/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Joseph Rivera",
+          "title": "Lecturer in Criminology",
+          "email": "jrivera29@ufl.edu",
+          "research_interests": "Law and Society; Economic Crime; Transnational Organized Crime; Terrorism; Wildlife and Environmental Crime; International Criminal Law",
+          "profile_url": "https://soccrim.clas.ufl.edu/joseph-rivera/",
           "crimrxiv_member": false
         },
         {
@@ -3833,10 +3992,19 @@ window.__DATA__ = {
           "research_interests": "Population and environment, demography, sociology of development, comparative study of race and ethnicity",
           "profile_url": "https://www.latam.ufl.edu/people/center-based-faculty/charles-h-wood/",
           "crimrxiv_member": false
+        },
+        {
+          "name": "Myunghee You",
+          "title": "Assistant Professor of Criminology, Law and Society",
+          "email": "myunghee@ufl.edu",
+          "research_interests": "Developmental and Life Course Criminology, Victimology, Neighborhoods and Crime, Crime Trends",
+          "profile_url": "https://soccrim.clas.ufl.edu/myunghee_you/",
+          "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Maryland--College Park",
@@ -3984,7 +4152,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Mar\u00eda B. V\u00e9lez",
+          "name": "María B. Vélez",
           "title": "Associate Professor",
           "email": "velezmb@umd.edu",
           "research_interests": "racial-ethnic stratification; crime and justice outcomes; political conditions on crime patterns; neighborhood crime; mass incarceration; criminal justice contact; minority political behavior; democracy",
@@ -4001,7 +4169,8 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Mississippi",
@@ -4010,7 +4179,7 @@ window.__DATA__ = {
       "faculty_directory_url": "https://catalog.olemiss.edu/applied-sciences/criminal-justice-legal-studies/faculty",
       "extraction_status": "complete",
       "extraction_notes": "Excluded all Adjunct faculty (25 individuals) and non-CJ emeritus faculty (Charles L Clark as Dean Emeritus, Marcia Sheryl Cole as Applied Gerontology). Captured 16 non-adjunct/tenure-track/teaching/emeritus faculty. Page had no pagination; all entries on single page. No research interests listed on directory page.",
-      "faculty_count": 16,
+      "faculty_count": 17,
       "faculty": [
         {
           "name": "Francis Danso Boateng",
@@ -4018,6 +4187,14 @@ window.__DATA__ = {
           "email": "fboateng@olemiss.edu",
           "research_interests": "Policing, Comparative Criminology, Immigration, Victimology",
           "profile_url": "http://www.olemiss.edu/people/fboateng",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Janice K Bounds",
+          "title": "Associate Professor Emerita of Legal Studies",
+          "email": "jbounds@olemiss.edu",
+          "research_interests": "",
+          "profile_url": "http://www.olemiss.edu/people/jbounds",
           "crimrxiv_member": false
         },
         {
@@ -4042,6 +4219,14 @@ window.__DATA__ = {
           "email": "macatlin@olemiss.edu",
           "research_interests": "",
           "profile_url": "http://www.olemiss.edu/people/macatlin",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Marcia Sheryl Cole",
+          "title": "Director of Internship and Community Engagement and Lecturer of Applied Gerontology Emeritus",
+          "email": "mscole@olemiss.edu",
+          "research_interests": "",
+          "profile_url": "https://olemiss.edu/people/mscole",
           "crimrxiv_member": false
         },
         {
@@ -4074,6 +4259,14 @@ window.__DATA__ = {
           "email": "kakaise1@olemiss.edu",
           "research_interests": "Problem-Solving Courts, Judicial decisions, Procedural Justice and Legitimacy, Policy Analysis, Mixed Methods, Criminology, Criminal Justice, Legal Studies",
           "profile_url": "http://www.olemiss.edu/people/kakaise1",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Linda Denise Keena",
+          "title": "Associate Professor Emerita of Criminal Justice and Legal Studies",
+          "email": "ldkeena@olemiss.edu",
+          "research_interests": "",
+          "profile_url": "http://www.olemiss.edu/people/ldkeena",
           "crimrxiv_member": false
         },
         {
@@ -4123,26 +4316,11 @@ window.__DATA__ = {
           "research_interests": "Criminology, gender and crime, juvenile delinquency, criminal justice",
           "profile_url": "http://www.olemiss.edu/people/dlwalke1",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Janice K Bounds",
-          "title": "Associate Professor Emerita of Legal Studies",
-          "email": "jbounds@olemiss.edu",
-          "research_interests": "",
-          "profile_url": "http://www.olemiss.edu/people/jbounds",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Linda Denise Keena",
-          "title": "Associate Professor Emerita of Criminal Justice and Legal Studies",
-          "email": "ldkeena@olemiss.edu",
-          "research_interests": "",
-          "profile_url": "http://www.olemiss.edu/people/ldkeena",
-          "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of New Haven",
@@ -4151,24 +4329,8 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.newhaven.edu/lee-college/undergraduate-programs/criminal-justice/faculty.php",
       "extraction_status": "complete",
       "extraction_notes": "All 30 faculty members extracted from the Criminal Justice B.S. Faculty & Staff page. No pagination. Research interests not listed on the directory page. Martin Looney listed as Practitioner in Residence (excluded per instructions). David Schroeder listed as Interim Dean but also has faculty profile. All emails and profile URLs captured.",
-      "faculty_count": 30,
+      "faculty_count": 29,
       "faculty": [
-        {
-          "name": "Kevin Barnes-Ceeney",
-          "title": "Oskar Schindler Humanities Endowed Associate Professor",
-          "email": "KBarnesCeeney@newhaven.edu",
-          "research_interests": "Community corrections, treatment and rehabilitation, restorative justice, forgiveness, reconciliation, genocide recovery, substance use among adolescents, reentry initiatives",
-          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/kevin-barnes-ceeney.php",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "David Myers",
-          "title": "Professor",
-          "email": "DMyers@newhaven.edu",
-          "research_interests": "Research methods, quantitative analysis, juvenile justice and delinquency, criminal justice policy, planning and evaluation, youth violence",
-          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/david-myers.php",
-          "crimrxiv_member": false
-        },
         {
           "name": "Stephanie Bonnes",
           "title": "Associate Professor",
@@ -4186,6 +4348,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Maria Tcherni-Buzzeo",
+          "title": "Professor",
+          "email": "MTcherni@newhaven.edu",
+          "research_interests": "Crime trends and patterns, causes of violence, juvenile crime, structural causes of violence and homicide, poverty, education, family factors",
+          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/maria-tcherni.php",
+          "crimrxiv_member": false
+        },
+        {
           "name": "William H. Carbone",
           "title": "Professor of Practice",
           "email": "WCarbone@newhaven.edu",
@@ -4194,8 +4364,16 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Kevin Barnes-Ceeney",
+          "title": "Oskar Schindler Humanities Endowed Associate Professor",
+          "email": "KBarnesCeeney@newhaven.edu",
+          "research_interests": "Community corrections, treatment and rehabilitation, restorative justice, forgiveness, reconciliation, genocide recovery, substance use among adolescents, reentry initiatives",
+          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/kevin-barnes-ceeney.php",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Danielle T. Cooper",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "DCooper@newhaven.edu",
           "research_interests": "Criminological Theory, Substance Abuse & Delinquency Prevention, Youths and Young Adults, Sex Offending/Sexual Deviance",
           "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/danielle-tolson-cooper.php",
@@ -4219,7 +4397,7 @@ window.__DATA__ = {
         },
         {
           "name": "Michelle D. Fabiani",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "MFabiani@newhaven.edu",
           "research_interests": "International and transnational crimes; human smuggling; archaeological looting in conflict zones; microdynamics of conflict; auction market dynamics; presidential communications and domestic terrorism; technology-driven data collection for crime prevention",
           "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/michelle-fabiani.php",
@@ -4234,19 +4412,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Janet Garcia-Hallett",
-          "title": "Associate Professor",
-          "email": "JGarciaHallett@newhaven.edu",
-          "research_interests": "Incarceration and communities of color, intersectional obstacles faced by women of color before/during/after incarceration, motherhood and post-incarceration reentry, gender/race/criminal record intersections, visibility and social institutions",
-          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/janet-garcia-hallett.php",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Kenneth Gray",
           "title": "Professor of Practice",
           "email": "KGray@newhaven.edu",
           "research_interests": "Terrorism, homeland security, criminal investigation, crisis management, national security",
           "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/kenneth-gray.php",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Janet Garcia-Hallett",
+          "title": "Associate Professor",
+          "email": "JGarciaHallett@newhaven.edu",
+          "research_interests": "Incarceration and communities of color, intersectional obstacles faced by women of color before/during/after incarceration, motherhood and post-incarceration reentry, gender/race/criminal record intersections, visibility and social institutions",
+          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/janet-garcia-hallett.php",
           "crimrxiv_member": false
         },
         {
@@ -4263,14 +4441,6 @@ window.__DATA__ = {
           "email": "MLawlor@newhaven.edu",
           "research_interests": "criminal justice reform, red flag gun laws, preventing mass shootings, crime victim rights, criminal justice policy, same-sex civil unions",
           "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/michael-lawlor.php",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Martin Looney",
-          "title": "Practitioner in Residence",
-          "email": "MLooney@newhaven.edu",
-          "research_interests": "",
-          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/martin-looney.php",
           "crimrxiv_member": false
         },
         {
@@ -4303,6 +4473,14 @@ window.__DATA__ = {
           "email": "BMerkin@newhaven.edu",
           "research_interests": "",
           "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/beth-merkin.php",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "David Myers",
+          "title": "Professor",
+          "email": "DMyers@newhaven.edu",
+          "research_interests": "Research methods, quantitative analysis, juvenile justice and delinquency, criminal justice policy, planning and evaluation, youth violence",
+          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/david-myers.php",
           "crimrxiv_member": false
         },
         {
@@ -4347,7 +4525,7 @@ window.__DATA__ = {
         },
         {
           "name": "David A. Schroeder",
-          "title": "Interim Dean, Henry C. Lee College of Criminal Justice and Forensic Sciences",
+          "title": "Professor",
           "email": "DSchroeder@newhaven.edu",
           "research_interests": "Homicide investigation, forensic evidence (DNA), aberrant/episodic homicide, defense investigation, tolerance issues in law enforcement",
           "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/david-schroeder.php",
@@ -4379,23 +4557,16 @@ window.__DATA__ = {
         },
         {
           "name": "Tracy L. Tamborra",
-          "title": "Professor",
+          "title": "Interim Associate Dean, Henry C. Lee College; Professor",
           "email": "TTamborra@newhaven.edu",
           "research_interests": "Domestic violence, sexual assault and abuse, victimology, effects of criminal justice system on women, persons of color, and persons affected by poverty, violence against women, study abroad safety",
           "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/tracy-tamborra.php",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Maria Tcherni-Buzzeo",
-          "title": "Professor",
-          "email": "MTcherni@newhaven.edu",
-          "research_interests": "Crime trends and patterns, causes of violence, juvenile crime, structural causes of violence and homicide, poverty, education, family factors",
-          "profile_url": "https://www.newhaven.edu/faculty-staff-profiles/maria-tcherni.php",
-          "crimrxiv_member": false
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of South Florida",
@@ -4404,8 +4575,24 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/faculty.aspx",
       "extraction_status": "complete",
       "extraction_notes": "All 34 faculty from the USF Criminology directory captured. Research interests are not displayed on the directory page and were not fetched from individual profiles. No pagination required.",
-      "faculty_count": 34,
+      "faculty_count": 35,
       "faculty": [
+        {
+          "name": "Nicolette Bardele",
+          "title": "Assistant Professor",
+          "email": "nbardele@usf.edu",
+          "research_interests": "Corrections, reentry and rehabilitation; crime policy and criminal justice policy; behavioral health, substance use and mental health",
+          "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/n-bardele.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Lee Bercaw",
+          "title": "Associate Professor of Instruction",
+          "email": "bercaw@usf.edu",
+          "research_interests": "Police leadership; community policing; evidence-based crime reduction; human trafficking; emerging law-enforcement technology; major-event security",
+          "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/l-bercaw.aspx",
+          "crimrxiv_member": false
+        },
         {
           "name": "Lyndsay Boggess",
           "title": "Professor",
@@ -4488,7 +4675,7 @@ window.__DATA__ = {
         },
         {
           "name": "LeGrande Gardner",
-          "title": "Associate Professor of Instruction & Cybercrime Program Coordinator",
+          "title": "Professor of Instruction & Cybercrime Program Coordinator",
           "email": "gardnerl@usf.edu",
           "research_interests": "Cybercrime, technology-related organized crime, digital forensics",
           "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/l-gardner.aspx",
@@ -4512,7 +4699,7 @@ window.__DATA__ = {
         },
         {
           "name": "Lori L. Hall",
-          "title": "Assistant Professor of Instruction",
+          "title": "Associate Professor of Instruction",
           "email": "lorihall@usf.edu",
           "research_interests": "Critical Criminology, Trauma-Informed Practices, Transformative Justice, Power and Identity, Race and Online Hate, Criminal Justice Reform",
           "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/l-hall.aspx",
@@ -4528,7 +4715,7 @@ window.__DATA__ = {
         },
         {
           "name": "Thomas Hyslip",
-          "title": "Assistant Professor of Instruction, Cybercrime",
+          "title": "Associate Professor of Instruction, Cybercrime",
           "email": "thyslip@usf.edu",
           "research_interests": "Cybercrime, cybersecurity, computer hacking, malware, DDoS attacks",
           "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/t-hyslip.aspx",
@@ -4540,14 +4727,6 @@ window.__DATA__ = {
           "email": "jaynes@usf.edu",
           "research_interests": "Decision-making of criminal justice actors, rational choice perspective, employment and labor market perceptions in offending, hiring of individuals with criminal records, guilty plea acceptance",
           "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/c-jaynes.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Alex Knorre",
-          "title": "Assistant Professor",
-          "email": "knorre@usf.edu",
-          "research_interests": "victimization, gun violence, illegal drugs, policy evaluation",
-          "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/a-knorre.aspx",
           "crimrxiv_member": false
         },
         {
@@ -4607,14 +4786,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "SooHyun O",
-          "title": "Assistant Professor",
-          "email": "soohyuno@usf.edu",
-          "research_interests": "Criminological theory, victimology, school offending, crime prevention, crime hot spot forecasting, land use and crime, cyber delinquency",
-          "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/soohyun-o.aspx",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Amber Oderinde",
           "title": "Assistant Instructor & Undergraduate Coordinator",
           "email": "aoderinde@usf.edu",
@@ -4655,6 +4826,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "SooHyun O",
+          "title": "Assistant Professor",
+          "email": "soohyuno@usf.edu",
+          "research_interests": "Criminological theory, victimology, school offending, crime prevention, crime hot spot forecasting, land use and crime, cyber delinquency",
+          "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/soohyun-o.aspx",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Sandra Stone",
           "title": "Professor",
           "email": "sandrastone@usf.edu",
@@ -4680,7 +4859,8 @@ window.__DATA__ = {
         }
       ],
       "source": "US News",
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Southern Illinois University Carbondale",
@@ -4705,6 +4885,14 @@ window.__DATA__ = {
           "title": "Assistant Professor",
           "email": "",
           "research_interests": "Evidence-based policing, crime and place, crime prevention, evaluation research.",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "James Garofalo",
+          "title": "Professor, Emeritus",
+          "email": "",
+          "research_interests": "",
           "profile_url": "",
           "crimrxiv_member": false
         },
@@ -4738,6 +4926,22 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Offender assessment, violent and criminal risk, correctional intervention, mentally ill offenders, criminal desistance.",
           "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "James L. LeBeau",
+          "title": "Professor, Emeritus",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "M. Joan McDermott",
+          "title": "Associate Professor, Emerita",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://catalog.siu.edu/programs/ccj/faculty.php",
           "crimrxiv_member": false
         },
         {
@@ -4779,33 +4983,10 @@ window.__DATA__ = {
           "research_interests": "Behavioral health outcomes, mental illness and crime, life-course theory, community corrections.",
           "profile_url": "",
           "crimrxiv_member": false
-        },
-        {
-          "name": "James Garofalo",
-          "title": "Professor, Emeritus",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "James L. LeBeau",
-          "title": "Professor, Emeritus",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "M. Joan McDermott",
-          "title": "Associate Professor, Emerita",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://catalog.siu.edu/programs/ccj/faculty.php",
-          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Florida International University",
@@ -4814,7 +4995,7 @@ window.__DATA__ = {
       "department_homepage": "https://ccj.fiu.edu",
       "faculty_directory_url": "https://ccj.fiu.edu/people/faculty",
       "extraction_status": "complete",
-      "extraction_notes": "Research interests are not shown on the directory page \u2014 only names, titles, phone numbers, offices, and emails. Adjunct faculty are listed on a separate page (https://ccj.fiu.edu/people/adjunct-faculty/index.html) and are not included here. Carleen Vincent-Robinson is listed as Associate Dean of Student Success and Engagement, which may be an administrative rather than faculty role. Melba Pearson is listed as Senior Fellow.",
+      "extraction_notes": "Research interests are not shown on the directory page — only names, titles, phone numbers, offices, and emails. Adjunct faculty are listed on a separate page (https://ccj.fiu.edu/people/adjunct-faculty/index.html) and are not included here. Carleen Vincent-Robinson is listed as Associate Dean of Student Success and Engagement, which may be an administrative rather than faculty role. Melba Pearson is listed as Senior Fellow.",
       "faculty_count": 21,
       "faculty": [
         {
@@ -4823,14 +5004,6 @@ window.__DATA__ = {
           "email": "cammons@fiu.edu",
           "research_interests": "Juvenile Justice, Gun Crime, Policing, Racial Disparities",
           "profile_url": "https://ccj.fiu.edu/people/faculty/candice-ammons-blanfort/index.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ana Carazo",
-          "title": "Co-Director, Center for the Administration of Justice",
-          "email": "carazjoh@fiu.edu",
-          "research_interests": "International criminal law, justice administration, public defender systems, Latin American justice, court administration",
-          "profile_url": "https://ccj.fiu.edu/people/faculty/ana-carazo/index.html",
           "crimrxiv_member": false
         },
         {
@@ -4843,14 +5016,14 @@ window.__DATA__ = {
         },
         {
           "name": "Ellen Cohn",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "cohne@fiu.edu",
           "research_interests": "Weather and Crime, Citation Analysis, Intimate Partner Violence, History of the Criminal Justice System",
           "profile_url": "https://ccj.fiu.edu/people/faculty/ellen-cohn/index.html",
           "crimrxiv_member": false
         },
         {
-          "name": "Jos\u00e9 Miguel Cruz",
+          "name": "José Miguel Cruz",
           "title": "Associate Professor",
           "email": "jomcruz@fiu.edu",
           "research_interests": "Transnational gangs; Police in international contexts; Criminal governance",
@@ -4866,14 +5039,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Kristin Elink-Schuurman-Laura",
-          "title": "Associate Teaching Professor",
-          "email": "kelinksc@fiu.edu",
-          "research_interests": "Efficacy of Forensic Evidence, Forensic Databases, Criminal Investigations",
-          "profile_url": "https://ccj.fiu.edu/people/faculty/kristin-elink-schuurman-laura/index.html",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Jamie L. Flexon",
           "title": "Professor",
           "email": "flexonj@fiu.edu",
@@ -4882,19 +5047,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Amy Hyman Gregory",
-          "title": "Associate Teaching Professor",
-          "email": "amyhyman@fiu.edu",
-          "research_interests": "Investigative Interviewing Techniques; Eyewitness Memory and Identification Procedures; Juror and Legal Decision-Making",
-          "profile_url": "https://ccj.fiu.edu/people/faculty/amy-hyman-gregory/index.html",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Tim Goddard",
           "title": "Associate Professor and Chair",
           "email": "tgoddard@fiu.edu",
           "research_interests": "Issues of Social Justice in Crime Policy; Risk Factor Prevention Paradigm; Youth Offending Prevention; Voluntary Community-Based Organizations",
           "profile_url": "https://ccj.fiu.edu/people/faculty/tim-goddard/index.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Amy Hyman Gregory",
+          "title": "Associate Teaching Professor",
+          "email": "amyhyman@fiu.edu",
+          "research_interests": "Investigative Interviewing Techniques; Eyewitness Memory and Identification Procedures; Juror and Legal Decision-Making",
+          "profile_url": "https://ccj.fiu.edu/people/faculty/amy-hyman-gregory/index.html",
           "crimrxiv_member": false
         },
         {
@@ -4922,6 +5087,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Kristin Elink-Schuurman-Laura",
+          "title": "Associate Teaching Professor",
+          "email": "kelinksc@fiu.edu",
+          "research_interests": "Efficacy of Forensic Evidence, Forensic Databases, Criminal Investigations",
+          "profile_url": "https://ccj.fiu.edu/people/faculty/kristin-elink-schuurman-laura/index.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Bradley J. O'Guinn",
+          "title": "Assistant Professor",
+          "email": "bradley.oguinn@fiu.edu",
+          "research_interests": "",
+          "profile_url": "https://ccj.fiu.edu/people/bradley-oguinn/index.html",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Melba Pearson",
           "title": "Senior Fellow",
           "email": "mpearson@fiu.edu",
@@ -4931,10 +5112,18 @@ window.__DATA__ = {
         },
         {
           "name": "Stephen Pires",
-          "title": "Associate Professor and Associate Chair",
+          "title": "Professor and Associate Chair",
           "email": "sfpires@fiu.edu",
           "research_interests": "Situational Crime Prevention, Crime Mapping, Conservation Criminology, Wildlife Crime, Kidnapping for Ransom, International Crime",
           "profile_url": "https://ccj.fiu.edu/people/faculty/stephen-pires/index.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Carleen Vincent-Robinson",
+          "title": "Associate Dean of Student Success and Engagement",
+          "email": "vincentc@fiu.edu",
+          "research_interests": "Academic Misconduct, Domestic Violence, Race and Ethnicity, Women and Crime, Leadership Dynamics",
+          "profile_url": "https://ccj.fiu.edu/people/faculty/carleen-vincent-robinson/index.html",
           "crimrxiv_member": false
         },
         {
@@ -4943,14 +5132,6 @@ window.__DATA__ = {
           "email": "saizj@fiu.edu",
           "research_interests": "Criminal Constitutional Law and Procedure, Criminal Law, Correctional Law, Immigration Law, Criminal Justice Processing, Criminal Courts",
           "profile_url": "https://ccj.fiu.edu/people/faculty/juan-saiz/index.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Luis Salas",
-          "title": "Professor",
-          "email": "salasl@fiu.edu",
-          "research_interests": "Democracy Building and Governance; Justice Systems in Developing Countries; Combating Terrorism",
-          "profile_url": "https://ccj.fiu.edu/people/faculty/luis-salas/index.html",
           "crimrxiv_member": false
         },
         {
@@ -4970,11 +5151,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Carleen Vincent-Robinson",
-          "title": "Associate Dean of Student Success and Engagement",
-          "email": "vincentc@fiu.edu",
-          "research_interests": "Academic Misconduct, Domestic Violence, Race and Ethnicity, Women and Crime, Leadership Dynamics",
-          "profile_url": "https://ccj.fiu.edu/people/faculty/carleen-vincent-robinson/index.html",
+          "name": "Daniel E. Trovato",
+          "title": "Assistant Professor",
+          "email": "dtrovato@fiu.edu",
+          "research_interests": "",
+          "profile_url": "https://ccj.fiu.edu/people/daniel-trovato/index.html",
           "crimrxiv_member": false
         },
         {
@@ -4986,7 +5167,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "The University of Alabama",
@@ -4995,41 +5177,9 @@ window.__DATA__ = {
       "department_homepage": "https://ccj.ua.edu",
       "faculty_directory_url": "https://ccj.ua.edu/contact-us/faculty-staff/",
       "extraction_status": "complete",
-      "extraction_notes": "Directory lists 33 faculty (17 Professors, 15 Instructors, 1 Retired & Emeritus). Research interests are not shown on the directory page \u2014 only available on individual profile pages. Two NTRC Assistant Professors (Fenny, Lake) are included. Ida Johnson is listed as Professor Emeritus. Adjuncts not listed separately.",
-      "faculty_count": 33,
+      "extraction_notes": "Directory lists 33 faculty (17 Professors, 15 Instructors, 1 Retired & Emeritus). Research interests are not shown on the directory page — only available on individual profile pages. Two NTRC Assistant Professors (Fenny, Lake) are included. Ida Johnson is listed as Professor Emeritus. Adjuncts not listed separately.",
+      "faculty_count": 34,
       "faculty": [
-        {
-          "name": "Adam Lankford",
-          "title": "Professor",
-          "email": "adam.lankford@ua.edu",
-          "research_interests": "Criminology, Mass Shootings, Sexual Frustration Theory, Suicide Terrorism, Violent Crime",
-          "profile_url": "https://ccj.ua.edu/people/adam-lankford/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Brittany VandeBerg",
-          "title": "Professor",
-          "email": "bvandeberg@ua.edu",
-          "research_interests": "violent crime, domestic violence, maritime crime, gender and crime, piracy, gender-responsive prison reform",
-          "profile_url": "https://ccj.ua.edu/people/brittany-vandeberg/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Michael Barton",
-          "title": "Associate Professor",
-          "email": "mbarton2@ua.edu",
-          "research_interests": "Neighborhood Change and Crime; Community Correlates of Crime; Crime in Small and Medium Size Cities; Crime Mapping and Spatial Data Analysis",
-          "profile_url": "https://ccj.ua.edu/people/dr-michael-barton/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Matthew Valasik",
-          "title": "Associate Professor",
-          "email": "mavalasik@ua.edu",
-          "research_interests": "Gangs, Alt-Right, White Power Movement",
-          "profile_url": "https://ccj.ua.edu/people/dr-matthew-valasik/",
-          "crimrxiv_member": false
-        },
         {
           "name": "Grace Adkins",
           "title": "Instructor",
@@ -5047,11 +5197,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Michael Barton",
+          "title": "Associate Professor",
+          "email": "mbarton2@ua.edu",
+          "research_interests": "Neighborhood Change and Crime; Community Correlates of Crime; Crime in Small and Medium Size Cities; Crime Mapping and Spatial Data Analysis",
+          "profile_url": "https://ccj.ua.edu/people/dr-michael-barton/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Blake Beaton",
           "title": "Assistant Professor",
           "email": "bdbeaton@ua.edu",
           "research_interests": "Drug Use/Abuse, Offender Motivations and Accounts, Qualitative Methodology, Narrative Criminology",
           "profile_url": "https://ccj.ua.edu/people/dr-blake-beaton/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Patience Johnson-Daniels",
+          "title": "Instructor",
+          "email": "pjdaniels1@ua.edu",
+          "research_interests": "",
+          "profile_url": "https://ccj.ua.edu/people/dr/",
           "crimrxiv_member": false
         },
         {
@@ -5103,7 +5269,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "DeAndr\u00e9 Fields",
+          "name": "DeAndré Fields",
           "title": "Instructor",
           "email": "djfields1@ua.edu",
           "research_interests": "Juvenile Delinquency, Criminal Street Gangs, Victimology, Criminology, School shootings and school-based violence, Corrections, Law Enforcement",
@@ -5116,14 +5282,6 @@ window.__DATA__ = {
           "email": "phallida@ua.edu",
           "research_interests": "",
           "profile_url": "https://ccj.ua.edu/people/patrick-halliday/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jacob Harris",
-          "title": "Assistant Professor",
-          "email": "jharris40@ua.edu",
-          "research_interests": "Corrections, Criminal behavior, Voting and political behavior, Public opinion, Public policy, Causal inference",
-          "profile_url": "https://ccj.ua.edu/people/jacob-harris/",
           "crimrxiv_member": false
         },
         {
@@ -5140,14 +5298,6 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Domestic Violence, Women on Parole, School Violence, Date Rape, Women and Crime",
           "profile_url": "https://ccj.ua.edu/people/dr-ida-johnson/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Patience Johnson-Daniels",
-          "title": "Instructor",
-          "email": "pjdaniels1@ua.edu",
-          "research_interests": "",
-          "profile_url": "https://ccj.ua.edu/people/dr/",
           "crimrxiv_member": false
         },
         {
@@ -5175,11 +5325,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Adam Lankford",
+          "title": "Professor",
+          "email": "adam.lankford@ua.edu",
+          "research_interests": "Criminology, Mass Shootings, Sexual Frustration Theory, Suicide Terrorism, Violent Crime",
+          "profile_url": "https://ccj.ua.edu/people/adam-lankford/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Soojin Lee",
           "title": "Instructor",
           "email": "slee217@ua.edu",
           "research_interests": "",
           "profile_url": "https://ccj.ua.edu/people/9497/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Austin Lee",
+          "title": "Instructor",
+          "email": "amlee17@ua.edu",
+          "research_interests": "",
+          "profile_url": "https://ccj.ua.edu/people/12696/",
           "crimrxiv_member": false
         },
         {
@@ -5215,6 +5381,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Larry Smith",
+          "title": "Instructor",
+          "email": "lcsmith16@ua.edu",
+          "research_interests": "Federal Program Fraud; Labor Racketeering; Civil Rights Law (Title VII and IX); Career Development",
+          "profile_url": "https://ccj.ua.edu/people/larry-smith/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Jessica Trull",
           "title": "Instructor",
           "email": "jessica.trull@ua.edu",
@@ -5228,6 +5402,22 @@ window.__DATA__ = {
           "email": "valerie.trull@ua.edu",
           "research_interests": "",
           "profile_url": "https://ccj.ua.edu/people/valerie-trull/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Matthew Valasik",
+          "title": "Professor",
+          "email": "mavalasik@ua.edu",
+          "research_interests": "Gangs, Alt-Right, White Power Movement",
+          "profile_url": "https://ccj.ua.edu/people/dr-matthew-valasik/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Brittany VandeBerg",
+          "title": "Associate Chair; Professor",
+          "email": "bvandeberg@ua.edu",
+          "research_interests": "violent crime, domestic violence, maritime crime, gender and crime, piracy, gender-responsive prison reform",
+          "profile_url": "https://ccj.ua.edu/people/brittany-vandeberg/",
           "crimrxiv_member": false
         },
         {
@@ -5263,7 +5453,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Florida State University",
@@ -5273,16 +5464,8 @@ window.__DATA__ = {
       "faculty_directory_url": "https://criminology.fsu.edu/about-college/college-faculty",
       "extraction_status": "complete",
       "extraction_notes": "All 28 faculty members listed on the single College Faculty page. No separate tabs or sections (e.g., no adjuncts-only or emeritus-only sections). Research interests derived from the brief biographical descriptions shown on the directory page; some faculty (Bales, Chouhy, Close, Gertz, Pesta, Waldo, Warren) had no research interests listed in their directory descriptions.",
-      "faculty_count": 28,
+      "faculty_count": 29,
       "faculty": [
-        {
-          "name": "Thomas G. Blomberg",
-          "title": "Dean and Sheldon L. Messinger Professor of Criminology",
-          "email": "tblomberg@fsu.edu",
-          "research_interests": "Linking research knowledge to public policy, educational achievement among incarcerated youthful offenders, community reintegration",
-          "profile_url": "https://criminology.fsu.edu/faculty-and-staff/thomas-blomberg",
-          "crimrxiv_member": false
-        },
         {
           "name": "Claudia Anderson",
           "title": "Assistant Professor",
@@ -5305,6 +5488,14 @@ window.__DATA__ = {
           "email": "kbeaver@fsu.edu",
           "research_interests": "Biosocial underpinnings of antisocial behaviors, behavioral genetics, molecular genetics, gene-environmental basis of criminal and delinquent outcomes",
           "profile_url": "https://criminology.fsu.edu/faculty-and-staff/kevin-beaver",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Thomas G. Blomberg",
+          "title": "Dean and Sheldon L. Messinger Professor of Criminology",
+          "email": "tblomberg@fsu.edu",
+          "research_interests": "Linking research knowledge to public policy, educational achievement among incarcerated youthful offenders, community reintegration",
+          "profile_url": "https://criminology.fsu.edu/faculty-and-staff/thomas-blomberg",
           "crimrxiv_member": false
         },
         {
@@ -5349,7 +5540,7 @@ window.__DATA__ = {
         },
         {
           "name": "Emma E. Fridel",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "efridel@fsu.edu",
           "research_interests": "Violence and aggression, homicide, school violence, homicide-suicide, serial and mass murder",
           "profile_url": "https://criminology.fsu.edu/faculty-and-staff/emma-fridel",
@@ -5412,6 +5603,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "David McElhattan",
+          "title": "Assistant Professor",
+          "email": "drm26e@fsu.edu",
+          "research_interests": "Punishment; Stratification & Inequality; Law & Society; Collateral Consequences",
+          "profile_url": "https://criminology.fsu.edu/faculty-and-staff/david-mcelhattan",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Daniel P. Mears",
           "title": "Distinguished Research Professor",
           "email": "dmears@fsu.edu",
@@ -5437,7 +5636,7 @@ window.__DATA__ = {
         },
         {
           "name": "Joseph A. Schwartz",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "jaschwartz@fsu.edu",
           "research_interests": "Biological and environmental influences on behavior and health outcomes across the life course",
           "profile_url": "https://criminology.fsu.edu/faculty-and-staff/joseph-schwartz",
@@ -5500,7 +5699,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Northeastern University",
@@ -5526,6 +5726,14 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Crime through a cross-cultural, global lens; how social conditions affect crime",
           "profile_url": "https://cssh.northeastern.edu/faculty/ekaterina-botchkovar/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Katheryn Russell-Brown",
+          "title": "Elmer V.H. and Eileen M. Brooks Trustee Professor of Crime, Law, and Justice",
+          "email": "",
+          "research_interests": "Race and crime, criminal justice system, sociology of law, policing, systemic inequalities, racial hoax, black protectionism",
+          "profile_url": "https://cssh.northeastern.edu/faculty/katheryn-russell-brown/",
           "crimrxiv_member": true
         },
         {
@@ -5570,7 +5778,7 @@ window.__DATA__ = {
         },
         {
           "name": "Kevin Drakulich",
-          "title": "Associate Director and Professor of Criminology and Criminal Justice; PhD Program Director",
+          "title": "Professor of Criminology and Criminal Justice; PhD Program Director; Co-Director of Race and Justice Lab",
           "email": "",
           "research_interests": "How Americans think about crime and justice",
           "profile_url": "https://cssh.northeastern.edu/faculty/kevin-drakulich/",
@@ -5657,6 +5865,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Ermus St. Louis",
+          "title": "Assistant Professor of Criminology and Criminal Justice",
+          "email": "",
+          "research_interests": "Police and technology, police-community relations",
+          "profile_url": "https://cssh.northeastern.edu/faculty/ermus-st-louis/",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Ineke Marshall",
           "title": "Professor of Sociology and Criminology and Criminal Justice",
           "email": "",
@@ -5682,7 +5898,7 @@ window.__DATA__ = {
         },
         {
           "name": "Cassie McMillan",
-          "title": "Assistant Professor of Sociology and Criminology and Criminal Justice",
+          "title": "Associate Professor of Sociology and Criminology and Criminal Justice",
           "email": "",
           "research_interests": "Social networks",
           "profile_url": "https://cssh.northeastern.edu/faculty/cassie-mcmillan/",
@@ -5721,14 +5937,6 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Katheryn Russell-Brown",
-          "title": "Elmer V.H. and Eileen M. Brooks Trustee Professor of Crime, Law, and Justice",
-          "email": "",
-          "research_interests": "Race and crime, criminal justice system, sociology of law, policing, systemic inequalities, racial hoax, black protectionism",
-          "profile_url": "https://cssh.northeastern.edu/faculty/katheryn-russell-brown/",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Tom Scott",
           "title": "Assistant Research Professor",
           "email": "",
@@ -5738,18 +5946,10 @@ window.__DATA__ = {
         },
         {
           "name": "Simon Singer",
-          "title": "Professor of Criminology and Criminal Justice",
+          "title": "Professor Emeritus of Criminology and Criminal Justice",
           "email": "",
           "research_interests": "Adolescent offending, juvenile justice",
           "profile_url": "https://cssh.northeastern.edu/faculty/simon-singer/",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ermus St. Louis",
-          "title": "Assistant Professor of Criminology and Criminal Justice",
-          "email": "",
-          "research_interests": "Police and technology, police-community relations",
-          "profile_url": "https://cssh.northeastern.edu/faculty/ermus-st-louis/",
           "crimrxiv_member": true
         },
         {
@@ -5793,7 +5993,8 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Tarleton State University",
@@ -5805,30 +6006,6 @@ window.__DATA__ = {
       "extraction_notes": "Research interests are not shown on the directory page; only names, titles, and contact info are listed. Some faculty (Dr. Alex del Carmen, Dr. Han Bae, Dr. Joohi Kim, Dr. Shantol McIntosh, Richard Taylor) do not have individual profile links on the page. Richard Taylor's bio note (\"Retired U.S. Marshal, Northern District of Texas\") is included in research_interests as a description. Staff members (Madison Marsh, Tamara Percivill) were excluded as they are not faculty.",
       "faculty_count": 24,
       "faculty": [
-        {
-          "name": "Galia Cohen",
-          "title": "Department Head and Associate Professor",
-          "email": "cohen@tarleton.edu",
-          "research_interests": "",
-          "profile_url": "https://faculty.tarleton.edu/cohen",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Alex del Carmen",
-          "title": "Professor, College of Liberal and Fine Arts",
-          "email": "delcarmen@tarleton.edu",
-          "research_interests": "racial profiling, race and crime, police reform, predictive policing",
-          "profile_url": "https://www.tarleton.edu/ipac/alejandro-del-carmen-ph-d-2/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "George Eichenberg",
-          "title": "Assistant Department Chair, Professor",
-          "email": "eichenberg@tarleton.edu",
-          "research_interests": "Criminal Justice ethics; Police operations and management/rural law enforcement; Native Americans and criminal justice; Internal affairs systems and practices; Historical aspects of social control in the American South",
-          "profile_url": "https://faculty.tarleton.edu/eichenberg",
-          "crimrxiv_member": false
-        },
         {
           "name": "Han Bae",
           "title": "Post-Doctoral Research Scholar",
@@ -5846,6 +6023,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Alex del Carmen",
+          "title": "Professor, College of Liberal and Fine Arts",
+          "email": "delcarmen@tarleton.edu",
+          "research_interests": "racial profiling, race and crime, police reform, predictive policing",
+          "profile_url": "https://www.tarleton.edu/ipac/alejandro-del-carmen-ph-d-2/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Galia Cohen",
+          "title": "Department Head and Associate Professor",
+          "email": "cohen@tarleton.edu",
+          "research_interests": "",
+          "profile_url": "https://faculty.tarleton.edu/cohen",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Chris Copeland",
           "title": "Assistant Professor and Director, Institute for Homeland Security, Cyber Crime and International Crime",
           "email": "ccopeland@tarleton.edu",
@@ -5859,6 +6052,14 @@ window.__DATA__ = {
           "email": "dobbs@tarleton.edu",
           "research_interests": "Fear of crime, Punitive Attitudes, Media and Perceptions of Crime and Justice, Women in prison, Violence against women",
           "profile_url": "https://faculty.tarleton.edu/dobbs",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "George Eichenberg",
+          "title": "Assistant Department Chair, Professor",
+          "email": "eichenberg@tarleton.edu",
+          "research_interests": "Criminal Justice ethics; Police operations and management/rural law enforcement; Native Americans and criminal justice; Internal affairs systems and practices; Historical aspects of social control in the American South",
+          "profile_url": "https://faculty.tarleton.edu/eichenberg",
           "crimrxiv_member": false
         },
         {
@@ -5998,7 +6199,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Indiana University Bloomington",
@@ -6008,7 +6210,7 @@ window.__DATA__ = {
       "faculty_directory_url": "https://criminaljustice.indiana.edu/about/faculty/index.html",
       "extraction_status": "complete",
       "extraction_notes": "All three faculty sections were included: 15 core faculty, 10 adjunct faculty, and 7 emeritus faculty (32 total). Research interests were shown on all core and emeritus faculty pages but not on adjunct faculty pages. Some research interest text was truncated on the directory page (marked with ellipsis). Titles include all listed roles (e.g., department chair, coordinator positions). Adjunct faculty share the same phone number (812-856-4675).",
-      "faculty_count": 32,
+      "faculty_count": 34,
       "faculty": [
         {
           "name": "Katherine Barrus",
@@ -6019,11 +6221,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Aaron Becker",
+          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
+          "email": "beckerap@iu.edu",
+          "research_interests": "",
+          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/becker-aaron.html",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Molly Block",
           "title": "Senior Lecturer, Criminology and Criminal Justice",
           "email": "mmblock@iu.edu",
           "research_interests": "environmental criminology, terrorism, substance use",
           "profile_url": "https://criminaljustice.indiana.edu/about/faculty/block_molly.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Miriam Northcutt Bohmert",
+          "title": "Associate Professor, Criminology and Criminal Justice",
+          "email": "mirnorth@iu.edu",
+          "research_interests": "prisons, jails, community supervision; social psychological influences and environmental contexts",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/northcutt-bohmert-miriam.html",
           "crimrxiv_member": false
         },
         {
@@ -6043,91 +6261,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Fiona Chan",
+          "name": "Katharine Brown",
           "title": "Assistant Professor, Criminology and Criminal Justice",
-          "email": "fiochan@iu.edu",
-          "research_interests": "white-collar crime; corporate injustice; regulatory crime enforcement and prevention; the use of AI",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/chan_fiona.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Bonnie Ernst",
-          "title": "Assistant Professor, Criminology and Criminal Justice",
-          "email": "boernst@iu.edu",
-          "research_interests": "race, gender, prisons, history of criminal justice",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/ernst-bonnie.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Adam Ghazi-Tehrani",
-          "title": "Associate Professor, Criminology and Criminal Justice",
-          "email": "aghazite@iu.edu",
-          "research_interests": "cybercrime, white-collar crime, bias (hate) crime, regulation, critical criminology",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/ghazi-tehrani_adam.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Tri Keah Henry",
-          "title": "Assistant Professor, Criminology and Criminal Justice",
-          "email": "trihenry@iu.edu",
-          "research_interests": "discretionary decision-making; racial and ethnic disparities in criminal justice processing; procedural justice",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/henry-tri_keah.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Natalie Kroovand Hipple",
-          "title": "Professor, Criminology and Criminal Justice",
-          "email": "nkroovan@iu.edu",
-          "research_interests": "police partnerships; police problem solving; gun violence; homelessness; higher education policing",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/hipple-natalie.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Roger J.R. Levesque",
-          "title": "Professor, Criminology and Criminal Justice",
-          "email": "rlevesqu@iu.edu",
-          "research_interests": "psychology and law; adolescence; family violence",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/levesque-roger-jr.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Miriam Northcutt Bohmert",
-          "title": "Associate Professor, Criminology and Criminal Justice",
-          "email": "mirnorth@iu.edu",
-          "research_interests": "prisons, jails, community supervision; social psychological influences and environmental contexts",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/northcutt-bohmert-miriam.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jennifer O'Neill",
-          "title": "Assistant Professor, Criminology and Criminal Justice",
-          "email": "jenoneil@iu.edu",
-          "research_interests": "criminological theory, juvenile delinquency, identity and crime, schools and deviance",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/oneill-jennifer.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Bruce Sales",
-          "title": "Professor, Criminology and Criminal Justice",
-          "email": "bdsales@iu.edu",
-          "research_interests": "psychosocial analyses of law and criminal justice",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/sales-bruce-d.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Marla Sandys",
-          "title": "Associate Professor, Criminology and Criminal Justice",
-          "email": "msandys@iu.edu",
-          "research_interests": "jury behavior; capital punishment; wrongful conviction",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/sandys-marla.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Arvind Verma",
-          "title": "Professor, Criminology and Criminal Justice",
-          "email": "averma@iu.edu",
-          "research_interests": "policing; criminal justice in India; criminal justice data analysis",
-          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/verma-arvind.html",
+          "email": "klb22@iu.edu",
+          "research_interests": "Policing and homelessness; mixed-methods research; evidence-based responses to unhoused populations",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/brown-katharine.html",
           "crimrxiv_member": false
         },
         {
@@ -6136,6 +6274,14 @@ window.__DATA__ = {
           "email": "toddburk@iu.edu",
           "research_interests": "War crimes, drones, moral injury, veteran trauma and suicide",
           "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/burkhardt-todd.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Fiona Chan",
+          "title": "Assistant Professor, Criminology and Criminal Justice",
+          "email": "fiochan@iu.edu",
+          "research_interests": "white-collar crime; corporate injustice; regulatory crime enforcement and prevention; the use of AI",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/chan_fiona.html",
           "crimrxiv_member": false
         },
         {
@@ -6171,46 +6317,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Lawrence Hilton",
-          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
-          "email": "ldhilton@iu.edu",
-          "research_interests": "",
-          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/hilton-lawrence.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "William L. McCoskey",
-          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
-          "email": "wlmccosk@iu.edu",
-          "research_interests": "",
-          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/mccoskey-william-l.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Steve Presson",
-          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
-          "email": "smpresso@iu.edu",
-          "research_interests": "",
-          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/presson-steve.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Brad Seifers",
-          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
-          "email": "brdsfrs@iu.edu",
-          "research_interests": "",
-          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/seifers-brad.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Stacy Uliana",
-          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
-          "email": "suliana@iu.edu",
-          "research_interests": "",
-          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/uliana_stacy.html",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Ellen Dwyer",
           "title": "Professor Emerita, Criminal Justice",
           "email": "dwyer@iu.edu",
@@ -6219,11 +6325,51 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Bonnie Ernst",
+          "title": "Assistant Professor, Criminology and Criminal Justice",
+          "email": "boernst@iu.edu",
+          "research_interests": "race, gender, prisons, history of criminal justice",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/ernst-bonnie.html",
+          "crimrxiv_member": false
+        },
+        {
           "name": "William Head",
           "title": "Senior Lecturer Emeritus, Criminology and Criminal Justice",
           "email": "bhead@iu.edu",
           "research_interests": "administration of justice; crime and popular culture; private security; crime and public policy",
           "profile_url": "https://criminaljustice.indiana.edu/about/emeritus-faculty/head-william1.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Tri Keah Henry",
+          "title": "Assistant Professor, Criminology and Criminal Justice",
+          "email": "trihenry@iu.edu",
+          "research_interests": "discretionary decision-making; racial and ethnic disparities in criminal justice processing; procedural justice",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/henry-tri_keah.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Lawrence Hilton",
+          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
+          "email": "ldhilton@iu.edu",
+          "research_interests": "",
+          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/hilton-lawrence.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Natalie Kroovand Hipple",
+          "title": "Professor, Criminology and Criminal Justice",
+          "email": "nkroovan@iu.edu",
+          "research_interests": "police partnerships; police problem solving; gun violence; homelessness; higher education policing",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/hipple-natalie.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Roger J.R. Levesque",
+          "title": "Professor, Criminology and Criminal Justice",
+          "email": "rlevesqu@iu.edu",
+          "research_interests": "psychology and law; adolescence; family violence",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/levesque-roger-jr.html",
           "crimrxiv_member": false
         },
         {
@@ -6243,11 +6389,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "William L. McCoskey",
+          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
+          "email": "wlmccosk@iu.edu",
+          "research_interests": "",
+          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/mccoskey-william-l.html",
+          "crimrxiv_member": false
+        },
+        {
           "name": "William Oliver",
           "title": "Associate Professor Emeritus, Criminal Justice",
           "email": "wioliver@iu.edu",
           "research_interests": "interpersonal violence among African Americans; prisoner reentry; rural crime and justice",
           "profile_url": "https://criminaljustice.indiana.edu/about/emeritus-faculty/oliver-william.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jennifer O'Neill",
+          "title": "Assistant Professor, Criminology and Criminal Justice",
+          "email": "jenoneil@iu.edu",
+          "research_interests": "criminological theory, juvenile delinquency, identity and crime, schools and deviance",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/oneill-jennifer.html",
           "crimrxiv_member": false
         },
         {
@@ -6259,15 +6421,72 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Steve Presson",
+          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
+          "email": "smpresso@iu.edu",
+          "research_interests": "",
+          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/presson-steve.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Bruce Sales",
+          "title": "Professor, Criminology and Criminal Justice",
+          "email": "bdsales@iu.edu",
+          "research_interests": "psychosocial analyses of law and criminal justice",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/sales-bruce-d.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Marla Sandys",
+          "title": "Associate Professor, Criminology and Criminal Justice",
+          "email": "msandys@iu.edu",
+          "research_interests": "jury behavior; capital punishment; wrongful conviction",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/sandys-marla.html",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Kip Schlegel",
           "title": "Professor Emeritus, Criminal Justice",
           "email": "schlegel@iu.edu",
-          "research_interests": "white\u2013collar crime; organized crime; criminological theory",
+          "research_interests": "white–collar crime; organized crime; criminological theory",
           "profile_url": "https://criminaljustice.indiana.edu/about/emeritus-faculty/schlegel-kip.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Brad Seifers",
+          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
+          "email": "brdsfrs@iu.edu",
+          "research_interests": "",
+          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/seifers-brad.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Adam Ghazi-Tehrani",
+          "title": "Associate Professor, Criminology and Criminal Justice",
+          "email": "aghazite@iu.edu",
+          "research_interests": "cybercrime, white-collar crime, bias (hate) crime, regulation, critical criminology",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/ghazi-tehrani_adam.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Stacy Uliana",
+          "title": "Adjunct Lecturer, Criminology and Criminal Justice",
+          "email": "suliana@iu.edu",
+          "research_interests": "",
+          "profile_url": "https://criminaljustice.indiana.edu/about/adjunct-faculty/uliana_stacy.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Arvind Verma",
+          "title": "Professor, Criminology and Criminal Justice",
+          "email": "averma@iu.edu",
+          "research_interests": "policing; criminal justice in India; criminal justice data analysis",
+          "profile_url": "https://criminaljustice.indiana.edu/about/faculty/verma-arvind.html",
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Texas State University",
@@ -6276,8 +6495,8 @@ window.__DATA__ = {
       "department_homepage": "https://www.cj.txst.edu",
       "faculty_directory_url": "https://www.cj.txst.edu/about/faculty-staff.html",
       "extraction_status": "complete",
-      "extraction_notes": "The directory page lists 34 results total, including 30 faculty and 4 administrative staff (Amanda Garza, Kelly Gourluck, Sienna Schroeter, Michael Soderstrom) who were excluded. Research interests/areas of expertise are NOT shown in the directory listing itself \u2014 they only appear inside expandable detail panels for individual faculty (e.g., Ashley Arnio's areas include Communities and Crime, Law and Social Control, Spatial Data Analysis). No individual faculty profile URLs are provided on the directory page; all information is contained within the single directory page. Retired faculty and doctoral students are listed on separate pages.",
-      "faculty_count": 30,
+      "extraction_notes": "The directory page lists 34 results total, including 30 faculty and 4 administrative staff (Amanda Garza, Kelly Gourluck, Sienna Schroeter, Michael Soderstrom) who were excluded. Research interests/areas of expertise are NOT shown in the directory listing itself — they only appear inside expandable detail panels for individual faculty (e.g., Ashley Arnio's areas include Communities and Crime, Law and Social Control, Spatial Data Analysis). No individual faculty profile URLs are provided on the directory page; all information is contained within the single directory page. Retired faculty and doctoral students are listed on separate pages.",
+      "faculty_count": 29,
       "faculty": [
         {
           "name": "Ashley Arnio",
@@ -6392,7 +6611,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Lidia Nu\u00f1o",
+          "name": "Lidia Nuño",
           "title": "Associate Professor",
           "email": "lidia.nuno@txstate.edu",
           "research_interests": "policing, gangs, immigration",
@@ -6448,15 +6667,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Mark C. Stafford",
-          "title": "Professor",
-          "email": "stafford@txstate.edu",
-          "research_interests": "criminological theory, juvenile delinquency, juvenile justice",
-          "profile_url": "[Texas State University School of Criminal Justice faculty page](https://www.cj.txst.edu/about/faculty-staff.html)",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Luc\u00eda Summers",
+          "name": "Lucía Summers",
           "title": "Professor",
           "email": "lsummers@txstate.edu",
           "research_interests": "Spatio-temporal patterns of crime, offender spatial decision-making, situational crime prevention",
@@ -6488,7 +6699,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Bob Edward V\u00e1squez",
+          "name": "Bob Edward Vásquez",
           "title": "Associate Professor, Assoc. Dean College of Applied Arts",
           "email": "bob.vasquez@txstate.edu",
           "research_interests": "quantitative research methods, statistical modeling of crime causes, criminological theory, peer influence",
@@ -6504,7 +6715,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Howard E. Willia",
+          "name": "Howard E. Williams",
           "title": "Associate Professor of Instruction",
           "email": "hw1007@txstate.edu",
           "research_interests": "Arrest-Related Deaths, TASER Electronic Control Devices",
@@ -6520,7 +6731,8 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Miami",
@@ -6529,17 +6741,9 @@ window.__DATA__ = {
       "department_homepage": "https://sociology.as.miami.edu",
       "faculty_directory_url": "https://sociology.as.miami.edu/people/index.html",
       "extraction_status": "complete",
-      "extraction_notes": "Alexis Piquero appears twice on the page (once as Department Chair, once in the general People list). Robert E. Rosen is listed under Secondary Appointments. Research interests are not shown on the directory page \u2014 only brief bio snippets are available; full research interests would require visiting individual profile pages. No emeritus or adjunct faculty are listed on this page.",
-      "faculty_count": 20,
+      "extraction_notes": "Alexis Piquero appears twice on the page (once as Department Chair, once in the general People list). Robert E. Rosen is listed under Secondary Appointments. Research interests are not shown on the directory page — only brief bio snippets are available; full research interests would require visiting individual profile pages. No emeritus or adjunct faculty are listed on this page.",
+      "faculty_count": 21,
       "faculty": [
-        {
-          "name": "Alexis Piquero",
-          "title": "Professor",
-          "email": "axp1954@miami.edu",
-          "research_interests": "Developmental and life-course criminology; Quantitative research methods; Crime and justice policy",
-          "profile_url": "https://people.miami.edu/profile/d506d27f83929e0a9839caa0309ae881",
-          "crimrxiv_member": false
-        },
         {
           "name": "Olena Antonaccio",
           "title": "Professor",
@@ -6589,18 +6793,18 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Nicole Leeper Piquero",
-          "title": "Interim Dean, Graduate School",
-          "email": "nxl491@miami.edu",
-          "research_interests": "White-collar and corporate offending; gender in the criminal justice system; causes and perceptions of crime",
-          "profile_url": "https://people.miami.edu/profile/7ca0238170496861c62227321edffb30",
+          "name": "Jan Sokol-Katz",
+          "title": "Distinguished Senior Lecturer, Director of Undergraduate Studies, Faculty Advisor",
+          "email": "jsokol@miami.edu",
+          "research_interests": "Juvenile delinquency, substance abuse",
+          "profile_url": "https://people.miami.edu/profile/438b4ed2762478584ac68141c0ded366",
           "crimrxiv_member": false
         },
         {
           "name": "John W Murphy",
           "title": "Professor",
           "email": "j.murphy@miami.edu",
-          "research_interests": "",
+          "research_interests": "Community-based health projects domestically and internationally; participatory budgeting and community organizing.",
           "profile_url": "https://people.miami.edu/profile/5845da96db9aff4267a7487fedf9e241",
           "crimrxiv_member": false
         },
@@ -6610,14 +6814,6 @@ window.__DATA__ = {
           "email": "nielsen@miami.edu",
           "research_interests": "",
           "profile_url": "https://people.miami.edu/profile/bc6735464b43bcb51cb0fdea327642e4",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Kathryn M Nowotny",
-          "title": "Associate Professor",
-          "email": "kmn72@miami.edu",
-          "research_interests": "Health disparities among justice-involved populations, substance use and health, medical sociology, HIV prevention in correctional settings, COVID-19 in prisons",
-          "profile_url": "https://people.miami.edu/profile/72bba51e2227712bf10d1bd87b06ea20",
           "crimrxiv_member": false
         },
         {
@@ -6637,11 +6833,35 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Alexis Piquero",
+          "title": "Professor",
+          "email": "axp1954@miami.edu",
+          "research_interests": "Developmental and life-course criminology; Quantitative research methods; Crime and justice policy",
+          "profile_url": "https://people.miami.edu/profile/d506d27f83929e0a9839caa0309ae881",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Nicole Leeper Piquero",
+          "title": "Interim Dean, Graduate School",
+          "email": "nxl491@miami.edu",
+          "research_interests": "White-collar and corporate offending; gender in the criminal justice system; causes and perceptions of crime",
+          "profile_url": "https://people.miami.edu/profile/7ca0238170496861c62227321edffb30",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Alejandro Portes",
-          "title": "Research Professor",
+          "title": "Distinguished Research Professor",
           "email": "a.portes@miami.edu",
           "research_interests": "",
           "profile_url": "https://people.miami.edu/profile/6eb28d8837644b1c413b8efc1523a9f7",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Megan Stubbs-Richardson",
+          "title": "Associate Professor",
+          "email": "mxr3845@miami.edu",
+          "research_interests": "Intersections of criminology, technology, and social change, with particular emphasis on emerging technologies, digital crime opportunities and victimization, and gender and crime.",
+          "profile_url": "https://people.miami.edu/profile/b84c8155faf3e6e6872066faaacf9c2c",
           "crimrxiv_member": false
         },
         {
@@ -6653,19 +6873,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Jan Sokol-Katz",
-          "title": "Distinguished Senior Lecturer, Director of Undergraduate Studies, Faculty Advisor",
-          "email": "jsokol@miami.edu",
-          "research_interests": "Juvenile delinquency, substance abuse",
-          "profile_url": "https://people.miami.edu/profile/438b4ed2762478584ac68141c0ded366",
+          "name": "Robert E. Rosen",
+          "title": "Professor of Law",
+          "email": "r.rosen@miami.edu",
+          "research_interests": "Corporate Governance, Leadership in the Legal Profession, White Collar Crime",
+          "profile_url": "https://people.miami.edu/profile/4ea510ba7244c516e94d68071258c0ed",
           "crimrxiv_member": false
         },
         {
-          "name": "Kim-Phuong Truong-Vu",
-          "title": "Assistant Professor",
-          "email": "kxt593@miami.edu",
-          "research_interests": "HPV vaccinations, racial/ethnic differences, gender and age intersections, health inequalities, mixed-methods research",
-          "profile_url": "https://people.miami.edu/profile/f9d18dce72975b7b709c9d45f9015661",
+          "name": "Natalia Pires de Vasconcelos",
+          "title": "Lecturer",
+          "email": "nxp1210@miami.edu",
+          "research_interests": "Sociology of law, punishment, and health; how legal institutions affect health and well-being.",
+          "profile_url": "https://people.miami.edu/profile/54708dd979a67d9f72ca888c0b494950",
           "crimrxiv_member": false
         },
         {
@@ -6677,23 +6897,24 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Kim-Phuong Truong-Vu",
+          "title": "Assistant Professor",
+          "email": "kxt593@miami.edu",
+          "research_interests": "HPV vaccinations, racial/ethnic differences, gender and age intersections, health inequalities, mixed-methods research",
+          "profile_url": "https://people.miami.edu/profile/f9d18dce72975b7b709c9d45f9015661",
+          "crimrxiv_member": false
+        },
+        {
           "name": "George Wilson",
           "title": "Professor",
           "email": "gwilson1@miami.edu",
           "research_interests": "Dynamics of racial/ethnic inequality in the labor force, Stratification Beliefs",
           "profile_url": "https://people.miami.edu/profile/f321192011c4b198cf976dfc8e5a9bb1",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Robert E. Rosen",
-          "title": "Professor of Law",
-          "email": "r.rosen@miami.edu",
-          "research_interests": "Corporate Governance, Leadership in the Legal Profession, White Collar Crime",
-          "profile_url": "https://people.miami.edu/profile/4ea510ba7244c516e94d68071258c0ed",
-          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Massachusetts Lowell",
@@ -6706,195 +6927,11 @@ window.__DATA__ = {
       "faculty_count": 31,
       "faculty": [
         {
-          "name": "April Pattavina",
-          "title": "Professor and Chair",
-          "email": "April_Pattavina@uml.edu",
-          "research_interests": "Corrections, gender-based violence, policy analysis, technology",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/pattavina-april.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Melissa Morabito",
-          "title": "Professor, Associate Chair \u2013 School of Criminology & Justice Studies",
-          "email": "Melissa_Morabito@uml.edu",
-          "research_interests": "Policing Innovation, behavioral health, sexual assault case attrition",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/morabito-melissa.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jason Rydberg",
-          "title": "Associate Professor, Ph.D. Program Director",
-          "email": "Jason_Rydberg@uml.edu",
-          "research_interests": "Quantitative methods; Program Evaluation; Recidivism; Sex Offense Policy",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/rydberg-jason.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "James Forest",
-          "title": "Professor; Director of Security Studies",
-          "email": "James_Forest@uml.edu",
-          "research_interests": "International security studies, terrorism, weapons of mass destruction, homeland security",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/forest-james.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Amber Horning Rufino",
-          "title": "Associate Professor, Master's Program Coordinator",
-          "email": "Amber_Ruf@uml.edu",
-          "research_interests": "Human trafficking; Commercial sex markets; Criminal exploitation; Illicit markets; Social network analysis",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/horning-ruf-amber.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ryan Shields",
-          "title": "Associate Professor, Undergraduate Program Coordinator",
-          "email": "Ryan_Shields@uml.edu",
-          "research_interests": "Violence prevention and control, Sexual violence",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/shields-ryan.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Angela Callahan",
-          "title": "Assistant Teaching Professor, Undergraduate Academic Advisor & Retention Coordinator, Online & Continuing Education",
-          "email": "Angela_Callahan@uml.edu",
-          "research_interests": "",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/callahan-angela.aspx",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Pauline Brennan",
           "title": "Professor",
           "email": "Pauline_Brennan@uml.edu",
           "research_interests": "",
           "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/brennan-pauline.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Joselyne Chenane",
-          "title": "Associate Professor",
-          "email": "Joselyne_nkogo@uml.edu",
-          "research_interests": "Policing, race and justice, immigration, neighborhoods and crime, public opinion, comparative criminology",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/chenane-joselyne.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Rebecca Dunlea",
-          "title": "Assistant Professor",
-          "email": "rebecca_dunlea@uml.edu",
-          "research_interests": "Prosecution; Courtroom decision making; Social inequality; Applied research; Agency-level criminal justice",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/dunlea-rebecca.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Emily Greene-Colozzi",
-          "title": "Assistant Professor",
-          "email": "Emily_GreeneColozzi@uml.edu",
-          "research_interests": "Mass and school shootings; terrorism; situational crime prevention; threat assessment; open-source intelligence",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/greene-colozzi-emily.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Andrew Harris",
-          "title": "Professor, Associate Dean for Research and Graduate Programs \u2013 FAHSS",
-          "email": "Andrew_Harris@uml.edu",
-          "research_interests": "Mental illness & the criminal justice system; sex offender management policy; juvenile justice policy",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/harris-andrew.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Christopher Harris",
-          "title": "Associate Professor, Undergraduate Program Coordinator, Transfer Student Advisor",
-          "email": "Christopher_Harris@uml.edu",
-          "research_interests": "Policing, Police Accountability, Youth/Gang Violence Reduction Strategies",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/harris-chris.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Claire Lee",
-          "title": "Associate Professor, Co-director of Center for Asian American Studies",
-          "email": "Claire_Lee@uml.edu",
-          "research_interests": "Cybercrime, Cybersecurity, Cyberterrorism, Technologies & Society, Social Media, Immigration",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/lee-claire.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Cathy Levey",
-          "title": "Teaching Professor",
-          "email": "Cathy_Levey@uml.edu",
-          "research_interests": "Mental health issues in the Criminal Justice system, especially Corrections; Self-handicapping behaviors",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/levey-cathy.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Christopher Linebarger",
-          "title": "Associate Professor",
-          "email": "Christopher_Linebarger@uml.edu",
-          "research_interests": "Civil wars, political violence, terrorism and security studies",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/linebarger-christopher.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Joshua Long",
-          "title": "Assistant Professor",
-          "email": "Joshua_Long@uml.edu",
-          "research_interests": "Risk Assessment, Prison Classification, Restrictive Housing, Adverse Childhood Experiences, Sex Offending",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/long-joshua.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "David McCauley",
-          "title": "Visiting Lecturer, Pre-Law Advisor",
-          "email": "David_McCauley@uml.edu",
-          "research_interests": "",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/mccauley-david.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Yahayra Michel",
-          "title": "Assistant Teaching Professor, RHSA Mentor",
-          "email": "Yahayra_Michel@uml.edu",
-          "research_interests": "childhood victimization, poly-victimization, juvenile justice, child welfare, violence exposure, delinquency, intimate partner violence, parental violence",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/michel-yahayra.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Wilson Palacios",
-          "title": "Associate Professor",
-          "email": "Wilson_Palacios@uml.edu",
-          "research_interests": "Substance Abuse, Hidden Populations, Qualitative Research Methods",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/palacios-wilson.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Arie Perliger",
-          "title": "Professor",
-          "email": "Arie_Perliger@uml.edu",
-          "research_interests": "Political Violence and Extremism, Security Policy and Politics, Far-Right Politics (Europe, US and Israel)",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/perliger-arie.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Neil Shortland III",
-          "title": "Director, Center for Terrorism and Security Studies, Professor",
-          "email": "Neil_Shortland@uml.edu",
-          "research_interests": "Terrorism, Security, malevolent creativity & innovation, decision-making",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/shortland-neil.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Kelly Socia",
-          "title": "Professor",
-          "email": "Kelly_Socia@uml.edu",
-          "research_interests": "Public Opinion, punitivity, and crime control policies; Reentry and 'sex crime' policies; Spatial Analysis",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/socia-kelly.aspx",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Sheldon Zhang",
-          "title": "Professor",
-          "email": "Sheldon_Zhang@uml.edu",
-          "research_interests": "Transnational Organized Crime, Human Trafficking, Offender Re-entry and Rehabilitation, Program Evaluation",
-          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/zhang-sheldon.aspx",
           "crimrxiv_member": false
         },
         {
@@ -6914,11 +6951,67 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Angela Callahan",
+          "title": "Assistant Teaching Professor, Undergraduate Academic Advisor & Retention Coordinator, Online & Continuing Education",
+          "email": "Angela_Callahan@uml.edu",
+          "research_interests": "",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/callahan-angela.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Joselyne Chenane",
+          "title": "Associate Professor",
+          "email": "Joselyne_nkogo@uml.edu",
+          "research_interests": "Policing, race and justice, immigration, neighborhoods and crime, public opinion, comparative criminology",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/chenane-joselyne.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Emily Greene-Colozzi",
+          "title": "Assistant Professor",
+          "email": "Emily_GreeneColozzi@uml.edu",
+          "research_interests": "Mass and school shootings; terrorism; situational crime prevention; threat assessment; open-source intelligence",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/greene-colozzi-emily.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Rebecca Dunlea",
+          "title": "Assistant Professor",
+          "email": "rebecca_dunlea@uml.edu",
+          "research_interests": "Prosecution; Courtroom decision making; Social inequality; Applied research; Agency-level criminal justice",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/dunlea-rebecca.aspx",
+          "crimrxiv_member": false
+        },
+        {
           "name": "William Fisher",
           "title": "Professor Emeritus",
           "email": "William_Fisher@uml.edu",
           "research_interests": "Crime and mental illness, mental health law, statistics and research design",
           "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/fisher-william.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "James Forest",
+          "title": "Professor; Director of Security Studies",
+          "email": "James_Forest@uml.edu",
+          "research_interests": "International security studies, terrorism, weapons of mass destruction, homeland security",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/forest-james.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Andrew Harris",
+          "title": "Professor, Associate Dean for Research and Graduate Programs – FAHSS",
+          "email": "Andrew_Harris@uml.edu",
+          "research_interests": "Mental illness & the criminal justice system; sex offender management policy; juvenile justice policy",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/harris-andrew.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Christopher Harris",
+          "title": "Associate Professor, Undergraduate Program Coordinator, Transfer Student Advisor",
+          "email": "Christopher_Harris@uml.edu",
+          "research_interests": "Policing, Police Accountability, Youth/Gang Violence Reduction Strategies",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/harris-chris.aspx",
           "crimrxiv_member": false
         },
         {
@@ -6930,11 +7023,123 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Neil Shortland III",
+          "title": "Director, Center for Terrorism and Security Studies, Professor",
+          "email": "Neil_Shortland@uml.edu",
+          "research_interests": "Terrorism, Security, malevolent creativity & innovation, decision-making",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/shortland-neil.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Claire Lee",
+          "title": "Associate Professor, Co-director of Center for Asian American Studies",
+          "email": "Claire_Lee@uml.edu",
+          "research_interests": "Cybercrime, Cybersecurity, Cyberterrorism, Technologies & Society, Social Media, Immigration",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/lee-claire.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Cathy Levey",
+          "title": "Teaching Professor",
+          "email": "Cathy_Levey@uml.edu",
+          "research_interests": "Mental health issues in the Criminal Justice system, especially Corrections; Self-handicapping behaviors",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/levey-cathy.aspx",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Alan Jay Lincoln",
           "title": "Professor Emeritus and University Ombuds (retired)",
           "email": "Alan_Lincoln@uml.edu",
           "research_interests": "Social psychology, collective behavior/disasters, family violence, crime and violence in the family and public places, peace and conflict studies",
           "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/lincoln-alan-jay.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Christopher Linebarger",
+          "title": "Associate Professor",
+          "email": "Christopher_Linebarger@uml.edu",
+          "research_interests": "Civil wars, political violence, terrorism and security studies",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/linebarger-christopher.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Joshua Long",
+          "title": "Associate Professor",
+          "email": "Joshua_Long@uml.edu",
+          "research_interests": "Risk Assessment, Prison Classification, Restrictive Housing, Adverse Childhood Experiences, Sex Offending",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/long-joshua.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Yahayra Michel",
+          "title": "Assistant Teaching Professor, RHSA Mentor",
+          "email": "Yahayra_Michel@uml.edu",
+          "research_interests": "childhood victimization, poly-victimization, juvenile justice, child welfare, violence exposure, delinquency, intimate partner violence, parental violence",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/michel-yahayra.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Melissa Morabito",
+          "title": "Professor, Associate Chair – School of Criminology & Justice Studies",
+          "email": "Melissa_Morabito@uml.edu",
+          "research_interests": "Policing Innovation, behavioral health, sexual assault case attrition",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/morabito-melissa.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Wilson Palacios",
+          "title": "Associate Professor",
+          "email": "Wilson_Palacios@uml.edu",
+          "research_interests": "Substance Abuse, Hidden Populations, Qualitative Research Methods",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/palacios-wilson.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "April Pattavina",
+          "title": "Professor and Chair",
+          "email": "April_Pattavina@uml.edu",
+          "research_interests": "Corrections, gender-based violence, policy analysis, technology",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/pattavina-april.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Arie Perliger",
+          "title": "Professor",
+          "email": "Arie_Perliger@uml.edu",
+          "research_interests": "Political Violence and Extremism, Security Policy and Politics, Far-Right Politics (Europe, US and Israel)",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/perliger-arie.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Myunghoon Roh",
+          "title": "Assistant Teaching Professor",
+          "email": "Myunghoon_Roh@uml.edu",
+          "research_interests": "Criminological theory; comparative criminology; research methods; quantitative analysis; cybercrime; artificial intelligence in criminal justice; institutional anomie theory; international criminal justice",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/roh-myunghoon.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Amber Horning Ruf",
+          "title": "Associate Professor, Master's Program Coordinator",
+          "email": "Amber_Ruf@uml.edu",
+          "research_interests": "Human trafficking; Commercial sex markets; Criminal exploitation; Illicit markets; Social network analysis",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/horning-ruf-amber.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jason Rydberg",
+          "title": "Associate Professor, Ph.D. Program Director",
+          "email": "Jason_Rydberg@uml.edu",
+          "research_interests": "Quantitative methods; Program Evaluation; Recidivism; Sex Offense Policy",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/rydberg-jason.aspx",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Ryan Shields",
+          "title": "Associate Professor, Undergraduate Program Coordinator",
+          "email": "Ryan_Shields@uml.edu",
+          "research_interests": "Violence prevention and control, Sexual violence",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/shields-ryan.aspx",
           "crimrxiv_member": false
         },
         {
@@ -6946,15 +7151,32 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Kelly Socia",
+          "title": "Professor",
+          "email": "Kelly_Socia@uml.edu",
+          "research_interests": "Public Opinion, punitivity, and crime control policies; Reentry and 'sex crime' policies; Spatial Analysis",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/socia-kelly.aspx",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Linda Williams",
           "title": "Professor Emerita",
           "email": "Linda_Williams@uml.edu",
           "research_interests": "Violence against women, human trafficking, trauma & memory, research methods",
           "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/williams-linda.aspx",
           "crimrxiv_member": false
+        },
+        {
+          "name": "Sheldon Zhang",
+          "title": "Professor",
+          "email": "Sheldon_Zhang@uml.edu",
+          "research_interests": "Transnational Organized Crime, Human Trafficking, Offender Re-entry and Rehabilitation, Program Evaluation",
+          "profile_url": "https://www.uml.edu/fahss/criminal-justice/faculty/zhang-sheldon.aspx",
+          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "George Mason University",
@@ -6964,7 +7186,7 @@ window.__DATA__ = {
       "faculty_directory_url": "https://cls.gmu.edu/people/full_time_faculty",
       "extraction_status": "complete",
       "extraction_notes": "Extracted 30 full-time faculty from the Department of Criminology, Law and Society full-time faculty roster. Emails not displayed on directory; only the department email is public.",
-      "faculty_count": 30,
+      "faculty_count": 31,
       "faculty": [
         {
           "name": "Parwez Besmel",
@@ -6996,6 +7218,14 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Punishment, surveillance, pretrial justice, courts",
           "profile_url": "https://cls.gmu.edu/people/eeife",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Yasemin Irvin-Erickson",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "Violence against women, domestic violence, identity fraud victimization, economic empowerment of vulnerable populations",
+          "profile_url": "https://cls.gmu.edu/people/yirviner",
           "crimrxiv_member": false
         },
         {
@@ -7031,19 +7261,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Yasemin Irvin-Erickson",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Violence against women, domestic violence, identity fraud victimization, economic empowerment of vulnerable populations",
-          "profile_url": "https://cls.gmu.edu/people/yirviner",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Devon Johnson",
           "title": "Associate Professor",
           "email": "",
           "research_interests": "Public opinion on criminal justice issues, race and criminal justice, politics of crime and justice",
           "profile_url": "https://cls.gmu.edu/people/djohns22",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Catherine Kimbrell",
+          "title": "Research Assistant Professor",
+          "email": "skimbrel@gmu.edu",
+          "research_interests": "juvenile justice; victimology; restorative justice; evidence-based crime prevention; meta-analysis",
+          "profile_url": "https://cls.gmu.edu/people/skimbrel",
           "crimrxiv_member": false
         },
         {
@@ -7079,19 +7309,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Marie Mele Thomas",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "Social inequality and crime, victimization, interpersonal violence, victim advocacy",
-          "profile_url": "https://cls.gmu.edu/people/mmeletho",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Linda M. Merola",
           "title": "Associate Professor",
           "email": "",
           "research_interests": "Constitutional law, privacy and technology, terrorism, evidence-based courts, survey and experimental methods",
           "profile_url": "https://cls.gmu.edu/people/lmerola",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Daniela Oramas Mora",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Racial and ethnic disparities, courts and sentencing, prosecutorial discretion, policy evaluation",
+          "profile_url": "https://cls.gmu.edu/people/doramasm",
           "crimrxiv_member": false
         },
         {
@@ -7108,14 +7338,6 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Death penalty, comparative criminology, comparative law, human rights litigation, international criminal law",
           "profile_url": "https://cls.gmu.edu/people/anovak2",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Daniela Oramas Mora",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Racial and ethnic disparities, courts and sentencing, prosecutorial discretion, policy evaluation",
-          "profile_url": "https://cls.gmu.edu/people/doramasm",
           "crimrxiv_member": false
         },
         {
@@ -7140,6 +7362,14 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Victimization, interpersonal violence, crime prevention, school safety, comparative criminal justice",
           "profile_url": "https://cls.gmu.edu/people/asharia",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Marie Mele Thomas",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "Social inequality and crime, victimization, interpersonal violence, victim advocacy",
+          "profile_url": "https://cls.gmu.edu/people/mmeletho",
           "crimrxiv_member": false
         },
         {
@@ -7200,14 +7430,15 @@ window.__DATA__ = {
         },
         {
           "name": "Taryn Zastrow",
-          "title": "Postdoctoral Fellow",
+          "title": "Research Assistant Professor",
           "email": "",
           "research_interests": "Place-based criminology, crime analysis, community violence & health, policing, crime & public policy",
           "profile_url": "https://cls.gmu.edu/people/tzastrow",
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University at Albany, State University of New York",
@@ -7216,8 +7447,8 @@ window.__DATA__ = {
       "department_homepage": "https://www.albany.edu/scj",
       "faculty_directory_url": "https://www.albany.edu/scj/faculty",
       "extraction_status": "complete",
-      "extraction_notes": "All 37 faculty members listed on the directory page are included across four sections: core faculty (16), lecturers (6), adjunct faculty (11), and emeritus faculty (4). Research interests are not displayed on the directory page \u2014 only names, titles, emails, and profile links are shown. Graeme Newman and Terence P. Thornberry have no email listed. Matthew C. Ingram's profile is hosted under the Rockefeller College domain.",
-      "faculty_count": 37,
+      "extraction_notes": "All 37 faculty members listed on the directory page are included across four sections: core faculty (16), lecturers (6), adjunct faculty (11), and emeritus faculty (4). Research interests are not displayed on the directory page — only names, titles, emails, and profile links are shown. Graeme Newman and Terence P. Thornberry have no email listed. Matthew C. Ingram's profile is hosted under the Rockefeller College domain.",
+      "faculty_count": 36,
       "faculty": [
         {
           "name": "James Acker",
@@ -7225,6 +7456,22 @@ window.__DATA__ = {
           "email": "jacker@albany.edu",
           "research_interests": "social science into law, criminal procedure, criminal law, juvenile justice, miscarriages of justice, capital punishment",
           "profile_url": "https://www.albany.edu/scj/faculty/james-acker",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Bill Andrews",
+          "title": "Adjunct Professor",
+          "email": "wandrews@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/bill-andrews",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Rich Bader",
+          "title": "Adjunct Professor",
+          "email": "rbader@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/rich-bader",
           "crimrxiv_member": false
         },
         {
@@ -7236,11 +7483,43 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Adam C. Bouloukos",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "Rule of law; counter-narcotics; border control; human trafficking; forced migration; humanitarian delivery; refugee support; fundraising",
+          "profile_url": "https://www.albany.edu/rockefeller/faculty/adam-c-bouloukos",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Dennis DiBari",
+          "title": "Adjunct Professor",
+          "email": "dfdibari@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/dennis-dibari",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Jingyi Fei",
+          "title": "Adjunct Professor",
+          "email": "jfei@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/jingyi-fei",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Stephen Hogan",
           "title": "Visiting Assistant Professor",
           "email": "shogan@albany.edu",
           "research_interests": "Criminal Procedure law, Forensic Science, Criminal Courts, Cold Case Investigations",
           "profile_url": "https://www.albany.edu/scj/faculty/stephen-hogan",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Camela Hughes",
+          "title": "Lecturer and Director of the Cold Case Analysis Center",
+          "email": "camhughes@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/camela-hughes",
           "crimrxiv_member": false
         },
         {
@@ -7268,11 +7547,99 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Byunggu Kang",
+          "title": "Adjunct Professor",
+          "email": "bkang2@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/byunggu-kang",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Ryang Hui Kim",
+          "title": "Adjunct Professor",
+          "email": "rkim@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/ryang-hui-kim",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Andrea Kordzek",
+          "title": "Lecturer II, Undergraduate Program Director",
+          "email": "akordzek@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/andrea-kordzek",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Charles Lanier",
+          "title": "Lecturer",
+          "email": "clanier@albany.edu",
+          "research_interests": "Capital Punishment, corrections/reentry, the contributions of former prisoners, terrorism",
+          "profile_url": "https://www.albany.edu/scj/faculty/charles-lanier",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Colin Loftin",
+          "title": "Distinguished Professor Emeritus",
+          "email": "cloftin@albany.edu",
+          "research_interests": "Violence, Methodology and Statistics, Structural Factors, Measurement",
+          "profile_url": "https://www.albany.edu/scj/faculty/colin-loftin",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Morgan Madison",
+          "title": "Adjunct Professor",
+          "email": "mmadison@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/morgan-madison",
+          "crimrxiv_member": false
+        },
+        {
           "name": "John McCluskey",
           "title": "Senior Executive Director and Professor",
           "email": "jmccluskey@albany.edu",
           "research_interests": "Body-worn cameras (BWCs) and policing; artificial intelligence in criminal justice; procedural justice; teacher maltreatment and victimization; police performance evaluation",
           "profile_url": "https://www.albany.edu/scj/faculty/john-mccluskey",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "David McDowall",
+          "title": "Distinguished Professor Emeritus",
+          "email": "dmcdowall@albany.edu",
+          "research_interests": "Social distribution of crime and victimization; juvenile justice and firearm violence policies; violent crime and criminal victimization; quantitative methods",
+          "profile_url": "https://www.albany.edu/scj/faculty/david-mcdowall",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Leo Moscatelli",
+          "title": "Adjunct Professor",
+          "email": "lmoscatelli@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/leo-moscatelli",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Graeme Newman",
+          "title": "Distinguished Professor Emeritus",
+          "email": "",
+          "research_interests": "Comparative deviance, punishment and corrections, terrorism, criminological theory",
+          "profile_url": "https://www.albany.edu/scj/faculty/graeme-newman",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Andrew Palladino",
+          "title": "Adjunct Professor",
+          "email": "apalladino2@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/andrew-palladino",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Matt Pate",
+          "title": "Adjunct Assistant Professor",
+          "email": "spate@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/matt-pate",
           "crimrxiv_member": false
         },
         {
@@ -7300,19 +7667,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Jason P. Robey",
-          "title": "Assistant Professor",
-          "email": "jrobey@albany.edu",
-          "research_interests": "Criminal justice system and social inequalities, declining incarceration rates, disparities in criminal sentencing, peer influences on delinquency",
-          "profile_url": "https://www.albany.edu/scj/faculty/jason-p-robey",
+          "name": "Deb Privott",
+          "title": "Assistant Dean for Public Engagement, Director of UAlbany in the High School and Part-Time Lecturer",
+          "email": "dprivott@albany.edu",
+          "research_interests": "Youth justice, action research, public policy, health disparities, community engagement, girls' empowerment",
+          "profile_url": "https://www.albany.edu/uhs/faculty/deb-privott",
           "crimrxiv_member": false
         },
         {
-          "name": "Mary Ellen Stitt",
-          "title": "Assistant Professor",
-          "email": "mstitt@albany.edu",
-          "research_interests": "Substance use, mental illness, treatment-based alternatives, criminal courts, pretrial diversion, policing, underground drug markets",
-          "profile_url": "https://www.albany.edu/scj/faculty/mary-ellen-stitt",
+          "name": "Terence P. Thornberry",
+          "title": "Distinguished Professor Emeritus",
+          "email": "",
+          "research_interests": "delinquency and crime over the life course, gang membership and human development, causes and consequences of child maltreatment, intergenerational transmission of antisocial behavior",
+          "profile_url": "https://www.albany.edu/scj/faculty/terence-p-thornberry",
           "crimrxiv_member": false
         },
         {
@@ -7321,6 +7688,22 @@ window.__DATA__ = {
           "email": "mvogel@albany.edu",
           "research_interests": "Violence; Urban Sociology; Social Demography; Quantitative Methods; Applied Research & Program Evaluation",
           "profile_url": "https://www.albany.edu/scj/faculty/matt-vogel",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Brian Wade",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Community violence intervention strategies; urban underground markets; neighborhood social control",
+          "profile_url": "https://www.albany.edu/scj/faculty/brian-wade",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Deborah J. Chard-Wierschem",
+          "title": "Adjunct Professor",
+          "email": "dchard-wierschem@albany.edu",
+          "research_interests": "",
+          "profile_url": "https://www.albany.edu/scj/faculty/deborah-j-chard-wierschem",
           "crimrxiv_member": false
         },
         {
@@ -7348,175 +7731,16 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Diana L. Falco",
-          "title": "Criminal Justice Online Program Coordinator and Lecturer",
-          "email": "dfalco@albany.edu",
-          "research_interests": "Public opinion and punitiveness; capital punishment; police-community relationships; program evaluations; survey methodologies; criminal justice education",
-          "profile_url": "https://www.albany.edu/rockefeller/faculty/diana-l-falco",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Camela Hughes",
-          "title": "Lecturer and Director of the Cold Case Analysis Center",
-          "email": "camhughes@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/camela-hughes",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Andrea Kordzek",
-          "title": "Lecturer II, Undergraduate Program Director",
-          "email": "akordzek@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/andrea-kordzek",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Charles Lanier",
-          "title": "Lecturer",
-          "email": "clanier@albany.edu",
-          "research_interests": "Capital Punishment, corrections/reentry, the contributions of former prisoners, terrorism",
-          "profile_url": "https://www.albany.edu/scj/faculty/charles-lanier",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Deb Privott",
-          "title": "Assistant Dean for Public Engagement, Director of UAlbany in the High School and Part-Time Lecturer",
-          "email": "dprivott@albany.edu",
-          "research_interests": "Youth justice, action research, public policy, health disparities, community engagement, girls' empowerment",
-          "profile_url": "https://www.albany.edu/uhs/faculty/deb-privott",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Timbre Wulf",
           "title": "Lecturer",
           "email": "twulf@albany.edu",
           "research_interests": "Corrections, incarcerated women",
           "profile_url": "https://www.albany.edu/scj/faculty/timbre-wulf",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Bill Andrews",
-          "title": "Adjunct Professor",
-          "email": "wandrews@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/bill-andrews",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Rich Bader",
-          "title": "Adjunct Professor",
-          "email": "rbader@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/rich-bader",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Deborah J. Chard-Wierschem",
-          "title": "Adjunct Professor",
-          "email": "dchard-wierschem@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/deborah-j-chard-wierschem",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Dennis DiBari",
-          "title": "Adjunct Professor",
-          "email": "dfdibari@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/dennis-dibari",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jingyi Fei",
-          "title": "Adjunct Professor",
-          "email": "jfei@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/jingyi-fei",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ryang Hui Kim",
-          "title": "Adjunct Professor",
-          "email": "rkim@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/ryang-hui-kim",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Byunggu Kang",
-          "title": "Adjunct Professor",
-          "email": "bkang2@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/byunggu-kang",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Morgan Madison",
-          "title": "Adjunct Professor",
-          "email": "mmadison@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/morgan-madison",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Leo Moscatelli",
-          "title": "Adjunct Professor",
-          "email": "lmoscatelli@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/leo-moscatelli",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Andrew Palladino",
-          "title": "Adjunct Professor",
-          "email": "apalladino2@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/andrew-palladino",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Matt Pate",
-          "title": "Adjunct Professor",
-          "email": "spate@albany.edu",
-          "research_interests": "",
-          "profile_url": "https://www.albany.edu/scj/faculty/matt-pate",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Colin Loftin",
-          "title": "Distinguished Professor Emeritus",
-          "email": "cloftin@albany.edu",
-          "research_interests": "Violence, Methodology and Statistics, Structural Factors, Measurement",
-          "profile_url": "https://www.albany.edu/scj/faculty/colin-loftin",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "David McDowall",
-          "title": "Distinguished Professor Emeritus",
-          "email": "dmcdowall@albany.edu",
-          "research_interests": "Social distribution of crime and victimization; juvenile justice and firearm violence policies; violent crime and criminal victimization; quantitative methods",
-          "profile_url": "https://www.albany.edu/scj/faculty/david-mcdowall",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Graeme Newman",
-          "title": "Distinguished Professor Emeritus",
-          "email": "",
-          "research_interests": "Comparative deviance, punishment and corrections, terrorism, criminological theory",
-          "profile_url": "https://www.albany.edu/scj/faculty/graeme-newman",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Terence P. Thornberry",
-          "title": "Distinguished Professor Emeritus",
-          "email": "",
-          "research_interests": "delinquency and crime over the life course, gang membership and human development, causes and consequences of child maltreatment, intergenerational transmission of antisocial behavior",
-          "profile_url": "https://www.albany.edu/scj/faculty/terence-p-thornberry",
-          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Central Florida",
@@ -7525,8 +7749,8 @@ window.__DATA__ = {
       "department_homepage": "https://ccie.ucf.edu/criminaljustice/",
       "faculty_directory_url": "https://ccie.ucf.edu/criminaljustice/contact/#faculty",
       "extraction_status": "complete",
-      "extraction_notes": "Research interests and emails are not displayed on the directory page \u2014 only names, titles, and profile links are shown. Staff members (coordinators, administrative assistant, and interim dean) were excluded. All 26 faculty members listed on the page are included.",
-      "faculty_count": 26,
+      "extraction_notes": "Research interests and emails are not displayed on the directory page — only names, titles, and profile links are shown. Staff members (coordinators, administrative assistant, and interim dean) were excluded. All 26 faculty members listed on the page are included.",
+      "faculty_count": 23,
       "faculty": [
         {
           "name": "Thomas Baker",
@@ -7586,7 +7810,7 @@ window.__DATA__ = {
         },
         {
           "name": "Jon Gurney",
-          "title": "Instructor",
+          "title": "Lecturer",
           "email": "",
           "research_interests": "",
           "profile_url": "https://ccie.ucf.edu/person/jon-gurney/",
@@ -7622,14 +7846,6 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "",
           "profile_url": "https://ccie.ucf.edu/person/iryna-malendevych/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Christopher Marier",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Race, Policing, Punitiveness, Race and justice, Group conflict",
-          "profile_url": "https://ccie.ucf.edu/person/christopher-marier/",
           "crimrxiv_member": false
         },
         {
@@ -7673,14 +7889,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Shamir Ratansi",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "Policing, Criminology, Criminal Justice Administration, Situational Crime Prevention, Research Methodology, Data Analysis",
-          "profile_url": "https://ccie.ucf.edu/person/shamir-ratansi/",
-          "crimrxiv_member": false
-        },
-        {
           "name": "James Ray V",
           "title": "Associate Professor",
           "email": "",
@@ -7702,14 +7910,6 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Religion and social control theory; critical race theory; criminal legal systems responses to domestic violence; domestic violence research; race, crime, and justice",
           "profile_url": "https://ccie.ucf.edu/person/lee-ross/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Bruce Vail",
-          "title": "Instructor",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://ccie.ucf.edu/person/bruce-vail/",
           "crimrxiv_member": false
         },
         {
@@ -7737,7 +7937,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Cincinnati",
@@ -7747,7 +7948,7 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.cech.uc.edu/schools/criminaljustice/employees.html",
       "extraction_status": "complete",
       "extraction_notes": "Research interests are not listed on the directory page; they would need to be obtained from individual profile pages. The page lists everyone under a single \"Faculty\" section with no separate tabs. Staff members were excluded. Two faculty (John Eck, James Frank) had no title listed on the page. One \"User not found\" entry was excluded as data corruption.",
-      "faculty_count": 33,
+      "faculty_count": 34,
       "faculty": [
         {
           "name": "J C Barnes",
@@ -7783,7 +7984,7 @@ window.__DATA__ = {
         },
         {
           "name": "Leah Catherine Butler",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "butlerlh@ucmail.uc.edu",
           "research_interests": "corrections, race and racial attitudes on correctional policy, sexual victimization, intimate partner violence",
           "profile_url": "https://researchdirectory.uc.edu/p/butlerlh",
@@ -7871,7 +8072,7 @@ window.__DATA__ = {
         },
         {
           "name": "Brittany E. Hayes",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "hayestbe@ucmail.uc.edu",
           "research_interests": "Victimization; correlates, consequences, and responses to victimization; macro- and micro-level factors influencing behaviors and attitudes; child abuse and neglect; criminal justice",
           "profile_url": "https://researchdirectory.uc.edu/p/hayestbe",
@@ -7879,7 +8080,7 @@ window.__DATA__ = {
         },
         {
           "name": "Audrey Opal Hickert",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "hickerao@ucmail.uc.edu",
           "research_interests": "Post-conviction justice interventions, confinement as a setting for change, criminal justice program and policy analysis, life-course trajectories, community corrections",
           "profile_url": "https://researchdirectory.uc.edu/p/hickerao",
@@ -7891,6 +8092,14 @@ window.__DATA__ = {
           "email": "huffj9@ucmail.uc.edu",
           "research_interests": "Policing and program evaluation, experimental methods for police effectiveness and fairness, violence reduction strategies, gun crime investigations, use of force training, body-worn cameras, police officer retention, smart policing technology",
           "profile_url": "https://researchdirectory.uc.edu/p/huffj9",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Rachel M. Kail",
+          "title": "Post Doc Fellow",
+          "email": "kailrm@ucmail.uc.edu",
+          "research_interests": "",
+          "profile_url": "https://researchdirectory.uc.edu/p/kailrm",
           "crimrxiv_member": false
         },
         {
@@ -7911,7 +8120,7 @@ window.__DATA__ = {
         },
         {
           "name": "Sarah M Manchak",
-          "title": "Associate Professor, Undergraduate Program Director",
+          "title": "Professor, Undergraduate Program Director",
           "email": "manchash@ucmail.uc.edu",
           "research_interests": "Offenders with serious mental illness; Offenders with addiction; Forensic psychology; Substance abuse; Drug court evaluation",
           "profile_url": "https://researchdirectory.uc.edu/p/manchash",
@@ -7919,10 +8128,18 @@ window.__DATA__ = {
         },
         {
           "name": "Joseph L Nedelec",
-          "title": "Director of the MS Programs (On-Campus & Online)",
+          "title": "Professor, Director of the MS Programs (On-Campus & Online)",
           "email": "nedelejh@ucmail.uc.edu",
           "research_interests": "life-course/developmental criminology, biopsychosocial criminology, corrections, terrorism, cybercrime",
           "profile_url": "https://researchdirectory.uc.edu/p/nedelejh",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Amanda R. Pompoco",
+          "title": "Instructor - Adjunct",
+          "email": "pompocar@ucmail.uc.edu",
+          "research_interests": "Correctional education, institutional programming, transfer of knowledge to practitioners and policy-makers, assessment of correctional programs, effective intervention in community settings",
+          "profile_url": "https://researchdirectory.uc.edu/p/pompocar",
           "crimrxiv_member": false
         },
         {
@@ -7934,7 +8151,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "R\u00e1chael Anne Powers",
+          "name": "Ráchael Anne Powers",
           "title": "Associate Professor",
           "email": "powersro@ucmail.uc.edu",
           "research_interests": "Violent victimization, gender-based violence (IPV, sexual assault), hate crime, bystander behavior, victim and bystander agency, help-seeking behavior, campus/community violence prevention programs",
@@ -8004,27 +8221,20 @@ window.__DATA__ = {
           "research_interests": "Criminal Justice, Substance Abuse Counseling, Juvenile Court",
           "profile_url": "https://researchdirectory.uc.edu/p/wylers",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Amanda R. Pompoco",
-          "title": "Instructor - Adjunct",
-          "email": "pompocar@ucmail.uc.edu",
-          "research_interests": "Correctional education, institutional programming, transfer of knowledge to practitioners and policy-makers, assessment of correctional programs, effective intervention in community settings",
-          "profile_url": "https://researchdirectory.uc.edu/p/pompocar",
-          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
-      "institution": "University of Missouri\u2013St. Louis (UMSL)",
+      "institution": "University of Missouri–St. Louis (UMSL)",
       "source": "ADPCCJ",
       "department_name": "Criminology and Criminal Justice",
       "department_homepage": "https://www.umsl.edu/ccj/index.html",
       "faculty_directory_url": "https://www.umsl.edu/ccj/directory/index.html",
       "extraction_status": "complete",
       "extraction_notes": "Excluded administration staff (Jasmine Moore, Princess-Abiguail Timothy) and In Memoriam faculty (Bob Bursik, G. David Curry, TJ Taylor, Rick Rosenfeld). Research interests only shown for emeritus faculty on the emeritus page; core faculty research interests not listed on directory and only available on individual profiles. Adjunct faculty have no profile URLs listed. Some emeritus faculty areas of specialization may have been truncated in text extraction (e.g. Tim Maher, Allen Wagner, Richard Wright showed interests in the screenshot but parsed as empty in text extraction).",
-      "faculty_count": 22,
+      "faculty_count": 24,
       "faculty": [
         {
           "name": "Valerie Anderson",
@@ -8032,6 +8242,14 @@ window.__DATA__ = {
           "email": "valerie.anderson@umsl.edu",
           "research_interests": "Feminist criminology, Youth and adolescence, Victimization, System responses, Human trafficking, Community-engaged research",
           "profile_url": "https://www.umsl.edu/ccj/directory/anderson-valerie.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Brianna Baldwin",
+          "title": "Adjunct Instructor",
+          "email": "bjbkdb@umsl.edu",
+          "research_interests": "",
+          "profile_url": "",
           "crimrxiv_member": true
         },
         {
@@ -8043,11 +8261,75 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Gabe Crocker",
+          "title": "Adjunct Instructor",
+          "email": "crockerg@umsl.edu",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Kelsey Cundiff",
           "title": "Assistant Professor, Faculty",
           "email": "kcundiff@umsl.edu",
           "research_interests": "Crime trends, Communities and crime, Adolescent delinquency, Spatial analyses of crime",
           "profile_url": "https://www.umsl.edu/ccj/directory/cundiff-kelsey.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Joanne DeCaro",
+          "title": "Assistant Professor",
+          "email": "joannedecaro@umsl.edu",
+          "research_interests": "Trauma and incarceration; life and long-term sentences; aging and death in prison; moral injury and moral emotions; trauma-informed care; social and psychological aspects of reentry; ethics of carceral research",
+          "profile_url": "https://www.umsl.edu/ccj/directory/joanne-decaro.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Finn-Aage Esbensen",
+          "title": "Endowed Professor Emeritus",
+          "email": "",
+          "research_interests": "Youth violence and gangs; Evaluation research; Cross-cultural research",
+          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/esbensen.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Claire Greene",
+          "title": "Assistant Teaching Professor",
+          "email": "clairegreene@umsl.edu",
+          "research_interests": "Policing and technology; participatory and community-based surveillance; digital/online crime-prevention initiatives and groups; community perceptions of safety; community-engaged research",
+          "profile_url": "https://www.umsl.edu/ccj/directory/claire-greene.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Kaylin Haff",
+          "title": "Adjunct Instructor",
+          "email": "kchc55@mail.umsl.edu",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Daniel Isom",
+          "title": "Adjunct Instructor",
+          "email": "isomd@umsl.edu",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "David Klinger",
+          "title": "Professor Emeritus",
+          "email": "",
+          "research_interests": "Policing, Terrorism, Use of deadly force, Arrest practices, Officer-involved shootings, Police special weapons and tactics",
+          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/klinger.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Janet Lauritsen",
+          "title": "Curators' Distinguished Professor Emerita",
+          "email": "",
+          "research_interests": "Victimization; Gender and Violent Crime Trends; Quantitative Methods",
+          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/lauritsen.html",
           "crimrxiv_member": true
         },
         {
@@ -8059,6 +8341,38 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Brenda Loftin",
+          "title": "Adjunct Instructor",
+          "email": "loftinb@umsl.edu",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Niquita Loftis",
+          "title": "Adjunct Instructor",
+          "email": "nmve58@umsl.edu",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Tim Maher",
+          "title": "Teaching Professor Emeritus",
+          "email": "",
+          "research_interests": "Policing, police deviance, police sexual misconduct, police policy",
+          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/maher.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Shannon McAllister",
+          "title": "Adjunct Instructor",
+          "email": "whitleysha@umsl.edu",
+          "research_interests": "pretrial diversion, evidence-based practice, criminogenic needs, restorative justice, individualized supervision, pretrial services",
+          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/index.html",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Marisa Omori",
           "title": "PhD Graduate Director, Associate Professor, Administration, Faculty",
           "email": "marisa.omori@umsl.edu",
@@ -8067,8 +8381,16 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Colleen Polak",
+          "title": "Adjunct Instructor",
+          "email": "polakc@umsl.edu",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Lee Ann Slocum",
-          "title": "Professor, Administration, Faculty",
+          "title": "Curators’ Distinguished Professor",
           "email": "slocuml@umsl.edu",
           "research_interests": "Police-citizen relations; Developmental criminology; Research methods",
           "profile_url": "https://www.umsl.edu/ccj/directory/slocum-lee-ann.html",
@@ -8091,38 +8413,6 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Finn-Aage Esbensen",
-          "title": "Endowed Professor Emeritus",
-          "email": "",
-          "research_interests": "Youth violence and gangs; Evaluation research; Cross-cultural research",
-          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/esbensen.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "David Klinger",
-          "title": "Professor Emeritus",
-          "email": "",
-          "research_interests": "Policing, Terrorism, Use of deadly force, Arrest practices, Officer-involved shootings, Police special weapons and tactics",
-          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/klinger.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Janet Lauritsen",
-          "title": "Curators' Distinguished Professor Emerita",
-          "email": "",
-          "research_interests": "Victimization; Gender and Violent Crime Trends; Quantitative Methods",
-          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/lauritsen.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Tim Maher",
-          "title": "Teaching Professor Emeritus",
-          "email": "",
-          "research_interests": "Policing, police deviance, police sexual misconduct, police policy",
-          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/maher.html",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Allen Wagner",
           "title": "Associate Professor Emeritus",
           "email": "",
@@ -8137,73 +8427,10 @@ window.__DATA__ = {
           "research_interests": "Offender decision-making, Drug markets, Cross-cultural and qualitative research",
           "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/wright.html",
           "crimrxiv_member": true
-        },
-        {
-          "name": "Brianna Baldwin",
-          "title": "Adjunct Instructor",
-          "email": "bjbkdb@umsl.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Gabe Crocker",
-          "title": "Adjunct Instructor",
-          "email": "crockerg@umsl.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Kaylin Haff",
-          "title": "Adjunct Instructor",
-          "email": "kchc55@mail.umsl.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Daniel Isom",
-          "title": "Adjunct Instructor",
-          "email": "isomd@umsl.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Brenda Loftin",
-          "title": "Adjunct Instructor",
-          "email": "loftinb@umsl.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Niquita Loftis",
-          "title": "Adjunct Instructor",
-          "email": "nmve58@umsl.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Shannon McAllister",
-          "title": "Adjunct Instructor",
-          "email": "whitleysha@umsl.edu",
-          "research_interests": "pretrial diversion, evidence-based practice, criminogenic needs, restorative justice, individualized supervision, pretrial services",
-          "profile_url": "https://www.umsl.edu/ccj/directory/emeritus/index.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Colleen Polak",
-          "title": "Adjunct Instructor",
-          "email": "polakc@umsl.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
         }
       ],
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "The Pennsylvania State University",
@@ -8212,9 +8439,57 @@ window.__DATA__ = {
       "department_homepage": "https://sociology.la.psu.edu/",
       "faculty_directory_url": "https://sociology.la.psu.edu/people",
       "extraction_status": "complete",
-      "extraction_notes": "Department is joint Sociology and Criminology. Filtered to titles mentioning 'criminology' \u2014 reduced 98 \u2192 37.",
-      "faculty_count": 37,
+      "extraction_notes": "Department is joint Sociology and Criminology. Filtered to titles mentioning 'criminology' — reduced 98 → 37.",
+      "faculty_count": 38,
       "faculty": [
+        {
+          "name": "Jarl Ahlkvist",
+          "title": "Associate Teaching Professor of Sociology and Criminology",
+          "email": "jua22@psu.edu",
+          "research_interests": "Socioeconomic and Health Disparities; Youth Development, Identity, and Culture; Community Research; Popular Music and Media Studies",
+          "profile_url": "https://sociology.la.psu.edu/people/jarl-ahlkvist/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Mark Bergstrom",
+          "title": "Associate Teaching Professor Emeritus of Sociology and Criminology",
+          "email": "mhb105@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/mark-bergstrom/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Paul F. Clark",
+          "title": "Professor of Labor and Employment Relations and Criminology",
+          "email": "pfc2@psu.edu",
+          "research_interests": "unions, union organizing, collective bargaining, labor-management partnerships, labor-management relations",
+          "profile_url": "https://sociology.la.psu.edu/people/paul-f-clark/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Noah Painter-Davis",
+          "title": "Associate Clinical Professor, Department of Sociology and Criminology",
+          "email": "nxp190@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/noah-painter-davis/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "James Eisenstein",
+          "title": "Professor Emeritus of Political Science and Criminology",
+          "email": "j3e@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/james-eisenstein/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Samar Farage",
+          "title": "Associate Teaching Professor of Sociology and Criminology",
+          "email": "sxf14@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/samar-farage/",
+          "crimrxiv_member": false
+        },
         {
           "name": "Richard Felson",
           "title": "Professor of Criminology",
@@ -8248,6 +8523,46 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Jonathan Grine",
+          "title": "Adjunct Lecturer of Criminology",
+          "email": "jdg139@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/jonathan-grine/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Ahmet Guler",
+          "title": "Associate Teaching Professor of Criminology",
+          "email": "aguler@psu.edu",
+          "research_interests": "criminal justice policy, policing, terrorism, criminal justice reform, information technology in criminal justice, transnational crime",
+          "profile_url": "https://sociology.la.psu.edu/people/ahmet-guler/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Matthew Kleiman",
+          "title": "Clinical Professor of Criminology",
+          "email": "mxk1283@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/matthew-kleiman/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Greg Koehle",
+          "title": "Adjunct Lecturer of Criminology and Sociology",
+          "email": "gmk120@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/greg-koehle/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "John Kramer",
+          "title": "Professor Emeritus of Sociology and Criminology",
+          "email": "jhk@psu.edu",
+          "research_interests": "Decision making in criminal justice system and courts, sentencing guidelines, public policy development and evaluation, prosecutorial decision making, drug treatment program effectiveness, race and criminal sentencing",
+          "profile_url": "https://sociology.la.psu.edu/people/john-kramer/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Derek Kreager",
           "title": "Liberal Arts Professor of Criminology and Sociology",
           "email": "dak27@psu.edu",
@@ -8256,11 +8571,75 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Molly Monahan Lang",
+          "title": "Associate Teaching Professor in Sociology and Criminology",
+          "email": "mbm106@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/molly-monahan-lang/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Nancy Luke",
+          "title": "Research Scientist, Sociology and Criminology",
+          "email": "nkl10@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/nancy-luke/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Doris MacKenzie",
+          "title": "Adjunct Senior Scientist in Criminology",
+          "email": "dlm69@psu.edu",
+          "research_interests": "Correctional boot camps, corrections, and sentencing",
+          "profile_url": "https://sociology.la.psu.edu/people/doris-mackenzie/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Katya Moiseeva",
+          "title": "Assistant Teaching Professor of Sociology and Criminology",
+          "email": "emm7556@psu.edu",
+          "research_interests": "Critical Criminology, Mixed Methods, Sociology of Law, Law & Social Change, Drugs and Society, Economic Sociology, Social Theory",
+          "profile_url": "https://sociology.la.psu.edu/people/ekaterina-moiseeva/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Caylin Louis Moore",
+          "title": "Assistant Professor of Sociology and Criminology; Co-Funded Faculty, Social Science Research Institute (SSRI)",
+          "email": "clm7099@psu.edu",
+          "research_interests": "Crime, Law, and Deviance; State Classification; Criminal Legal System; Qualitative Methods; Geospatial Analysis (GIS)",
+          "profile_url": "https://sociology.la.psu.edu/people/caylin-louis-moore/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Holly Nguyen",
-          "title": "Associate Professor of Sociology and Criminology",
+          "title": "Professor of Sociology and Criminology",
           "email": "hollynguyen@psu.edu",
           "research_interests": "Rewards from criminal and non-criminal behavior, consequences of group crime, illicit drug markets, criminological theory",
           "profile_url": "https://sociology.la.psu.edu/people/holly-nguyen/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Robert Norvell",
+          "title": "Assistant Teaching Professor of Criminology",
+          "email": "rtn5097@psu.edu",
+          "research_interests": "Criminal law and procedure; trial courts and courtroom actors; forensic evidence; advocacy and public speaking",
+          "profile_url": "https://sociology.la.psu.edu/people/robert-norvell/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Wayne Osgood",
+          "title": "Professor Emeritus of Criminology and Sociology",
+          "email": "wosgood@psu.edu",
+          "research_interests": "Delinquency; problem behaviors during adolescence; multilevel models; causal analysis; criminology research methods; social disorganization; rural crime; adolescents' friendship networks; time use and delinquency",
+          "profile_url": "https://sociology.la.psu.edu/people/wayne-osgood/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "William Parsonage",
+          "title": "Professor Emeritus of Criminology",
+          "email": "w5p@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/william-parsonage/",
           "crimrxiv_member": false
         },
         {
@@ -8272,6 +8651,30 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Andrew Ritchey",
+          "title": "Adjunct Lecturer of Criminology",
+          "email": "ajr328@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/andrew-ritchey/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Tim Robicheaux",
+          "title": "Teaching Professor of Sociology and Criminology",
+          "email": "trr10@psu.edu",
+          "research_interests": "eyewitness memory, jury decision-making, death penalty, punitive damages, civil justice, legal psychology",
+          "profile_url": "https://sociology.la.psu.edu/people/tim-robicheaux/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Martha Sherman",
+          "title": "Associate Teaching Professor of Sociology and Criminology",
+          "email": "meg247@psu.edu",
+          "research_interests": "Sociology of the family",
+          "profile_url": "https://sociology.la.psu.edu/people/martha-sherman/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Eric Silver",
           "title": "Professor of Sociology and Criminology",
           "email": "esilver@psu.edu",
@@ -8280,11 +8683,35 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Howard Smith",
+          "title": "Teaching Professor of Criminology",
+          "email": "hbs103@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/howard-smith/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Jeremy Staff",
           "title": "Professor of Sociology, Criminology, and Demography",
           "email": "jus25@psu.edu",
           "research_interests": "Criminology, substance use, adolescent and young adult development",
           "profile_url": "https://sociology.la.psu.edu/people/jeremy-staff/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Darrell Steffensmeier",
+          "title": "John Kramer Professor Emeritus of Sociology and Criminology",
+          "email": "d4s@psu.edu",
+          "research_interests": "Criminological theory construction, gender and crime, age/life course criminality, race/ethnicity and crime, courts and sentencing, white collar and corporate crime, crime organizations/networks, communities and crime, female offending, immigration and crime",
+          "profile_url": "https://sociology.la.psu.edu/people/darrell-steffensmeier/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Caren Bloom-Steidle",
+          "title": "Teaching Professor of Sociology and Criminology",
+          "email": "ceb112@psu.edu",
+          "research_interests": "",
+          "profile_url": "https://sociology.la.psu.edu/people/caren-bloom-steidle/",
           "crimrxiv_member": false
         },
         {
@@ -8312,207 +8739,16 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Jarl Ahlkvist",
-          "title": "Associate Teaching Professor of Sociology and Criminology",
-          "email": "jua22@psu.edu",
-          "research_interests": "Socioeconomic and Health Disparities; Youth Development, Identity, and Culture; Community Research; Popular Music and Media Studies",
-          "profile_url": "https://sociology.la.psu.edu/people/jarl-ahlkvist/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Caren Bloom-Steidle",
-          "title": "Teaching Professor of Sociology and Criminology",
-          "email": "ceb112@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/caren-bloom-steidle/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Samar Farage",
-          "title": "Associate Teaching Professor of Sociology and Criminology",
-          "email": "sxf14@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/samar-farage/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Ahmet Guler",
-          "title": "Associate Teaching Professor of Criminology",
-          "email": "aguler@psu.edu",
-          "research_interests": "criminal justice policy, policing, terrorism, criminal justice reform, information technology in criminal justice, transnational crime",
-          "profile_url": "https://sociology.la.psu.edu/people/ahmet-guler/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Matthew Kleiman",
-          "title": "Clinical Professor of Criminology",
-          "email": "mxk1283@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/matthew-kleiman/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Katya Moiseeva",
-          "title": "Assistant Teaching Professor of Sociology and Criminology",
-          "email": "emm7556@psu.edu",
-          "research_interests": "Critical Criminology, Mixed Methods, Sociology of Law, Law & Social Change, Drugs and Society, Economic Sociology, Social Theory",
-          "profile_url": "https://sociology.la.psu.edu/people/ekaterina-moiseeva/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Molly Monahan Lang",
-          "title": "Associate Teaching Professor in Sociology and Criminology",
-          "email": "mbm106@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/molly-monahan-lang/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Robert Norvell",
-          "title": "Assistant Teaching Professor of Criminology",
-          "email": "rtn5097@psu.edu",
-          "research_interests": "Criminal law and procedure; trial courts and courtroom actors; forensic evidence; advocacy and public speaking",
-          "profile_url": "https://sociology.la.psu.edu/people/robert-norvell/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Noah Painter-Davis",
-          "title": "Associate Clinical Professor, Department of Sociology and Criminology",
-          "email": "nxp190@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/noah-painter-davis/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Tim Robicheaux",
-          "title": "Teaching Professor of Sociology and Criminology",
-          "email": "trr10@psu.edu",
-          "research_interests": "eyewitness memory, jury decision-making, death penalty, punitive damages, civil justice, legal psychology",
-          "profile_url": "https://sociology.la.psu.edu/people/tim-robicheaux/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Martha Sherman",
-          "title": "Associate Teaching Professor of Sociology and Criminology",
-          "email": "meg247@psu.edu",
-          "research_interests": "Sociology of the family",
-          "profile_url": "https://sociology.la.psu.edu/people/martha-sherman/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Howard Smith",
-          "title": "Teaching Professor of Criminology",
-          "email": "hbs103@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/howard-smith/",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Lecinda Yevchak",
           "title": "Associate Teaching Professor of Criminology",
           "email": "lmy3@psu.edu",
           "research_interests": "",
           "profile_url": "https://sociology.la.psu.edu/people/lecinda-yevchak/",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Paul F. Clark",
-          "title": "Professor of Labor and Employment Relations and Criminology",
-          "email": "pfc2@psu.edu",
-          "research_interests": "unions, union organizing, collective bargaining, labor-management partnerships, labor-management relations",
-          "profile_url": "https://sociology.la.psu.edu/people/paul-f-clark/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Nancy Luke",
-          "title": "Research Scientist, Sociology and Criminology",
-          "email": "nkl10@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/nancy-luke/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Doris MacKenzie",
-          "title": "Adjunct Senior Scientist in Criminology",
-          "email": "dlm69@psu.edu",
-          "research_interests": "Correctional boot camps, corrections, and sentencing",
-          "profile_url": "https://sociology.la.psu.edu/people/doris-mackenzie/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Mark Bergstrom",
-          "title": "Associate Teaching Professor Emeritus of Sociology and Criminology",
-          "email": "mhb105@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/mark-bergstrom/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "James Eisenstein",
-          "title": "Professor Emeritus of Political Science and Criminology",
-          "email": "j3e@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/james-eisenstein/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "John Kramer",
-          "title": "Professor Emeritus of Sociology and Criminology",
-          "email": "jhk@psu.edu",
-          "research_interests": "Decision making in criminal justice system and courts, sentencing guidelines, public policy development and evaluation, prosecutorial decision making, drug treatment program effectiveness, race and criminal sentencing",
-          "profile_url": "https://sociology.la.psu.edu/people/john-kramer/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Wayne Osgood",
-          "title": "Professor Emeritus of Criminology and Sociology",
-          "email": "wosgood@psu.edu",
-          "research_interests": "Delinquency; problem behaviors during adolescence; multilevel models; causal analysis; criminology research methods; social disorganization; rural crime; adolescents' friendship networks; time use and delinquency",
-          "profile_url": "https://sociology.la.psu.edu/people/wayne-osgood/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "William Parsonage",
-          "title": "Professor Emeritus of Criminology",
-          "email": "w5p@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/william-parsonage/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Darrell Steffensmeier",
-          "title": "John Kramer Professor Emeritus of Sociology and Criminology",
-          "email": "d4s@psu.edu",
-          "research_interests": "Criminological theory construction, gender and crime, age/life course criminality, race/ethnicity and crime, courts and sentencing, white collar and corporate crime, crime organizations/networks, communities and crime, female offending, immigration and crime",
-          "profile_url": "https://sociology.la.psu.edu/people/darrell-steffensmeier/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jonathan Grine",
-          "title": "Adjunct Lecturer of Criminology",
-          "email": "jdg139@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/jonathan-grine/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Greg Koehle",
-          "title": "Adjunct Lecturer of Criminology and Sociology",
-          "email": "gmk120@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/greg-koehle/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Andrew Ritchey",
-          "title": "Adjunct Lecturer of Criminology",
-          "email": "ajr328@psu.edu",
-          "research_interests": "",
-          "profile_url": "https://sociology.la.psu.edu/people/andrew-ritchey/",
-          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Nevada, Las Vegas",
@@ -8521,23 +8757,31 @@ window.__DATA__ = {
       "department_homepage": "https://www.unlv.edu/criminaljustice",
       "faculty_directory_url": "https://www.unlv.edu/criminaljustice/directory",
       "extraction_status": "complete",
-      "extraction_notes": "Research interests not shown on the directory page \u2014 only available on individual profile pages. The page lists all faculty members in a single section with no separate tabs for core/affiliated/emeritus. Staff members (Samaan Nur, Project Manager; Storm Wilson-Hillman, Administrative Assistant) were excluded as they are not faculty.",
-      "faculty_count": 17,
+      "extraction_notes": "Research interests not shown on the directory page — only available on individual profile pages. The page lists all faculty members in a single section with no separate tabs for core/affiliated/emeritus. Staff members (Samaan Nur, Project Manager; Storm Wilson-Hillman, Administrative Assistant) were excluded as they are not faculty.",
+      "faculty_count": 16,
       "faculty": [
-        {
-          "name": "Alexa Bejinariu",
-          "title": "Visiting Assistant Professor, Internship Coordinator, Undergraduate Coordinator",
-          "email": "elena.bejinariu@unlv.edu",
-          "research_interests": "human trafficking, commercial sexual exploitation, intimate partner violence, immigration",
-          "profile_url": "https://www.unlv.edu/people/alexa-bejinariu",
-          "crimrxiv_member": false
-        },
         {
           "name": "E. Lee Bernick",
           "title": "Professor, Interim Chair of the Department of Criminal Justice",
           "email": "lee.bernick@unlv.edu",
           "research_interests": "Human resources management (career development), fiscal administration, survey methodology, executive leadership, state and local public policy",
           "profile_url": "https://www.unlv.edu/people/lee-bernick",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kaitlyn Bock",
+          "title": "Assistant Professor-in-Residence",
+          "email": "kaitlyn.bock@unlv.edu",
+          "research_interests": "Evidence-based correctional practices; adult drug courts; mental health and substance use in the criminal justice system",
+          "profile_url": "https://www.unlv.edu/people/kaitlyn-bock-phd",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Leobardo Lopez-Cristobal",
+          "title": "Visiting Assistant Professor",
+          "email": "leobardo.lopez-cristobal@unlv.edu",
+          "research_interests": "",
+          "profile_url": "https://www.unlv.edu/people/leobardo-lopez-cristobal",
           "crimrxiv_member": false
         },
         {
@@ -8557,14 +8801,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "M. Alexis Kennedy",
-          "title": "Professor",
-          "email": "alexis.kennedy@unlv.edu",
-          "research_interests": "Forensic psychology, victimization, children's welfare, human trafficking, compassion fatigue, criminal justice, mental health",
-          "profile_url": "https://www.unlv.edu/people/margaret-alexis-kennedy",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Amber Krushas",
           "title": "Assistant Professor",
           "email": "amber.krushas@unlv.edu",
@@ -8578,14 +8814,6 @@ window.__DATA__ = {
           "email": "joel.lieberman@unlv.edu",
           "research_interests": "jury decision making, inter-group conflict, police use of technology (social media, unmanned aerial vehicles/drones), sexual assaults in crowds",
           "profile_url": "https://www.unlv.edu/people/joel-lieberman",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Leobardo Lopez-Cristobal",
-          "title": "Visiting Assistant Professor",
-          "email": "leobardo.lopez-cristobal@unlv.edu",
-          "research_interests": "",
-          "profile_url": "https://www.unlv.edu/people/leobardo-lopez-cristobal",
           "crimrxiv_member": false
         },
         {
@@ -8621,6 +8849,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Steven Pace",
+          "title": "Assistant Professor-in-Residence",
+          "email": "steven.pace@unlv.edu",
+          "research_interests": "Police culture, theory, contemplative neuroscience, police stress, trauma",
+          "profile_url": "https://www.unlv.edu/people/steven-pace",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Seong Park",
           "title": "Associate Professor and Graduate Coordinator",
           "email": "seong.park@unlv.edu",
@@ -8651,17 +8887,10 @@ window.__DATA__ = {
           "research_interests": "Crime and disorder reduction policies, police order-maintenance practices, policing technologies, community crime prevention",
           "profile_url": "https://www.unlv.edu/people/william-sousa",
           "crimrxiv_member": false
-        },
-        {
-          "name": "Steven Pace",
-          "title": "Assistant Professor-in-Residence",
-          "email": "steven.pace@unlv.edu",
-          "research_interests": "Police culture, theory, contemplative neuroscience, police stress, trauma",
-          "profile_url": "https://www.unlv.edu/people/steven-pace",
-          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Washington State University",
@@ -8671,7 +8900,7 @@ window.__DATA__ = {
       "faculty_directory_url": "https://crmj.wsu.edu/faculty/",
       "extraction_status": "complete",
       "extraction_notes": "All 13 faculty listed on the directory page are included. Research interests are not explicitly listed on the directory page; additional roles/areas (e.g., Global Director, Complex Social Interaction Laboratory) are shown instead. Emeritus faculty are on a separate page (https://crmj.wsu.edu/emeritus/).",
-      "faculty_count": 13,
+      "faculty_count": 14,
       "faculty": [
         {
           "name": "David Brody",
@@ -8679,6 +8908,14 @@ window.__DATA__ = {
           "email": "brody@wsu.edu",
           "research_interests": "Global Director",
           "profile_url": "https://crmj.wsu.edu/faculty/wsu-profile/brody",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Suzanne St. George Coble",
+          "title": "Assistant Professor",
+          "email": "suzanne.coble@wsu.edu",
+          "research_interests": "Sexual violence, including theories of perpetration, rape myth acceptance, consent communication, and sexual assault case processing; how intersecting social identities influence perceptions of and responses to sexual violence; perceptions of fairness and equity among legal practitioners; the interrelationship between social structure and individuals’ attitudes and behavior",
+          "profile_url": "https://crmj.wsu.edu/faculty/wsu-profile/suzanne.coble",
           "crimrxiv_member": false
         },
         {
@@ -8699,7 +8936,7 @@ window.__DATA__ = {
         },
         {
           "name": "Cortney Franklin",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "c.franklin@wsu.edu",
           "research_interests": "Graduate Director",
           "profile_url": "https://crmj.wsu.edu/faculty/wsu-profile/c.franklin",
@@ -8723,7 +8960,7 @@ window.__DATA__ = {
         },
         {
           "name": "Faith Lutze",
-          "title": "Professor",
+          "title": "Professor Emeritus",
           "email": "lutze@wsu.edu",
           "research_interests": "Institutional corrections; community corrections; gender and justice; correctional industries; drug courts; violence towards women; lethal/lethality assessment; TBI and intimate partner violence",
           "profile_url": "https://crmj.wsu.edu/faculty/wsu-profile/lutze",
@@ -8746,14 +8983,6 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Melanie-Angela Neuilly (Wolf)",
-          "title": "Associate Professor",
-          "email": "m.neuilly@wsu.edu",
-          "research_interests": "Chair, Dept. of Criminal Justice and Criminology",
-          "profile_url": "https://crmj.wsu.edu/faculty/wsu-profile/m.neuilly",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Amelie Pedneault",
           "title": "Affiliate Faculty",
           "email": "amelie.pedneault@wsu.edu",
@@ -8771,14 +9000,23 @@ window.__DATA__ = {
         },
         {
           "name": "Dale Willits",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "dale.willits@wsu.edu",
           "research_interests": "Drug policy, policing, race, research methods, violence, criminological theory",
           "profile_url": "https://crmj.wsu.edu/faculty/wsu-profile/dale.willits",
           "crimrxiv_member": false
+        },
+        {
+          "name": "Melanie-Angela Neuilly (Wolf)",
+          "title": "Professor",
+          "email": "m.neuilly@wsu.edu",
+          "research_interests": "Chair, Dept. of Criminal Justice and Criminology",
+          "profile_url": "https://crmj.wsu.edu/faculty/wsu-profile/m.neuilly",
+          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "American University",
@@ -8787,52 +9025,12 @@ window.__DATA__ = {
       "department_homepage": "https://www.american.edu/spa/jlc/",
       "faculty_directory_url": "https://www.american.edu/spa/jlc/faculty.cfm",
       "extraction_status": "complete",
-      "extraction_notes": "All faculty listed on the page across three sections: Full-Time Faculty (29), Emeriti Faculty (5), and Adjunct Faculty (63). Some descriptions are truncated on the directory page so research interests are incomplete for many faculty. Adjunct faculty include some from related departments (SPA Finance & Personnel Administration, Online Partner Programs, SOE, WCL) who teach JLC courses. Cynthia Miller-Idriss is jointly appointed to SPA and School of Education. Thomas Zeitzoff is listed as Professor but description says associate professor. Excluded 'Adjunct Professorial Lecturer' and 'Adjunct Instructor' titles to focus on core faculty \u2014 reduced 107 \u2192 39.",
-      "faculty_count": 39,
+      "extraction_notes": "All faculty listed on the page across three sections: Full-Time Faculty (29), Emeriti Faculty (5), and Adjunct Faculty (63). Some descriptions are truncated on the directory page so research interests are incomplete for many faculty. Adjunct faculty include some from related departments (SPA Finance & Personnel Administration, Online Partner Programs, SOE, WCL) who teach JLC courses. Cynthia Miller-Idriss is jointly appointed to SPA and School of Education. Thomas Zeitzoff is listed as Professor but description says associate professor. Excluded 'Adjunct Professorial Lecturer' and 'Adjunct Instructor' titles to focus on core faculty — reduced 107 → 39.",
+      "faculty_count": 41,
       "faculty": [
         {
-          "name": "Jane Palmer",
-          "title": "Associate Professor",
-          "email": "jpalmer@american.edu",
-          "research_interests": "research methods, statistics, social policy, child & family policy, legal & policy responses to gender-based violence",
-          "profile_url": "https://www.american.edu/spa/faculty/jpalmer.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jessica Waters",
-          "title": "Senior Scholar in Residence",
-          "email": "waters@american.edu",
-          "research_interests": "Gender and the Law; Reproductive Rights and Justice",
-          "profile_url": "https://www.american.edu/spa/faculty/waters.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "TaLisa Carter",
-          "title": "Associate Professor",
-          "email": "carter@american.edu",
-          "research_interests": "deviance, social order, and criminal justice",
-          "profile_url": "https://www.american.edu/spa/faculty/carter.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Bryan Arva",
-          "title": "Professorial Lecturer",
-          "email": "arva@american.edu",
-          "research_interests": "Counterterrorism and Homeland Security",
-          "profile_url": "https://www.american.edu/spa/faculty/arva.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "David Malet",
-          "title": "Associate Professor",
-          "email": "malet@american.edu",
-          "research_interests": "political violence, transnational networks",
-          "profile_url": "https://www.american.edu/spa/faculty/malet.cfm",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Lynn Addington",
-          "title": "Professor",
+          "title": "Distinguished Professor",
           "email": "adding@american.edu",
           "research_interests": "violent crime and its impact on victims",
           "profile_url": "https://www.american.edu/spa/faculty/adding.cfm",
@@ -8844,6 +9042,14 @@ window.__DATA__ = {
           "email": "hahn@american.edu",
           "research_interests": "Law and Society; Legal Mobilizations; Global Justice; Transitional Justice in East Asia; Law and the Social Sciences; Litigation; Transnational Justice",
           "profile_url": "https://www.american.edu/spa/faculty/hahn.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Bryan Arva",
+          "title": "Professorial Lecturer",
+          "email": "arva@american.edu",
+          "research_interests": "Counterterrorism and Homeland Security",
+          "profile_url": "https://www.american.edu/spa/faculty/arva.cfm",
           "crimrxiv_member": false
         },
         {
@@ -8871,6 +9077,22 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Richard Bennett",
+          "title": "Emeritus Professor",
+          "email": "bennett@american.edu",
+          "research_interests": "comparative criminology and criminal justice",
+          "profile_url": "https://www.american.edu/profiles/faculty/bennett.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Mark Berlin",
+          "title": "Assistant Professor",
+          "email": "mberlin@american.edu",
+          "research_interests": "",
+          "profile_url": "https://www.american.edu/spa/faculty/mberlin.cfm",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Kevin Boyle",
           "title": "Professorial Lecturer",
           "email": "boyle@american.edu",
@@ -8884,6 +9106,30 @@ window.__DATA__ = {
           "email": "jbreslawski@american.edu",
           "research_interests": "",
           "profile_url": "https://www.american.edu/spa/faculty/jbreslawski.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "TaLisa Carter",
+          "title": "Associate Professor",
+          "email": "carter@american.edu",
+          "research_interests": "deviance, social order, and criminal justice",
+          "profile_url": "https://www.american.edu/spa/faculty/carter.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Khelani Clay",
+          "title": "Assistant Law Librarian",
+          "email": "kclay@wcl.american.edu",
+          "research_interests": "criminal justice, law and society, library science, legal education, legal research",
+          "profile_url": "https://www.american.edu/wcl/faculty/kclay.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Pasha Dashtgard",
+          "title": "Research Assistant Professor",
+          "email": "dashtgard@american.edu",
+          "research_interests": "Polarization and Extremism Research and Intervention",
+          "profile_url": "https://www.american.edu/spa/faculty/dashtgard.cfm",
           "crimrxiv_member": false
         },
         {
@@ -8943,11 +9189,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Rachael Goodman-Williams",
-          "title": "Assistant Professor",
-          "email": "rgoodmanwilliams@american.edu",
-          "research_interests": "Survivor-centered responses to sexual assault; community responses to sexual assault; forensic evidence collection; non-report of sexual assault to police; gender-based violence prevention",
-          "profile_url": "https://www.american.edu/spa/faculty/rgoodmanwilliams.cfm",
+          "name": "Brian Forst",
+          "title": "Emeritus Professor",
+          "email": "",
+          "research_interests": "legitimacy, exercise of discretion, prevention of terrorism, miscarriages of justice, sentencing",
+          "profile_url": "https://www.american.edu/spa/faculty/bforst.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Deirdre Golash",
+          "title": "Emeritus Associate Professor",
+          "email": "dgolash@american.edu",
+          "research_interests": "philosophy of law, moral justification of punishment",
+          "profile_url": "https://www.american.edu/spa/faculty/dgolash.cfm",
           "crimrxiv_member": false
         },
         {
@@ -8959,11 +9213,35 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Jason Snyder Hurst",
+          "title": "Senior Professorial Lecturer",
+          "email": "jtsnyder@american.edu",
+          "research_interests": "education law and education policy",
+          "profile_url": "https://www.american.edu/soe/faculty/jtsnyder.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Cynthia Miller-Idriss",
+          "title": "Professor",
+          "email": "",
+          "research_interests": "sociology",
+          "profile_url": "https://www.american.edu/spa/faculty/cynthia.cfm",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Janice Iwama",
           "title": "Associate Professor",
           "email": "iwama@american.edu",
           "research_interests": "Bias/Hate Crimes, Communities and Crime, Gun Violence, Policing, Race/Ethnicity/Immigration",
           "profile_url": "https://www.american.edu/spa/faculty/iwama.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Robert Johnson",
+          "title": "Emeritus Professor",
+          "email": "robertjohnson@american.edu",
+          "research_interests": "Crime and punishment, capital punishment, death penalty/execution process, social justice",
+          "profile_url": "https://www.american.edu/profiles/faculty/robertjohnson.cfm",
           "crimrxiv_member": false
         },
         {
@@ -8975,11 +9253,27 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Cynthia Miller-Idriss",
-          "title": "Professor",
-          "email": "",
-          "research_interests": "sociology",
-          "profile_url": "https://www.american.edu/spa/faculty/cynthia.cfm",
+          "name": "Stacie St. Louis",
+          "title": "Assistant Professor",
+          "email": "sst.louis@american.edu",
+          "research_interests": "Administration of justice, jails and pretrial detention, case processing, cumulative disadvantage, public opinion and reform, bail reform, pretrial justice",
+          "profile_url": "https://www.american.edu/spa/faculty/sst-louis.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "David Malet",
+          "title": "Associate Professor",
+          "email": "malet@american.edu",
+          "research_interests": "political violence, transnational networks",
+          "profile_url": "https://www.american.edu/spa/faculty/malet.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Renata Mustafina",
+          "title": "Assistant Professor",
+          "email": "rmustafina@american.edu",
+          "research_interests": "",
+          "profile_url": "https://www.american.edu/spa/faculty/rmustafina.cfm",
           "crimrxiv_member": false
         },
         {
@@ -8999,19 +9293,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Jane Palmer",
+          "title": "Professor",
+          "email": "jpalmer@american.edu",
+          "research_interests": "research methods, statistics, social policy, child & family policy, legal & policy responses to gender-based violence",
+          "profile_url": "https://www.american.edu/spa/faculty/jpalmer.cfm",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Sanja Pesek",
           "title": "Professorial Lecturer",
           "email": "sanjap@american.edu",
           "research_interests": "Political reconciliation, anti-corruption efforts, transitional justice mechanisms, atrocity prevention",
           "profile_url": "https://www.american.edu/spa/faculty/sanjap.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Stacie St. Louis",
-          "title": "Assistant Professor",
-          "email": "sst.louis@american.edu",
-          "research_interests": "Administration of justice, jails and pretrial detention, case processing, cumulative disadvantage, public opinion and reform, bail reform, pretrial justice",
-          "profile_url": "https://www.american.edu/spa/faculty/sst-louis.cfm",
           "crimrxiv_member": false
         },
         {
@@ -9023,43 +9317,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Thomas Zeitzoff",
-          "title": "Professor",
-          "email": "zeitzoff@american.edu",
-          "research_interests": "Political violence, political psychology, social media, exposure to violence and political attitudes",
-          "profile_url": "https://www.american.edu/spa/faculty/zeitzoff.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Richard Bennett",
-          "title": "Emeritus Professor",
-          "email": "bennett@american.edu",
-          "research_interests": "comparative criminology and criminal justice",
-          "profile_url": "https://www.american.edu/profiles/faculty/bennett.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Brian Forst",
-          "title": "Emeritus Professor",
-          "email": "",
-          "research_interests": "legitimacy, exercise of discretion, prevention of terrorism, miscarriages of justice, sentencing",
-          "profile_url": "https://www.american.edu/spa/faculty/bforst.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Deirdre Golash",
-          "title": "Emeritus Associate Professor",
-          "email": "dgolash@american.edu",
-          "research_interests": "philosophy of law, moral justification of punishment",
-          "profile_url": "https://www.american.edu/spa/faculty/dgolash.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Robert Johnson",
-          "title": "Emeritus Professor",
-          "email": "robertjohnson@american.edu",
-          "research_interests": "Crime and punishment, capital punishment, death penalty/execution process, social justice",
-          "profile_url": "https://www.american.edu/profiles/faculty/robertjohnson.cfm",
+          "name": "Jessica Waters",
+          "title": "Senior Scholar in Residence",
+          "email": "waters@american.edu",
+          "research_interests": "Gender and the Law; Reproductive Rights and Justice",
+          "profile_url": "https://www.american.edu/spa/faculty/waters.cfm",
           "crimrxiv_member": false
         },
         {
@@ -9071,39 +9333,32 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Khelani Clay",
-          "title": "Assistant Law Librarian",
-          "email": "kclay@wcl.american.edu",
-          "research_interests": "criminal justice, law and society, library science, legal education, legal research",
-          "profile_url": "https://www.american.edu/wcl/faculty/kclay.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Pasha Dashtgard",
-          "title": "Research Assistant Professor",
-          "email": "dashtgard@american.edu",
-          "research_interests": "Polarization and Extremism Research and Intervention",
-          "profile_url": "https://www.american.edu/spa/faculty/dashtgard.cfm",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Jason Snyder Hurst",
-          "title": "Senior Professorial Lecturer",
-          "email": "jtsnyder@american.edu",
-          "research_interests": "education law and education policy",
-          "profile_url": "https://www.american.edu/soe/faculty/jtsnyder.cfm",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Jennifer West",
           "title": "Senior Researcher",
           "email": "jwest@american.edu",
           "research_interests": "incels, right-wing extremism, male supremacy, support for male supremacist ideologies in women and girls",
           "profile_url": "https://www.american.edu/profiles/staff/jwest.cfm",
           "crimrxiv_member": false
+        },
+        {
+          "name": "Rachael Goodman-Williams",
+          "title": "Assistant Professor",
+          "email": "rgoodmanwilliams@american.edu",
+          "research_interests": "Survivor-centered responses to sexual assault; community responses to sexual assault; forensic evidence collection; non-report of sexual assault to police; gender-based violence prevention",
+          "profile_url": "https://www.american.edu/spa/faculty/rgoodmanwilliams.cfm",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Thomas Zeitzoff",
+          "title": "Professor",
+          "email": "zeitzoff@american.edu",
+          "research_interests": "Political violence, political psychology, social media, exposure to violence and political attitudes",
+          "profile_url": "https://www.american.edu/spa/faculty/zeitzoff.cfm",
+          "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Louisville",
@@ -9112,8 +9367,8 @@ window.__DATA__ = {
       "department_homepage": "https://artsandsciences.louisville.edu/criminal-justice",
       "faculty_directory_url": "https://artsandsciences.louisville.edu/search?collection=uol1~sp-main&query=&f_Tabs%7Cuol1~ds-directory=Directory&f_People_Directory%7Cdepartment=college%20of%20arts%20%26%20sciences%20-%20criminal%20-%20justice&sort=metalastName",
       "extraction_status": "complete",
-      "extraction_notes": "Directory lists 41 total people across all employee types (faculty, staff, graduate teaching assistants). Research interests are not shown on the directory listing \u2014 only name, title, phone, and email are provided. No individual profile URLs are available on the listing pages as entries lack links to personal profile pages. The directory is sorted alphabetically by last name and includes active, inactive, and contract/term faculty.",
-      "faculty_count": 41,
+      "extraction_notes": "Directory lists 41 total people across all employee types (faculty, staff, graduate teaching assistants). Research interests are not shown on the directory listing — only name, title, phone, and email are provided. No individual profile URLs are available on the listing pages as entries lack links to personal profile pages. The directory is sorted alphabetically by last name and includes active, inactive, and contract/term faculty.",
+      "faculty_count": 24,
       "faculty": [
         {
           "name": "Viviana Andreescu",
@@ -9180,6 +9435,14 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "John Gregory",
+          "title": "Lecturer / Contract",
+          "email": "john.gregory@louisville.edu",
+          "research_interests": "",
+          "profile_url": "https://louisville.edu/directory/john_gregory",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Elizabeth Grossi",
           "title": "Assoc Professor",
           "email": "grossi@louisville.edu",
@@ -9204,35 +9467,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "George Higgins",
-          "title": "Professor",
-          "email": "george.higgins@louisville.edu",
-          "research_interests": "criminological theory testing, organizational theories in criminal justice, cybercrime, substance use, race and ethnicity differences, criminal justice organizations, suicide",
-          "profile_url": "https://profiles.louisville.edu/george.higgins",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Thomas Hughes",
-          "title": "Professor",
-          "email": "thomas.hughes@louisville.edu",
-          "research_interests": "evidence-based policing, Fourth Amendment issues in policing",
-          "profile_url": "https://profiles.louisville.edu/thomas.hughes",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Katie Hughes-Taylor",
-          "title": "Asst Professor Term",
-          "email": "katie.hughes@louisville.edu",
-          "research_interests": "corrections, correctional officers, stress, trauma exposure, PTSD, coping mechanisms, mental health, health and wellness in LEOs",
-          "profile_url": "https://profiles.louisville.edu/katie.hughes",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Deborah Keeling",
           "title": "Lecturer / Contract",
           "email": "deborah.wilson@louisville.edu",
           "research_interests": "Policing, citizen attitudes toward police, bias in policing, vehicle stops, criminal justice administration",
           "profile_url": "https://louisville.edu/justice/people-1/Keeling.html",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Michelle Kuiper",
+          "title": "Lecturer Inactive",
+          "email": "michelle.kuiper@louisville.edu",
+          "research_interests": "",
+          "profile_url": "https://louisville.edu/directory/michelle_kuiper",
           "crimrxiv_member": false
         },
         {
@@ -9249,14 +9496,6 @@ window.__DATA__ = {
           "email": "heather.ouellette@louisville.edu",
           "research_interests": "jails, local corrections, pretrial detention, public attitudes toward justice policy, prisoner reentry, juvenile justice",
           "profile_url": "https://profiles.louisville.edu/heather.ouellette",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Cassandra Rausch-Todd",
-          "title": "Lecturer / Contract",
-          "email": "cassandra.rausch@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
           "crimrxiv_member": false
         },
         {
@@ -9284,11 +9523,35 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
+          "name": "Katie Hughes-Taylor",
+          "title": "Asst Professor Term",
+          "email": "katie.hughes@louisville.edu",
+          "research_interests": "corrections, correctional officers, stress, trauma exposure, PTSD, coping mechanisms, mental health, health and wellness in LEOs",
+          "profile_url": "https://profiles.louisville.edu/katie.hughes",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Cassandra Rausch-Todd",
+          "title": "Lecturer / Contract",
+          "email": "cassandra.rausch@louisville.edu",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Gennaro Vito",
           "title": "Professor",
           "email": "gennaro.vito@louisville.edu",
           "research_interests": "capital sentencing, attitudes toward capital punishment, police leadership and administration, evaluation of criminal policies and programs",
           "profile_url": "https://profiles.louisville.edu/gennaro.vito",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Anthony Vito",
+          "title": "Lecturer Inactive",
+          "email": "anthony.vito@louisville.edu",
+          "research_interests": "",
+          "profile_url": "https://louisville.edu/directory/anthony_vito",
           "crimrxiv_member": false
         },
         {
@@ -9300,7 +9563,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Pennsylvania",
@@ -9309,15 +9573,39 @@ window.__DATA__ = {
       "department_homepage": "https://crim.sas.upenn.edu",
       "faculty_directory_url": "https://crim.sas.upenn.edu/people/standing-faculty",
       "extraction_status": "complete",
-      "extraction_notes": "Faculty compiled from all department pages: Standing Faculty (10), Emeritus/Lecturers/Visiting (1: Richard Berk), Lecturers (1: Dilara Bural), Graduate Group Faculty (page 2 adds: Paul H. Robinson, Douglas Wiebe; others already in Standing Faculty), and Associated Faculty (1: William S. Laufer). Research interests are not shown on directory listings \u2014 only available on individual profile pages. Many emails are not listed on the directory. Graduate Group and Associated Faculty are cross-listed/affiliated faculty from other Penn departments.",
+      "extraction_notes": "Faculty compiled from all department pages: Standing Faculty (10), Emeritus/Lecturers/Visiting (1: Richard Berk), Lecturers (1: Dilara Bural), Graduate Group Faculty (page 2 adds: Paul H. Robinson, Douglas Wiebe; others already in Standing Faculty), and Associated Faculty (1: William S. Laufer). Research interests are not shown on directory listings — only available on individual profile pages. Many emails are not listed on the directory. Graduate Group and Associated Faculty are cross-listed/affiliated faculty from other Penn departments.",
       "faculty_count": 18,
       "faculty": [
+        {
+          "name": "Richard Berk",
+          "title": "Emeritus Professor of Criminology and Statistics",
+          "email": "berkr@sas.upenn.edu",
+          "research_interests": "Applied statistics, causal inference, statistical/machine learning, methods for evaluating social programs, inmate classification and placement systems, law enforcement strategies for reducing intimate partner violence, criminal behavior forecasting, victimization prediction",
+          "profile_url": "https://crim.sas.upenn.edu/people/richard-berk",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Robert F. Boruch",
+          "title": "University Trustee Chair Professor of Education and Statistics",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://crim.sas.upenn.edu/people/robert-f-boruch-0",
+          "crimrxiv_member": false
+        },
         {
           "name": "Anthony A. Braga",
           "title": "Jerry Lee Professor of Criminology",
           "email": "",
           "research_interests": "Crime prevention at problem places, gang violence, firearms and criminal access, randomized field experiments, evidence-based policing, proactive policing, crime and justice policy",
           "profile_url": "https://crim.sas.upenn.edu/people/anthony-braga",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Dilara Bural",
+          "title": "Lecturer in Criminology",
+          "email": "dbural@sas.upenn.edu",
+          "research_interests": "Illicit markets, product counterfeiting, crime analysis, law enforcement practices, transnational crime",
+          "profile_url": "https://crim.sas.upenn.edu/people/dilara-bural-0",
           "crimrxiv_member": false
         },
         {
@@ -9330,7 +9618,7 @@ window.__DATA__ = {
         },
         {
           "name": "Maria Cuellar",
-          "title": "Assistant Professor of Criminology, Assistant Professor of Statistics and Data Science",
+          "title": "Associate Professor of Criminology, Assistant Professor of Statistics and Data Science",
           "email": "mcuellar@sas.upenn.edu",
           "research_interests": "Causal inference, analysis of forensic evidence, statistics in the law",
           "profile_url": "https://crim.sas.upenn.edu/people/maria-cuellar",
@@ -9342,6 +9630,14 @@ window.__DATA__ = {
           "email": "davekirk@sas.upenn.edu",
           "research_interests": "Cynicism and distrust of police and the law; criminal recidivism; gun violence; neighborhoods and social context; criminal justice system",
           "profile_url": "https://crim.sas.upenn.edu/people/david-kirk",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "William S. Laufer",
+          "title": "Julian Aresty Professor of Legal Studies and Business Ethics",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://crim.sas.upenn.edu/people/william-s-laufer",
           "crimrxiv_member": false
         },
         {
@@ -9361,7 +9657,15 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Aur\u00e9lie Ouss",
+          "name": "Stephen J. Morse",
+          "title": "Ferdinand Wakeman Hubbell Professor of Law",
+          "email": "",
+          "research_interests": "Criminal law; Psychology and law; Law and psychiatry; Neuroscience and law",
+          "profile_url": "https://crim.sas.upenn.edu/people/stephen-j-morse-0",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Aurélie Ouss",
           "title": "Associate Professor and Undergraduate Chair",
           "email": "aouss@sas.upenn.edu",
           "research_interests": "Economics of crime, criminal justice policy, post-doctoral fellowship at University of Chicago Crime Lab",
@@ -9385,59 +9689,19 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Greg Ridgeway",
-          "title": "Rebecca W. Bushnell Professor of Criminology, and Professor of Statistics and Data Science",
-          "email": "gridge@sas.upenn.edu",
-          "research_interests": "statistical and computational methods for crime research, police use of force, racial bias in policing, benchmarking justice system performance, policy interventions (crime prevention, drug treatment), causal inference",
-          "profile_url": "https://crim.sas.upenn.edu/people/greg-ridgeway",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Richard Berk",
-          "title": "Emeritus Professor of Criminology and Statistics",
-          "email": "berkr@sas.upenn.edu",
-          "research_interests": "Applied statistics, causal inference, statistical/machine learning, methods for evaluating social programs, inmate classification and placement systems, law enforcement strategies for reducing intimate partner violence, criminal behavior forecasting, victimization prediction",
-          "profile_url": "https://crim.sas.upenn.edu/people/richard-berk",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Dilara Bural",
-          "title": "Lecturer in Criminology",
-          "email": "dbural@sas.upenn.edu",
-          "research_interests": "Illicit markets, product counterfeiting, crime analysis, law enforcement practices, transnational crime",
-          "profile_url": "https://crim.sas.upenn.edu/people/dilara-bural-0",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Robert F. Boruch",
-          "title": "University Trustee Chair Professor of Education and Statistics",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://crim.sas.upenn.edu/people/robert-f-boruch-0",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "William S. Laufer",
-          "title": "Julian Aresty Professor of Legal Studies and Business Ethics",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "https://crim.sas.upenn.edu/people/william-s-laufer",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Stephen J. Morse",
-          "title": "Ferdinand Wakeman Hubbell Professor of Law",
-          "email": "",
-          "research_interests": "Criminal law; Psychology and law; Law and psychiatry; Neuroscience and law",
-          "profile_url": "https://crim.sas.upenn.edu/people/stephen-j-morse-0",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Therese S. Richmond",
           "title": "Andrea B. Laporte Professor of Nursing",
           "email": "",
           "research_interests": "",
           "profile_url": "https://crim.sas.upenn.edu/people/therese-s-richmond",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Greg Ridgeway",
+          "title": "Rebecca W. Bushnell Professor of Criminology, and Professor of Statistics and Data Science",
+          "email": "gridge@sas.upenn.edu",
+          "research_interests": "statistical and computational methods for crime research, police use of force, racial bias in policing, benchmarking justice system performance, policy interventions (crime prevention, drug treatment), causal inference",
+          "profile_url": "https://crim.sas.upenn.edu/people/greg-ridgeway",
           "crimrxiv_member": false
         },
         {
@@ -9457,7 +9721,8 @@ window.__DATA__ = {
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of South Carolina",
@@ -9467,11 +9732,11 @@ window.__DATA__ = {
       "faculty_directory_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/index.php",
       "extraction_status": "complete",
       "extraction_notes": "Directory lists 29 entries including faculty, staff, and administrators. Research interests are not shown on the directory page. There is a separate Adjunct Faculty page not included here. Some entries are non-faculty staff (Administrative Assistant, Student Services Coordinator, Business Manager, Academic Advisor).",
-      "faculty_count": 25,
+      "faculty_count": 26,
       "faculty": [
         {
           "name": "Ian T. Adams",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "ian.adams@sc.edu",
           "research_interests": "Policing, Body-worn cameras, Policy evaluation",
           "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/adams_ian.php",
@@ -9503,7 +9768,7 @@ window.__DATA__ = {
         },
         {
           "name": "Hunter Boehme",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "boehme@mailbox.sc.edu",
           "research_interests": "Policy evaluation, Crime prevention, Geospatial crime analysis, Evidence-based policing",
           "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/boehme_hunter.php",
@@ -9534,6 +9799,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Frank DiRienzo",
+          "title": "Assistant Professor",
+          "email": "DIRIENZF@mailbox.sc.edu",
+          "research_interests": "How individuals and their social environments interact over time; victimization, offending, and health outcomes; causal inference methods; public health impacts of criminal justice involvement",
+          "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/dirienzo.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Veronica Gonzalez",
           "title": "Research Assistant Professor",
           "email": "VG10@mailbox.sc.edu",
@@ -9542,19 +9815,19 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Brent Klein",
-          "title": "Assistant Professor",
-          "email": "bk17@mailbox.sc.edu",
-          "research_interests": "Violent behavior (nature, emergence, causes, prevention); School, mass, community, and firearms-related violence; Domestic terrorism, extremism, ideologically motivated violence; Firearm policy; Violence prevention; Criminological theory",
-          "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/klein_brent.php",
+          "name": "Dawn Hendricks",
+          "title": "Instructor",
+          "email": "DH114@mailbox.sc.edu",
+          "research_interests": "",
+          "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/hendricks.php",
           "crimrxiv_member": true
         },
         {
-          "name": "Barbara Koons-Witt",
-          "title": "Professor",
-          "email": "bakoons@mailbox.sc.edu",
-          "research_interests": "Gender and criminal justice, women in courts and corrections, marginalized women in the criminal justice system, gender policy and practices in corrections",
-          "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/koons-witt_barbara.php",
+          "name": "Brent Klein",
+          "title": "Associate Professor",
+          "email": "bk17@mailbox.sc.edu",
+          "research_interests": "Violent behavior (nature, emergence, causes, prevention); School, mass, community, and firearms-related violence; Domestic terrorism, extremism, ideologically motivated violence; Firearm policy; Violence prevention; Criminological theory",
+          "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/klein_brent.php",
           "crimrxiv_member": true
         },
         {
@@ -9622,14 +9895,6 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Tia Stevens Andersen",
-          "title": "Associate Professor",
-          "email": "tstevens@mailbox.sc.edu",
-          "research_interests": "Mentoring to Disrupt the School-to-Prison Pipeline, Resilience and Positive Youth Development, Trauma, Victimization, and Protective Factors for Youth, Qualitative and Mixed Methodologies, Gendered Pathways into Delinquency and Alternative Schooling, Service and Experiential Learning, Racial, Gender, and Intersectional Inequalities in Juvenile Justice",
-          "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/stevens_tia.php",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Seth W. Stoughton",
           "title": "Professor (Affiliate)",
           "email": "swstough@law.sc.edu",
@@ -9668,9 +9933,18 @@ window.__DATA__ = {
           "research_interests": "capital punishment, restorative justice, prisoner reentry, gender and crime, crime in the media",
           "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/collins_kelsey.php",
           "crimrxiv_member": true
+        },
+        {
+          "name": "Barbara Koons-Witt",
+          "title": "Professor",
+          "email": "bakoons@mailbox.sc.edu",
+          "research_interests": "Gender and criminal justice, women in courts and corrections, marginalized women in the criminal justice system, gender policy and practices in corrections",
+          "profile_url": "https://sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/our_people/directory/koons-witt_barbara.php",
+          "crimrxiv_member": true
         }
       ],
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Nebraska at Omaha",
@@ -9680,174 +9954,14 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/faculty-and-staff.php#Faculty,%20Omaha%20campus-main",
       "extraction_status": "complete",
       "extraction_notes": "Included all faculty from Executive Leadership, Faculty (Omaha and Lincoln campuses), Executive Appointment, Adjunct Faculty, and Emeritus Faculty sections. Excluded non-faculty staff (academic advisors, office staff, research center staff) and \"In Memory\" entries (Benjamin Steiner, Susan Jacobs included Susan Jacobs as emerita). Research interests are only shown on the directory for Michaela Benson-Goldsmith; all other faculty have no research interests listed on the directory page. Some faculty (Lane Gillespie, John Johnson, Susan Jacobs) have no email listed. Scott Sasse and Laramie Sproles also appear in the Executive Leadership section.",
-      "faculty_count": 69,
+      "faculty_count": 70,
       "faculty": [
         {
-          "name": "Todd Armstrong",
-          "title": "Professor and Interim Director",
-          "email": "toddarmstrong@unomaha.edu",
-          "research_interests": "The Nature and Origins of Criminal Propensity; Program and Policy Evaluation",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/todd-armstrong.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Kendra Clark",
-          "title": "Instructor, Undergraduate Program Coordinator - Lincoln",
-          "email": "kdittbrenner@unomaha.edu",
-          "research_interests": "community corrections, court system, ethical dilemmas in law enforcement, substance abuse supervision",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/kendra-clark.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Kim Retzlaff",
-          "title": "Assistant Director for Undergraduate Programs",
-          "email": "kretzlaff@unomaha.edu",
-          "research_interests": "domestic violence, child victims, sexual assault, elder abuse, trauma-informed approaches, victimization, public safety",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/kim-retzlaff.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Scott Sasse",
-          "title": "Instructor, Internship Coordinator",
-          "email": "ssasse@unomaha.edu",
-          "research_interests": "victimization, sex offender predation, international criminal justice, program effectiveness, violence intervention, drug courts, juvenile justice, probation programs",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/scott-sasse.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Laramie Sproles",
-          "title": "Instructor, Undergraduate Program Coordinator - Omaha",
-          "email": "lsproles@unomaha.edu",
-          "research_interests": "criminological research, data management, domestic and international terrorism, environmental and animal-rights extremism, malevolent creativity, research methods, scientific literacy, statistical analysis",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/laramie-sproles.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Michaela Benson-Goldsmith",
-          "title": "Research Associate for the Victimology and Victim Studies Research Lab",
-          "email": "michaelagoldsmith@unomaha.edu",
-          "research_interests": "victimology, child abuse and neglect, juvenile justice",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/michaela-goldsmith.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Travis Carter",
-          "title": "Assistant Professor",
-          "email": "traviscarter@unomaha.edu",
-          "research_interests": "Policing, crime prevention, traffic enforcement, police workforce development, enforcement outcomes",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/travis-carter.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sam Clinkinbeard",
-          "title": "Elizabeth Reynolds & Beverly Reynolds Professor in Public Affairs and Community Service",
-          "email": "sclinkinbeard@unomaha.edu",
-          "research_interests": "Women in Law Enforcement; Gendered Self-Concepts; Future Orientation and Motivation; Juvenile Delinquency; At-Risk Behaviors among Adolescents",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/samantha-clinkinbeard.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Jessica Deitzer",
-          "title": "Assistant Professor",
-          "email": "jdeitzer@unomaha.edu",
-          "research_interests": "Criminal decision-making, harsh and unpredictable environments, short-term mindsets and crime, selection into situations/relationships/contexts, quantitative and qualitative methodology",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/jessica-deitzer.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Austin Doctor",
-          "title": "Associate Professor",
-          "email": "adoctor@unomaha.edu",
-          "research_interests": "Emerging threats, domestic and international terrorism, irregular warfare, violent non-state actors",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/austin-doctor.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Mark Foxall",
-          "title": "Community Service Associate, Master of Science in Criminal Justice Program Coordinator",
-          "email": "markfoxall@unomaha.edu",
-          "research_interests": "gun violence intervention, jail leadership, correctional management, policing, mental health in corrections, implicit bias, violent street gangs",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/mark-foxall.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Lane Gillespie",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "violence and victimization, intimate partner violence, gender and crime, rural crime and justice, program evaluation",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/lane-gillespie.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Zachary Hamilton",
-          "title": "Professor, Associate Director, Nebraska Center for Justice Research",
-          "email": "zhamilton@unomaha.edu",
-          "research_interests": "Risk and needs assessment development, adult corrections, juvenile justice, evidence-based practices, correctional program efficacy, offender assessment tools",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/zach-hamilton.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sadaf Hashimi",
-          "title": "Assistant Professor, TRAC Program Coordinator",
-          "email": "shashimi@unomaha.edu",
-          "research_interests": "Peer influence and crime, collective behavior, criminal justice policy, social network analysis, police use of force and misconduct, criminal group involvement, gun violence, victimization",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/sadaf-hashimi.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Dennis Hoffman",
-          "title": "Professor",
-          "email": "dhoffman@unomaha.edu",
-          "research_interests": "Organized Crime in Chicago",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/dennis-hoffman.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Erin Kearns",
-          "title": "Associate Professor",
-          "email": "ekearns@unomaha.edu",
-          "research_interests": "Terrorism, media coverage of terrorism, counterterrorism, public perceptions of terrorism, law enforcement, hate/bias crimes",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/erin-kearns.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Teresa Kulig",
-          "title": "Associate Professor, Elizabeth Reynolds & Beverly Reynolds Professor in Public Affairs and Community Service",
-          "email": "tkulig@unomaha.edu",
-          "research_interests": "Victimology; Human Trafficking",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/teresa-kulig.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Justin Nix",
-          "title": "Distinguished Professor, Master of Arts Program Coordinator",
-          "email": "jnix@unomaha.edu",
-          "research_interests": "Police legitimacy, officer decision-making",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/justin-nix.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ling Ren",
-          "title": "Professor",
-          "email": "lren@unomaha.edu",
-          "research_interests": "law enforcement response to opioid overdoses, domestic violence prosecution, police-citizen relations, cross-national research on crime and delinquency",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/ling-ren.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Tara Richards",
-          "title": "Distinguished Professor, David Scott Diamond Professor",
-          "email": "tararichards@unomaha.edu",
-          "research_interests": "sexual assault prevention and intervention; intimate partner violence; child abuse and neglect; crime victimization; victimology",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/tara-richards.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Jennifer Tostlebe",
-          "title": "Assistant Professor",
-          "email": "jtostlebe@unomaha.edu",
-          "research_interests": "Incarceration and reentry; mental and physical health; gangs in communities and institutions; empirical tests of criminological theory; criminal justice system responses to incarcerated individuals; solitary confinement",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/jennifer-tostlebe.php",
+          "name": "Beth Abramson",
+          "title": "Adjunct Professor",
+          "email": "eabramson@unomaha.edu",
+          "research_interests": "homicide, narcotics, domestic violence, robbery",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/beth-abramson.php",
           "crimrxiv_member": true
         },
         {
@@ -9856,54 +9970,6 @@ window.__DATA__ = {
           "email": "amyanderson@unomaha.edu",
           "research_interests": "Time Use and Deviance, Relationship between Family/School/Neighborhoods and Delinquency, Public Perceptions of Sex Offenders, Quantitative Methods",
           "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/amy-anderson.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Chris Eskridge",
-          "title": "Professor",
-          "email": "ceskridge@unl.edu",
-          "research_interests": "organized crime, international law, comparative criminal justice, criminal justice policy, capital punishment, genocide, corrections, hate crime",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/chris-eskridge.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Colleen Kadleck",
-          "title": "Associate Professor",
-          "email": "ckadleck@unomaha.edu",
-          "research_interests": "Policing, Quantitative Methods",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/colleen-kadleck.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Trisha Rhodes",
-          "title": "Instructor",
-          "email": "trhodes@unomaha.edu",
-          "research_interests": "Policing, research methods, justice for women and people of color, school resource officer roles, policing strategies, police organizational trends, officer wellbeing",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/trisha-rhodes.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Gaylene Armstrong",
-          "title": "Dean, Isaacson Professor",
-          "email": "garmstrong@unomaha.edu",
-          "research_interests": "Violence intervention and prevention, adult and youth corrections, juvenile justice reform, terrorism, criminal justice policy evaluation",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/gaylene-armstrong.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Candice Batton",
-          "title": "Associate Vice Chancellor for Academic Affairs, Associate Professor",
-          "email": "cbatton@unomaha.edu",
-          "research_interests": "Gender and crime and justice, historical trends in violence",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/candice-batton.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Beth Abramson",
-          "title": "Adjunct Professor",
-          "email": "eabramson@unomaha.edu",
-          "research_interests": "homicide, narcotics, domestic violence, robbery",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/beth-abramson.php",
           "crimrxiv_member": true
         },
         {
@@ -9923,6 +9989,38 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Todd Armstrong",
+          "title": "Professor and Interim Director",
+          "email": "toddarmstrong@unomaha.edu",
+          "research_interests": "The Nature and Origins of Criminal Propensity; Program and Policy Evaluation",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/todd-armstrong.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Gaylene Armstrong",
+          "title": "Dean, Isaacson Professor",
+          "email": "garmstrong@unomaha.edu",
+          "research_interests": "Violence intervention and prevention, adult and youth corrections, juvenile justice reform, terrorism, criminal justice policy evaluation",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/gaylene-armstrong.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Candice Batton",
+          "title": "Associate Vice Chancellor for Academic Affairs, Associate Professor",
+          "email": "cbatton@unomaha.edu",
+          "research_interests": "Gender and crime and justice, historical trends in violence",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/candice-batton.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Brenda Beadle",
+          "title": "Adjunct Professor",
+          "email": "",
+          "research_interests": "Prosecution; capital cases; homicide prosecution, including no-body and cold cases",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/brenda-beadle.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Pam Carey",
           "title": "Adjunct Professor",
           "email": "pcarey@unomaha.edu",
@@ -9931,11 +10029,43 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Travis Carter",
+          "title": "Assistant Professor",
+          "email": "traviscarter@unomaha.edu",
+          "research_interests": "Policing, crime prevention, traffic enforcement, police workforce development, enforcement outcomes",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/travis-carter.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Joy Citta",
           "title": "Adjunct Professor",
           "email": "jlcitta@unomaha.edu",
           "research_interests": "Strategic planning and policy development, violence against women, problem resolution",
           "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/joy-citta.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Kendra Clark",
+          "title": "Instructor, Undergraduate Program Coordinator - Lincoln",
+          "email": "kdittbrenner@unomaha.edu",
+          "research_interests": "community corrections, court system, ethical dilemmas in law enforcement, substance abuse supervision",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/kendra-clark.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sam Clinkinbeard",
+          "title": "Elizabeth Reynolds & Beverly Reynolds Professor in Public Affairs and Community Service",
+          "email": "sclinkinbeard@unomaha.edu",
+          "research_interests": "Women in Law Enforcement; Gendered Self-Concepts; Future Orientation and Motivation; Juvenile Delinquency; At-Risk Behaviors among Adolescents",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/samantha-clinkinbeard.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Krista London Couture",
+          "title": "Adjunct Professor",
+          "email": "kcouture@unomaha.edu",
+          "research_interests": "Hate-motivated violence, targeted violence prevention, counterterrorism, counter-radicalization, violent extremism, gendered approaches in countering violent extremism, community resilience",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/krista-london-couture.php",
           "crimrxiv_member": true
         },
         {
@@ -9963,11 +10093,59 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Jessica Deitzer",
+          "title": "Assistant Professor",
+          "email": "jdeitzer@unomaha.edu",
+          "research_interests": "Criminal decision-making, harsh and unpredictable environments, short-term mindsets and crime, selection into situations/relationships/contexts, quantitative and qualitative methodology",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/jessica-deitzer.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Austin Doctor",
+          "title": "Associate Professor",
+          "email": "adoctor@unomaha.edu",
+          "research_interests": "Emerging threats, domestic and international terrorism, irregular warfare, violent non-state actors",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/austin-doctor.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Chris Eskridge",
+          "title": "Professor",
+          "email": "ceskridge@unl.edu",
+          "research_interests": "organized crime, international law, comparative criminal justice, criminal justice policy, capital punishment, genocide, corrections, hate crime",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/chris-eskridge.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Mark Foxall",
+          "title": "Community Service Associate, Master of Science in Criminal Justice Program Coordinator",
+          "email": "markfoxall@unomaha.edu",
+          "research_interests": "gun violence intervention, jail leadership, correctional management, policing, mental health in corrections, implicit bias, violent street gangs",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/mark-foxall.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Julie Garman",
           "title": "Adjunct Professor",
           "email": "jgarman@unomaha.edu",
           "research_interests": "Program and Policy Evaluation, Deviant Behavior, Qualitative Methodology",
           "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/julie-garman.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Lane Gillespie",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "violence and victimization, intimate partner violence, gender and crime, rural crime and justice, program evaluation",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/lane-gillespie.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Michaela Benson-Goldsmith",
+          "title": "Research Associate for the Victimology and Victim Studies Research Lab",
+          "email": "michaelagoldsmith@unomaha.edu",
+          "research_interests": "victimology, child abuse and neglect, juvenile justice",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/michaela-goldsmith.php",
           "crimrxiv_member": true
         },
         {
@@ -9979,11 +10157,51 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Zachary Hamilton",
+          "title": "Professor, Associate Director, Nebraska Center for Justice Research",
+          "email": "zhamilton@unomaha.edu",
+          "research_interests": "Risk and needs assessment development, adult corrections, juvenile justice, evidence-based practices, correctional program efficacy, offender assessment tools",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/zach-hamilton.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sadaf Hashimi",
+          "title": "Assistant Professor, TRAC Program Coordinator",
+          "email": "shashimi@unomaha.edu",
+          "research_interests": "Peer influence and crime, collective behavior, criminal justice policy, social network analysis, police use of force and misconduct, criminal group involvement, gun violence, victimization",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/sadaf-hashimi.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "John C. Hicks, Jr.",
           "title": "Adjunct Professor",
           "email": "jhicks8@unomaha.edu",
           "research_interests": "corrections, jail administration, detention center management, correctional programs",
           "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/john-hicks.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Dennis Hoffman",
+          "title": "Professor",
+          "email": "dhoffman@unomaha.edu",
+          "research_interests": "Organized Crime in Chicago",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/dennis-hoffman.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Robert Houston",
+          "title": "Senior Community Research Associate",
+          "email": "rhouston@unomaha.edu",
+          "research_interests": "Correctional administration, jail standards, court monitoring, state corrections policy",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/robert-houston.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Susan Jacobs",
+          "title": "Associate Professor Emerita",
+          "email": "",
+          "research_interests": "criminal law, criminal procedure, court systems, constitutional protections for women, juvenile recidivism",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/susan-jacobs.php",
           "crimrxiv_member": true
         },
         {
@@ -10000,6 +10218,22 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "",
           "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/john-johnson.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Colleen Kadleck",
+          "title": "Associate Professor",
+          "email": "ckadleck@unomaha.edu",
+          "research_interests": "Policing, Quantitative Methods",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/colleen-kadleck.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Erin Kearns",
+          "title": "Associate Professor",
+          "email": "ekearns@unomaha.edu",
+          "research_interests": "Terrorism, media coverage of terrorism, counterterrorism, public perceptions of terrorism, law enforcement, hate/bias crimes",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/erin-kearns.php",
           "crimrxiv_member": true
         },
         {
@@ -10027,6 +10261,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Teresa Kulig",
+          "title": "Associate Professor, Elizabeth Reynolds & Beverly Reynolds Professor in Public Affairs and Community Service",
+          "email": "tkulig@unomaha.edu",
+          "research_interests": "Victimology; Human Trafficking",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/teresa-kulig.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Leisa Langemeier",
           "title": "Adjunct Professor",
           "email": "lmaranell@unomaha.edu",
@@ -10043,11 +10285,11 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Krista London Couture",
-          "title": "Adjunct Professor",
-          "email": "kcouture@unomaha.edu",
-          "research_interests": "Hate-motivated violence, targeted violence prevention, counterterrorism, counter-radicalization, violent extremism, gendered approaches in countering violent extremism, community resilience",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/krista-london-couture.php",
+          "name": "Chris Marshall",
+          "title": "Professor Emeritus",
+          "email": "cmarshall@unomaha.edu",
+          "research_interests": "Media and Crime, Evaluation Research, Policing, Victimization",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/chris-marshall.php",
           "crimrxiv_member": true
         },
         {
@@ -10107,6 +10349,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Justin Nix",
+          "title": "Distinguished Professor, Master of Arts Program Coordinator",
+          "email": "jnix@unomaha.edu",
+          "research_interests": "Police legitimacy, officer decision-making",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/justin-nix.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Marlene Novotny",
           "title": "Adjunct Professor",
           "email": "marlenenovotny@unomaha.edu",
@@ -10139,6 +10389,54 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Ling Ren",
+          "title": "Professor",
+          "email": "lren@unomaha.edu",
+          "research_interests": "law enforcement response to opioid overdoses, domestic violence prosecution, police-citizen relations, cross-national research on crime and delinquency",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/ling-ren.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Kim Retzlaff",
+          "title": "Assistant Director for Undergraduate Programs",
+          "email": "kretzlaff@unomaha.edu",
+          "research_interests": "domestic violence, child victims, sexual assault, elder abuse, trauma-informed approaches, victimization, public safety",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/kim-retzlaff.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Trisha Rhodes",
+          "title": "Instructor",
+          "email": "trhodes@unomaha.edu",
+          "research_interests": "Policing, research methods, justice for women and people of color, school resource officer roles, policing strategies, police organizational trends, officer wellbeing",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/trisha-rhodes.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Tara Richards",
+          "title": "Distinguished Professor, David Scott Diamond Professor",
+          "email": "tararichards@unomaha.edu",
+          "research_interests": "sexual assault prevention and intervention; intimate partner violence; child abuse and neglect; crime victimization; victimology",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/tara-richards.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Lisa Sample",
+          "title": "Professor Emerita",
+          "email": "lsample@unomaha.edu",
+          "research_interests": "criminal and juvenile justice policy, juvenile and criminal justice sentencing disparities, drug control policies, prison re-entry programs, sex offender behavior and policies, Civil & Government Systems, Violence & Suicide Prevention",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/lisa-sample.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Scott Sasse",
+          "title": "Instructor, Internship Coordinator",
+          "email": "ssasse@unomaha.edu",
+          "research_interests": "victimization, sex offender predation, international criminal justice, program effectiveness, violence intervention, drug courts, juvenile justice, probation programs",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/scott-sasse.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Laurie Scott",
           "title": "Adjunct Professor",
           "email": "lascott@unomaha.edu",
@@ -10155,11 +10453,43 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Laramie Sproles",
+          "title": "Instructor, Undergraduate Program Coordinator - Omaha",
+          "email": "lsproles@unomaha.edu",
+          "research_interests": "criminological research, data management, domestic and international terrorism, environmental and animal-rights extremism, malevolent creativity, research methods, scientific literacy, statistical analysis",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/laramie-sproles.php",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Rick Tast",
           "title": "Adjunct Professor",
           "email": "rtastjr@unomaha.edu",
           "research_interests": "criminal law, criminal procedure, civil litigation, public health law, unmanned aerial systems, public records requests",
           "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/rick-tast.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Jennifer Tostlebe",
+          "title": "Assistant Professor",
+          "email": "jtostlebe@unomaha.edu",
+          "research_interests": "Incarceration and reentry; mental and physical health; gangs in communities and institutions; empirical tests of criminological theory; criminal justice system responses to incarcerated individuals; solitary confinement",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/jennifer-tostlebe.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "William Wakefield",
+          "title": "Professor Emeritus",
+          "email": "wwakefie@unomaha.edu",
+          "research_interests": "Comparative Criminology and Criminal Justice, Corrections, Program Evaluation",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/william-wakefield.php",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Samuel Walker",
+          "title": "Professor Emeritus",
+          "email": "samwalker@unomaha.edu",
+          "research_interests": "policing, police accountability, civil liberties, criminal justice policy, history of policing, citizen oversight",
+          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/samuel-walker.php",
           "crimrxiv_member": true
         },
         {
@@ -10185,57 +10515,10 @@ window.__DATA__ = {
           "research_interests": "policing, juvenile justice, probation, police misconduct, labor relations, criminal prosecution, collective bargaining",
           "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/timothy-young.php",
           "crimrxiv_member": true
-        },
-        {
-          "name": "Robert Houston",
-          "title": "Senior Community Research Associate",
-          "email": "rhouston@unomaha.edu",
-          "research_interests": "Correctional administration, jail standards, court monitoring, state corrections policy",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/robert-houston.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Chris Marshall",
-          "title": "Professor Emeritus",
-          "email": "cmarshall@unomaha.edu",
-          "research_interests": "Media and Crime, Evaluation Research, Policing, Victimization",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/chris-marshall.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Lisa Sample",
-          "title": "Professor Emerita",
-          "email": "lsample@unomaha.edu",
-          "research_interests": "criminal and juvenile justice policy, juvenile and criminal justice sentencing disparities, drug control policies, prison re-entry programs, sex offender behavior and policies, Civil & Government Systems, Violence & Suicide Prevention",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/lisa-sample.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Samuel Walker",
-          "title": "Professor Emeritus",
-          "email": "samwalker@unomaha.edu",
-          "research_interests": "policing, police accountability, civil liberties, criminal justice policy, history of policing, citizen oversight",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/samuel-walker.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "William Wakefield",
-          "title": "Professor Emeritus",
-          "email": "wwakefie@unomaha.edu",
-          "research_interests": "Comparative Criminology and Criminal Justice, Corrections, Program Evaluation",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/william-wakefield.php",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Susan Jacobs",
-          "title": "Associate Professor Emerita",
-          "email": "",
-          "research_interests": "criminal law, criminal procedure, court systems, constitutional protections for women, juvenile recidivism",
-          "profile_url": "https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/susan-jacobs.php",
-          "crimrxiv_member": true
         }
       ],
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "The University of Texas at Dallas",
@@ -10244,8 +10527,8 @@ window.__DATA__ = {
       "department_homepage": "https://epps.utdallas.edu/about/programs/criminology-and-criminal-justice/",
       "faculty_directory_url": "https://profiles.utdallas.edu/schools/EPPS",
       "extraction_status": "complete",
-      "extraction_notes": "Original page (EPPS School profiles) listed faculty across multiple departments (Economics, Political Science, Geospatial, Public/Nonprofit Management, Sociology, and Criminology). Filtered to titles containing 'criminology' or 'criminal justice' \u2014 reduced 104 \u2192 7.",
-      "faculty_count": 7,
+      "extraction_notes": "Original page (EPPS School profiles) listed faculty across multiple departments (Economics, Political Science, Geospatial, Public/Nonprofit Management, Sociology, and Criminology). Filtered to titles containing 'criminology' or 'criminal justice' — reduced 104 → 7.",
+      "faculty_count": 8,
       "faculty": [
         {
           "name": "Megan Augustyn",
@@ -10288,6 +10571,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Arthur Vasquez",
+          "title": "Assistant Professor of Instruction - Criminology and Sociology",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "https://profiles.utdallas.edu/schools/EPPS",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Lynne Vieraitis",
           "title": "Professor of Criminology",
           "email": "",
@@ -10304,7 +10595,8 @@ window.__DATA__ = {
           "crimrxiv_member": true
         }
       ],
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Maribor",
@@ -10313,7 +10605,7 @@ window.__DATA__ = {
       "department_homepage": "https://www.fvv.um.si/en/",
       "faculty_directory_url": "https://www.fvv.um.si/en/about/employees-rest.html",
       "extraction_status": "complete",
-      "extraction_notes": "This page lists all 60+ employees but the 'Faculty Members' tab does not distinguish faculty from staff - it shows the same list as 'All'. Individual profiles were visited for Ph.D. holders to extract titles and research interests. Many profiles do not explicitly state an academic rank (Professor/Associate Professor/etc.) - only the bio text mentions it (e.g. Igor Bernik: 'Full Professor of Information Security', Igor Areh: 'Associate Professor in Psychology', Bojan Dobov\u0161ek: 'Full Professor of Criminal Investigation', Benjamin Flander: 'Associate Professor of Law', Branko Lobnikar: 'Full Professor of Security Studies'). For those without explicit titles, the title field is left empty. Some individuals listed under 'Faculty Members' appear to be staff (e.g. Petra Bajc, Gregor Bec, Barbara \u010cuvan, Barbara Erjavec, Nina Kr\u017ei\u010d, Aleksander Podlogar, Darja Stele, Tina \u0160trakl, Anja Zahirovi\u0107) and were excluded. The remaining faculty without Ph.D. or with minimal profile info (Petra Bajc, Jaro\u0161 Britov\u0161ek, Ale\u0161 Dolenec, etc.) were also excluded as they lack academic appointments. Research interests were extracted from individual profiles where available.",
+      "extraction_notes": "This page lists all 60+ employees but the 'Faculty Members' tab does not distinguish faculty from staff - it shows the same list as 'All'. Individual profiles were visited for Ph.D. holders to extract titles and research interests. Many profiles do not explicitly state an academic rank (Professor/Associate Professor/etc.) - only the bio text mentions it (e.g. Igor Bernik: 'Full Professor of Information Security', Igor Areh: 'Associate Professor in Psychology', Bojan Dobovšek: 'Full Professor of Criminal Investigation', Benjamin Flander: 'Associate Professor of Law', Branko Lobnikar: 'Full Professor of Security Studies'). For those without explicit titles, the title field is left empty. Some individuals listed under 'Faculty Members' appear to be staff (e.g. Petra Bajc, Gregor Bec, Barbara Čuvan, Barbara Erjavec, Nina Kržič, Aleksander Podlogar, Darja Stele, Tina Štrakl, Anja Zahirović) and were excluded. The remaining faculty without Ph.D. or with minimal profile info (Petra Bajc, Jaroš Britovšek, Aleš Dolenec, etc.) were also excluded as they lack academic appointments. Research interests were extracted from individual profiles where available.",
       "faculty_count": 26,
       "faculty": [
         {
@@ -10333,11 +10625,11 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Ale\u0161 Bu\u010dar Ru\u010dman",
-          "title": "Assistant Professor",
-          "email": "ales.bucar@um.si",
-          "research_interests": "media and crime, migration, violence, legitimacy and democracy, social control",
-          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=530",
+          "name": "Tomaž Čas",
+          "title": "",
+          "email": "tina.cas@siol.net",
+          "research_interests": "",
+          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=3453",
           "crimrxiv_member": false
         },
         {
@@ -10349,15 +10641,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Toma\u017e \u010cas",
-          "title": "",
-          "email": "tina.cas@siol.net",
-          "research_interests": "",
-          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=3453",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Bojan Dobov\u0161ek",
+          "name": "Bojan Dobovšek",
           "title": "Full Professor",
           "email": "bojan.dobovsek@um.si",
           "research_interests": "organised crime and informal economy, corruption and state capture, corruption networks, criminal investigation, ecological organised crime, drugs and human trafficking, art crime investigation, organised crime on Balkan",
@@ -10365,7 +10649,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Miha Dvojmo\u010d",
+          "name": "Miha Dvojmoč",
           "title": "",
           "email": "miha.dvojmoc@um.si",
           "research_interests": "Integral corporate security, Corporate Intelligence, Security and insurance industry, Protection of personal data, Information assurance and information security, Private security and detective activity",
@@ -10381,7 +10665,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Vanja Er\u010dulj",
+          "name": "Vanja Erčulj",
           "title": "",
           "email": "vanja.erculj@um.si",
           "research_interests": "validity and reliability of measurement, text mining, feeling of safety or fear of crime in local communities, structural equation modeling",
@@ -10397,7 +10681,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Danijela Frange\u017e",
+          "name": "Danijela Frangež",
           "title": "",
           "email": "danijela.frangez@um.si",
           "research_interests": "criminalistics, criminal investigation, criminal strategy, trafficking in human beings, violence against children, counterfeit medical products",
@@ -10421,27 +10705,43 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Bla\u017e Markelj",
+          "name": "Mojca Kompara Lukančič",
           "title": "",
+          "email": "mojca.kompara@um.si",
+          "research_interests": "lexicography, abbreviations, language acquisition, bilingualism, corpus linguistics, translation",
+          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=3482",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Blaž Markelj",
+          "title": "Head of Information security department",
           "email": "blaz.markelj@um.si",
           "research_interests": "information security, information security and mobile devices, information security and cloud",
           "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=624",
           "crimrxiv_member": false
         },
         {
-          "name": "Gorazd Me\u0161ko",
-          "title": "",
+          "name": "Gorazd Meško",
+          "title": "Head of the Institute of Criminal Justice and Security",
           "email": "gorazd.mesko@um.si",
           "research_interests": "comparative criminology, crime prevention, victimology, penology, policing, factors of delinquency, rural criminology",
           "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=626",
           "crimrxiv_member": false
         },
         {
-          "name": "An\u017ee Miheli\u010d",
+          "name": "Anže Mihelič",
           "title": "",
           "email": "anze.mihelic@um.si",
           "research_interests": "",
           "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=4330",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kaja Prislan Mihelič",
+          "title": "",
+          "email": "kaja.prislan@um.si",
+          "research_interests": "management of security organisations, security management, information security management, behavioral aspects of information security, safety and security in smart cities, modern technologies in safety and security provision",
+          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=632",
           "crimrxiv_member": false
         },
         {
@@ -10453,7 +10753,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Tinkara Pav\u0161i\u010d Mrevlje",
+          "name": "Tinkara Pavšič Mrevlje",
           "title": "",
           "email": "tinkara.pavsic@um.si",
           "research_interests": "trauma and coping strategies in police officers and other first responders professions, elderly victims of crime, aggression and violence",
@@ -10461,15 +10761,15 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Kaja Prislan Miheli\u010d",
-          "title": "",
-          "email": "kaja.prislan@um.si",
-          "research_interests": "management of security organisations, security management, information security management, behavioral aspects of information security, safety and security in smart cities, modern technologies in safety and security provision",
-          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=632",
+          "name": "Aleš Bučar Ručman",
+          "title": "Assistant Professor",
+          "email": "ales.bucar@um.si",
+          "research_interests": "media and crime, migration, violence, legitimacy and democracy, social control",
+          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=530",
           "crimrxiv_member": false
         },
         {
-          "name": "Bo\u0161tjan Slak",
+          "name": "Boštjan Slak",
           "title": "",
           "email": "bostjan.slak@um.si",
           "research_interests": "new technologies in criminal investigation, the impact of the media on the investigative process, critical thinking and investigative process, criminal intelligence, organized crime, white collar crime",
@@ -10478,14 +10778,14 @@ window.__DATA__ = {
         },
         {
           "name": "Andrej Sotlar",
-          "title": "",
+          "title": "Vice Dean for Quality and Development",
           "email": "andrej.sotlar@um.si",
           "research_interests": "national security and security policy, intelligence and security activity, private security, plural policing",
           "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=449",
           "crimrxiv_member": false
         },
         {
-          "name": "Ajda \u0160ulc",
+          "name": "Ajda Šulc",
           "title": "",
           "email": "ajda.sulc@um.si",
           "research_interests": "media construction of reality, intolerance hateful discourse, hateful online communication, peer violence, violence in schools",
@@ -10493,7 +10793,7 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Bojan Ti\u010dar",
+          "name": "Bojan Tičar",
           "title": "",
           "email": "bojan.ticar@um.si",
           "research_interests": "administrative law, public administration, the civil service system, offences law, administrative internal affairs, corporate governance and forensic investigations",
@@ -10501,31 +10801,24 @@ window.__DATA__ = {
           "crimrxiv_member": false
         },
         {
-          "name": "Simon Vrhovec",
-          "title": "",
-          "email": "simon.vrhovec@um.si",
-          "research_interests": "human factors in cybersecurity, secure software development, agile methods, change management",
-          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=638",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Bernarda Tominc",
-          "title": "",
+          "title": "Vice-dean for International Cooperation",
           "email": "bernarda.tominc@um.si",
           "research_interests": "national security, international security",
           "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=636",
           "crimrxiv_member": false
         },
         {
-          "name": "Mojca Kompara Lukan\u010di\u010d",
-          "title": "",
-          "email": "mojca.kompara@um.si",
-          "research_interests": "lexicography, abbreviations, language acquisition, bilingualism, corpus linguistics, translation",
-          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=3482",
+          "name": "Simon Vrhovec",
+          "title": "Vice Dean for Academic Affairs",
+          "email": "simon.vrhovec@um.si",
+          "research_interests": "human factors in cybersecurity, secure software development, agile methods, change management",
+          "profile_url": "https://www.fvv.um.si/en/about/employee.html?id=638",
           "crimrxiv_member": false
         }
       ],
-      "crimrxiv_member": false
+      "crimrxiv_member": false,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Manchester",
@@ -10534,13 +10827,21 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.humanities.manchester.ac.uk/criminology/about/people/",
       "extraction_status": "complete",
       "extraction_notes": "Extracted from [University of Manchester directory](https://www.humanities.manchester.ac.uk/criminology/about/people/)",
-      "faculty_count": 38,
+      "faculty_count": 36,
       "faculty": [
         {
           "name": "Judith Aldridge",
           "title": "Professor of Criminology",
           "email": "",
           "research_interests": "drug use, markets, and policy.",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Felipe Neis Araujo",
+          "title": "Lecturer in Criminology",
+          "email": "",
+          "research_interests": "drug policy, state violence, inequalities, qualitative methods, ethnography.",
           "profile_url": "",
           "crimrxiv_member": true
         },
@@ -10569,14 +10870,6 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Rose Broad",
-          "title": "Professor of Criminology",
-          "email": "",
-          "research_interests": "human trafficking, modern slavery, responses to violence, organised crime, the management of offenders.",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Laura Bui",
           "title": "Senior Lecturer in Criminology",
           "email": "",
@@ -10585,10 +10878,18 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "David Buil-Gil",
-          "title": "Senior Lecturer in Quantitative Criminology",
+          "name": "Stephen Collett",
+          "title": "Honorary Reader in Criminology",
           "email": "",
-          "research_interests": "communities and crime, comparative criminology, adolescent offending, cybercrime, and quantitative research methods.",
+          "research_interests": "probation, women offenders, criminal justice policy, social policy, rehabilitation",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Duncan Craig",
+          "title": "Honorary Senior Research Fellow",
+          "email": "",
+          "research_interests": "male survivors of sexual abuse, sexual violence, trauma recovery, victim support, third sector practice",
           "profile_url": "",
           "crimrxiv_member": true
         },
@@ -10610,10 +10911,26 @@ window.__DATA__ = {
         },
         {
           "name": "Tomas Diviak",
-          "title": "Presidential Fellow",
+          "title": "Senior Lecturer in Criminology",
           "email": "",
           "research_interests": "social network analysis, criminal networks, organized crime, analytical sociology, statistical models for network data",
           "profile_url": "https://research.manchester.ac.uk/en/persons/tomas.diviak",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Rebecca Dobash",
+          "title": "Emeritus Professor",
+          "email": "",
+          "research_interests": "domestic violence, intimate partner violence, gender and crime, patriarchy and family power, feminist criminology, homicide",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Russell Dobash",
+          "title": "Emeritus Professor",
+          "email": "",
+          "research_interests": "domestic violence, intimate partner violence, homicide, gender and crime, feminist criminology, comparative criminology",
+          "profile_url": "",
           "crimrxiv_member": true
         },
         {
@@ -10637,6 +10954,38 @@ window.__DATA__ = {
           "title": "Professor of Criminology",
           "email": "",
           "research_interests": "criminology, domestic violence, hate crime, modern slavery, free association narrative interview.",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Liliya Gelemerova",
+          "title": "Honorary Senior Lecturer",
+          "email": "",
+          "research_interests": "financial crime, anti-money laundering, terrorist financing, sanctions, compliance",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "David Buil-Gil",
+          "title": "Senior Lecturer in Quantitative Criminology",
+          "email": "",
+          "research_interests": "communities and crime, comparative criminology, adolescent offending, cybercrime, and quantitative research methods.",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Bill Hebenton",
+          "title": "Honorary Research Fellow",
+          "email": "",
+          "research_interests": "comparative research on 'national' criminologies, crime and punishment in China and the Greater China region (Taiwan), regulation of sexual offenders in the community",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Rose Jenkins",
+          "title": "Professor of Criminology",
+          "email": "",
+          "research_interests": "human trafficking, modern slavery, responses to violence, organised crime, the management of offenders.",
           "profile_url": "",
           "crimrxiv_member": true
         },
@@ -10673,18 +11022,26 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Felipe Neis Araujo",
-          "title": "Lecturer in Criminology",
-          "email": "",
-          "research_interests": "drug policy, state violence, inequalities, qualitative methods, ethnography.",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Thiago Oliveira",
           "title": "Lecturer in Policing",
           "email": "",
           "research_interests": "quantitative methods, policing, life course, and neighbourhoods. Specifically: legal cynicism theory, procedural justice theory, legal socialisation, legitimacy of the law, stop and search, police misconduct, crime and neighbourhoods, social inequality, longitudinal methods, causal inference.",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Howard Parker",
+          "title": "Emeritus Professor",
+          "email": "",
+          "research_interests": "recreational drug use, normalisation of drug use, youth drug cultures, heroin use, drug policy, alcohol and young people",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Kenneth Pease",
+          "title": "Emeritus Professor",
+          "email": "",
+          "research_interests": "crime prevention, repeat victimisation, evaluation of crime prevention, forensic psychology, policing, situational crime prevention",
           "profile_url": "",
           "crimrxiv_member": true
         },
@@ -10737,18 +11094,18 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Meropi Tzanetakis",
-          "title": "Lecturer in Digital Criminology",
-          "email": "",
-          "research_interests": "illicit drug markets, digital technologies, cryptomarkets, digital criminology, critical theory, empirical research methods.",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Marion Vannier",
           "title": "Senior Lecturer in Criminology",
           "email": "",
           "research_interests": "sociology of punishment, criminal law, and human rights.",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Cath White",
+          "title": "Honorary Professor of Criminology",
+          "email": "",
+          "research_interests": "forensic medicine, sexual assault, sexual violence, rape examination, sexual assault referral centres, non-fatal strangulation",
           "profile_url": "",
           "crimrxiv_member": true
         },
@@ -10759,94 +11116,15 @@ window.__DATA__ = {
           "research_interests": "drug use, life course perspectives, theories of risk and visual ethnography.",
           "profile_url": "",
           "crimrxiv_member": true
-        },
-        {
-          "name": "Yuanyuan Zhang",
-          "title": "Research Associate, Centre for Digital Trust and Security",
-          "email": "",
-          "research_interests": "statistical modelling, extreme value theory, distribution theory, blockchain security, anomaly and fraud detection, digital trust and security",
-          "profile_url": "https://research.manchester.ac.uk/en/persons/yuanyuan-zhang/",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Stephen Collett",
-          "title": "Honorary Reader in Criminology",
-          "email": "",
-          "research_interests": "probation, women offenders, criminal justice policy, social policy, rehabilitation",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Duncan Craig OBE",
-          "title": "Honorary Senior Research Fellow",
-          "email": "",
-          "research_interests": "male survivors of sexual abuse, sexual violence, trauma recovery, victim support, third sector practice",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Liliya Gelemerova",
-          "title": "Honorary Senior Lecturer",
-          "email": "",
-          "research_interests": "financial crime, anti-money laundering, terrorist financing, sanctions, compliance",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Bill Hebenton",
-          "title": "Honorary Research Fellow",
-          "email": "",
-          "research_interests": "comparative research on 'national' criminologies, crime and punishment in China and the Greater China region (Taiwan), regulation of sexual offenders in the community",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Cath White OBE",
-          "title": "Honorary Professor of Criminology",
-          "email": "",
-          "research_interests": "forensic medicine, sexual assault, sexual violence, rape examination, sexual assault referral centres, non-fatal strangulation",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Rebecca Dobash",
-          "title": "Emeritus Professor",
-          "email": "",
-          "research_interests": "domestic violence, intimate partner violence, gender and crime, patriarchy and family power, feminist criminology, homicide",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Russell Dobash",
-          "title": "Emeritus Professor",
-          "email": "",
-          "research_interests": "domestic violence, intimate partner violence, homicide, gender and crime, feminist criminology, comparative criminology",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Howard Parker",
-          "title": "Emeritus Professor",
-          "email": "",
-          "research_interests": "recreational drug use, normalisation of drug use, youth drug cultures, heroin use, drug policy, alcohol and young people",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Kenneth Pease",
-          "title": "Emeritus Professor",
-          "email": "",
-          "research_interests": "crime prevention, repeat victimisation, evaluation of crime prevention, forensic psychology, policing, situational crime prevention",
-          "profile_url": "",
-          "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Erasmus University Rotterdam",
-      "department_name": "Erasmus School of Law \u2014 Law, Society and Crime",
+      "department_name": "Erasmus School of Law — Law, Society and Crime",
       "department_homepage": "https://www.eur.nl/en/esl/about/our-departments/law-society-crime",
       "faculty_directory_url": "https://www.eur.nl/en/esl/about/our-departments/law-society-crime/our-team",
       "extraction_status": "complete",
@@ -10854,27 +11132,11 @@ window.__DATA__ = {
       "faculty_count": 35,
       "faculty": [
         {
-          "name": "Pieter Verrest",
-          "title": "Chair; Professor of Criminal Law and Criminal Procedure (European and International Law)",
+          "name": "Veerle Bal",
+          "title": "Lecturer",
           "email": "",
-          "research_interests": "Criminal Law, Criminal Investigation, Procedural Code, Pretrial Investigation, Procedural Law, Nuisance, Right to Justice",
-          "profile_url": "https://www.eur.nl/en/esl/people/pieter-verrest",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Tamar Fischer",
-          "title": "Co-chair; Professor of Empirical Criminology",
-          "email": "",
-          "research_interests": "Physical Violence, Psychology, Police Officer, Workplace Violence, Survey Analysis, Conflict Management, Self-Efficacy, Multivariate Analysis",
-          "profile_url": "https://www.eur.nl/en/esl/people/tamar-fischer",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Karin van Wingerde",
-          "title": "Co-chair; Professor of Corporate Crime and Governance",
-          "email": "",
-          "research_interests": "Corporate and White-collar Crime, Regulation, Governance and Enforcement, Public Policy",
-          "profile_url": "https://www.eur.nl/en/esl/people/karin-van-wingerde",
+          "research_interests": "",
+          "profile_url": "",
           "crimrxiv_member": true
         },
         {
@@ -10886,6 +11148,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Mai Fleetwood-Bird",
+          "title": "Assistant Professor; Master coordinator, Health Law",
+          "email": "",
+          "research_interests": "Passive Voice, Language difficulties, Grammatical Construction, speech therapy, juvenile justice, speech, language and communication needs, youth justice, forensic speech and language therapy",
+          "profile_url": "https://www.eur.nl/esl/people/mai-fleetwood-bird",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Lieselot Bisschop",
           "title": "Professor of Public and Private Interests (co-chair)",
           "email": "",
@@ -10894,11 +11164,139 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Abdessamad Bouabid",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "structural and everday racism, discrimination, othering, ethnic/racial profiling, social exclusion, (mass) stigmatization, moral panics, social identity, structural violence, Criminology, Critical criminology, Cultural criminology, Racism, Discrimination, Symbolic interactionism, Societal reactions, Moral panic theory, Labeling theory, Social problem construction, Ethnic profiling, Stigmatization, Riots",
+          "profile_url": "https://www.eur.nl/en/esl/people/abdessamad-bouabid",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Martin Buijsen",
           "title": "Professor of Law and Healthcare",
           "email": "",
           "research_interests": "Health Law, Health Ethics, Assisted Suicide, Courts, Health Care Personnel, Administrative Structure, Informed Consent, Euthanasia",
           "profile_url": "https://www.eur.nl/en/esl/people/martin-buijsen",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Gijs Custers",
+          "title": "Assistant Professor of Criminology",
+          "email": "",
+          "research_interests": "gentrification, racialisation, criminalisation, neighbourhood stigma, mild intellectual disability, educational mobility, social inequality, social class",
+          "profile_url": "https://www.eur.nl/people/gijs-custers",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sari Eckhardt",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "André den Exter",
+          "title": "Associate Professor; Master coordinator, Health Law",
+          "email": "",
+          "research_interests": "human rights and health care access, pharmaceutical law, health insurance law, European health law, international treaty law and health care",
+          "profile_url": "https://www.eur.nl/en/esl/people/andre-den-exter",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Tamar Fischer",
+          "title": "Co-chair; Professor of Empirical Criminology",
+          "email": "",
+          "research_interests": "Physical Violence, Psychology, Police Officer, Workplace Violence, Survey Analysis, Conflict Management, Self-Efficacy, Multivariate Analysis",
+          "profile_url": "https://www.eur.nl/en/esl/people/tamar-fischer",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Fiore Geelhoed",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "extremism, activism, conversion to Islam, radicalisation, conspiracy believers, green criminological issues",
+          "profile_url": "https://www.eur.nl/en/esl/people/fiore-geelhoed",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Richard Van Herzeele",
+          "title": "Postdoctoral Researcher",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Jing Hiah",
+          "title": "Assistant Professor of Criminology",
+          "email": "",
+          "research_interests": "criminology of work, social harms in work and employment, employment and labour relations, worker control, management and surveillance, labor migration and mobility, human trafficking for labor exploitation, platform economy, qualitative research methodology",
+          "profile_url": "https://www.eur.nl/esl/people/jing-hiah",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Nina Holvast",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "courts, judicial decision-making, legal profession, judicial institutions, legal socialisation, judicial assistants, Law in Action, professional identity formation",
+          "profile_url": "https://www.eur.nl/en/esl/people/nina-holvast",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Joost Jansen",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "migration, nationality, national identity, social classifications, big data techniques, quantitative text analysis, violence and aggression against journalists",
+          "profile_url": "https://www.eur.nl/esl/people/joost-jansen",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Ageeth Klaassen",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "Company Law, Financial Law, Health Law, Corporate governance, Healthcare governance, Pension funds, Management and supervision",
+          "profile_url": "https://www.eur.nl/en/esl/people/ageeth-klaassen",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Willem-Jan Kortleven",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "School Law, Law, Legal Education, Child Welfare, Legislation, Transport Safety, Public Sector, Socialization",
+          "profile_url": "https://www.eur.nl/en/esl/people/willem-jan-kortleven",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Maartje Kouwenberg",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "criminal law, cybercrime, criminalization of computer crimes, digital criminality",
+          "profile_url": "https://www.eur.nl/en/people/maartje-kouwenberg",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Mieke Kox",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Asylum Seeker, Justice, Migration Control, Lockdown, Transnational, Public Space, Qualitative Research, Criminology, Migration, Border control",
+          "profile_url": "https://www.eur.nl/en/esl/people/mieke-kox",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Enya Kranenburg",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Malouke Kuiper",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "relationship between social science and legal practice, behavioral change, compliance, criminology, criminal policies, organizational integrity, social norms",
+          "profile_url": "https://www.eur.nl/en/esl/people/malouke-kuiper",
           "crimrxiv_member": true
         },
         {
@@ -10915,6 +11313,30 @@ window.__DATA__ = {
           "email": "",
           "research_interests": "Criminal law, Legalilty, Appeal and cassation, Financial and economic criminal law",
           "profile_url": "https://www.eur.nl/esl/people/joost-nan",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Liselotte Postma",
+          "title": "Assistant Professor; Master coordinator, Criminal Law",
+          "email": "",
+          "research_interests": "Assisted Suicide, Cross Sectional Study, Medical Intervention, Abortion, Dutch, Criminal Law, Autonomy, Muscle Relaxant Agent",
+          "profile_url": "https://www.eur.nl/en/esl/people/liselotte-postma",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Robby Roks",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "Organized Crime, Ethnographic Research, Embeddedness, Drug Crime, Case Study, Gangs, Rotterdam, Dutch",
+          "profile_url": "https://www.eur.nl/en/esl/people/robby-roks",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sanne Salverda",
+          "title": "Lecturer",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
           "crimrxiv_member": true
         },
         {
@@ -10942,179 +11364,11 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Ren\u00e9 van Swaaningen",
+          "name": "René van Swaaningen",
           "title": "Professor of International Comparative Criminology",
           "email": "",
           "research_interests": "International & Comparative Criminology, Criminological Theory, Social Theory, Penology, Local Security Politics",
           "profile_url": "https://www.eur.nl/en/esl/people/rene-van-swaaningen",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Frank Weerman",
-          "title": "Professor of Youth Criminology",
-          "email": "",
-          "research_interests": "Delinquency, Delinquent Behavior, Self Discipline, Radicalisation, Peer Influence, Self-Report, Juvenile Delinquency, Substance Use",
-          "profile_url": "https://www.eur.nl/en/esl/people/frank-weerman",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Andr\u00e9 den Exter",
-          "title": "Associate Professor; Master coordinator, Health Law",
-          "email": "",
-          "research_interests": "human rights and health care access, pharmaceutical law, health insurance law, European health law, international treaty law and health care",
-          "profile_url": "https://www.eur.nl/en/esl/people/andre-den-exter",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Nina Holvast",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "courts, judicial decision-making, legal profession, judicial institutions, legal socialisation, judicial assistants, Law in Action, professional identity formation",
-          "profile_url": "https://www.eur.nl/en/esl/people/nina-holvast",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ageeth Klaassen",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "Company Law, Financial Law, Health Law, Corporate governance, Healthcare governance, Pension funds, Management and supervision",
-          "profile_url": "https://www.eur.nl/en/esl/people/ageeth-klaassen",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Robby Roks",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "Organized Crime, Ethnographic Research, Embeddedness, Drug Crime, Case Study, Gangs, Rotterdam, Dutch",
-          "profile_url": "https://www.eur.nl/en/esl/people/robby-roks",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Abdessamad Bouabid",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "structural and everday racism, discrimination, othering, ethnic/racial profiling, social exclusion, (mass) stigmatization, moral panics, social identity, structural violence, Criminology, Critical criminology, Cultural criminology, Racism, Discrimination, Symbolic interactionism, Societal reactions, Moral panic theory, Labeling theory, Social problem construction, Ethnic profiling, Stigmatization, Riots",
-          "profile_url": "https://www.eur.nl/en/esl/people/abdessamad-bouabid",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Mai Fleetwood-Bird",
-          "title": "Assistant Professor; Master coordinator, Health Law",
-          "email": "",
-          "research_interests": "Passive Voice, Language difficulties, Grammatical Construction, speech therapy, juvenile justice, speech, language and communication needs, youth justice, forensic speech and language therapy",
-          "profile_url": "https://www.eur.nl/esl/people/mai-fleetwood-bird",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Gijs Custers",
-          "title": "Assistant Professor of Criminology",
-          "email": "",
-          "research_interests": "gentrification, racialisation, criminalisation, neighbourhood stigma, mild intellectual disability, educational mobility, social inequality, social class",
-          "profile_url": "https://www.eur.nl/people/gijs-custers",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Fiore Geelhoed",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "extremism, activism, conversion to Islam, radicalisation, conspiracy believers, green criminological issues",
-          "profile_url": "https://www.eur.nl/en/esl/people/fiore-geelhoed",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Jing Hiah",
-          "title": "Assistant Professor of Criminology",
-          "email": "",
-          "research_interests": "criminology of work, social harms in work and employment, employment and labour relations, worker control, management and surveillance, labor migration and mobility, human trafficking for labor exploitation, platform economy, qualitative research methodology",
-          "profile_url": "https://www.eur.nl/esl/people/jing-hiah",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Joost Jansen",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "migration, nationality, national identity, social classifications, big data techniques, quantitative text analysis, violence and aggression against journalists",
-          "profile_url": "https://www.eur.nl/esl/people/joost-jansen",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Willem-Jan Kortleven",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "School Law, Law, Legal Education, Child Welfare, Legislation, Transport Safety, Public Sector, Socialization",
-          "profile_url": "https://www.eur.nl/en/esl/people/willem-jan-kortleven",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Liselotte Postma",
-          "title": "Assistant Professor; Master coordinator, Criminal Law",
-          "email": "",
-          "research_interests": "Assisted Suicide, Cross Sectional Study, Medical Intervention, Abortion, Dutch, Criminal Law, Autonomy, Muscle Relaxant Agent",
-          "profile_url": "https://www.eur.nl/en/esl/people/liselotte-postma",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Mieke Kox",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "Asylum Seeker, Justice, Migration Control, Lockdown, Transnational, Public Space, Qualitative Research, Criminology, Migration, Border control",
-          "profile_url": "https://www.eur.nl/en/esl/people/mieke-kox",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Malouke Kuiper",
-          "title": "Assistant Professor",
-          "email": "",
-          "research_interests": "relationship between social science and legal practice, behavioral change, compliance, criminology, criminal policies, organizational integrity, social norms",
-          "profile_url": "https://www.eur.nl/en/esl/people/malouke-kuiper",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Maartje Kouwenberg",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "criminal law, cybercrime, criminalization of computer crimes, digital criminality",
-          "profile_url": "https://www.eur.nl/en/people/maartje-kouwenberg",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Enya Kranenburg",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sanne Salverda",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Chantal van der Vis",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sari Eckhardt",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Veerle Bal",
-          "title": "Lecturer",
-          "email": "",
-          "research_interests": "",
-          "profile_url": "",
           "crimrxiv_member": true
         },
         {
@@ -11126,16 +11380,41 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Richard Van Herzeele",
-          "title": "Postdoctoral Researcher",
+          "name": "Pieter Verrest",
+          "title": "Chair; Professor of Criminal Law and Criminal Procedure (European and International Law)",
+          "email": "",
+          "research_interests": "Criminal Law, Criminal Investigation, Procedural Code, Pretrial Investigation, Procedural Law, Nuisance, Right to Justice",
+          "profile_url": "https://www.eur.nl/en/esl/people/pieter-verrest",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Chantal van der Vis",
+          "title": "Lecturer",
           "email": "",
           "research_interests": "",
           "profile_url": "",
           "crimrxiv_member": true
+        },
+        {
+          "name": "Frank Weerman",
+          "title": "Professor of Youth Criminology",
+          "email": "",
+          "research_interests": "Delinquency, Delinquent Behavior, Self Discipline, Radicalisation, Peer Influence, Self-Report, Juvenile Delinquency, Substance Use",
+          "profile_url": "https://www.eur.nl/en/esl/people/frank-weerman",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Karin van Wingerde",
+          "title": "Co-chair; Professor of Corporate Crime and Governance",
+          "email": "",
+          "research_interests": "Corporate and White-collar Crime, Regulation, Governance and Enforcement, Public Policy",
+          "profile_url": "https://www.eur.nl/en/esl/people/karin-van-wingerde",
+          "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Max Planck Institute for the Study of Crime, Security and Law",
@@ -11147,11 +11426,19 @@ window.__DATA__ = {
       "faculty_count": 57,
       "faculty": [
         {
-          "name": "Hans-J\u00f6rg Albrecht",
+          "name": "Hans-Jörg Albrecht",
           "title": "Director Emeritus (Criminology)",
           "email": "h.j.albrecht@csl.mpg.de",
           "research_interests": "sentencing theory, juvenile crime and justice, illegal drug policy, environmental and organized crime, criminal justice in transitional legal systems, recidivism, child abuse and neglect, victimization",
           "profile_url": "https://csl.mpg.de/person/hans-joerg-albrecht/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "James Michael Angove",
+          "title": "Senior Researcher (Public Law)",
+          "email": "j.angove@csl.mpg.de",
+          "research_interests": "stochastic terrorism, public security law, political violence, political philosophy, free speech, responsibility, harm, dehumanising rhetoric",
+          "profile_url": "https://csl.mpg.de/person/james-michael-angove/124809",
           "crimrxiv_member": true
         },
         {
@@ -11195,11 +11482,83 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Eran Fish",
+          "title": "Senior Researcher (Public Law)",
+          "email": "e.fish@csl.mpg.de",
+          "research_interests": "human rights, national security, counter-terrorism law, state responsibility, legal philosophy, moral philosophy, terrorism, public affairs",
+          "profile_url": "https://csl.mpg.de/person/eran-fish/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Simon Gansinger",
+          "title": "Postdoc",
+          "email": "s.gansinger@csl.mpg.de",
+          "research_interests": "Political jurisprudence of criminal law; G.W.F. Hegel’s theory of law; critical legal theory, especially the Frankfurt School; theories of adjudication; post-Kantian political philosophy",
+          "profile_url": "https://csl.mpg.de/person/simon-gansinger/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Jean-Louis van Gelder",
+          "title": "Director (Criminology)",
+          "email": "sek-kriminologie@csl.mpg.de",
+          "research_interests": "aggression, behavioral problems, emotions, executive functioning, self-regulation, criminal decision making, virtual reality, offender rehabilitation",
+          "profile_url": "https://csl.mpg.de/person/jean-louis-van-gelder/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sabine Gless",
+          "title": "Max Planck Research Fellow (Criminal Law)",
+          "email": "s.gless@csl.mpg.de",
+          "research_interests": "Economic and Legal Challenges in the Advent of Smart Products, (Ro)Bot-Human Interaction – A Digital Shift in the Administration of Criminal Justice?, Substantive Law Procedure & Verdicts in Ambient Intelligent Environments, Open Data and Legal Strings – Mapping the Ground for Public Funding Research, Legal Challenges in Big Data. Allocating benefits. Averting risks., Prosecuting Corporations for international Crime – The Jurisdictional Issues/AIDP Panel 4, Intelligent Agents – International Perspectives on New Challenges for Traditional Concepts of Criminal, Civil and Data Protection Law, Securing a fair trial through excluding evidence? A comparative perspective, General Principles of Transnational Criminal Law",
+          "profile_url": "https://csl.mpg.de/person/sabine-gless/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Samuel Hartwig",
+          "title": "Postdoc",
+          "email": "s.hartwig@csl.mpg.de",
+          "research_interests": "Nationality; international law; constitutional law; migration",
+          "profile_url": "https://csl.mpg.de/person/samuel-hartwig/124809",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Shaina Herman",
           "title": "Research Affiliate (Criminology)",
           "email": "s.herman@csl.mpg.de",
-          "research_interests": "crime decision-making, criminal opportunities, offending and intervention, moral considerations, emotions, social dynamics, criminological theory, 360\u00b0 virtual reality",
+          "research_interests": "crime decision-making, criminal opportunities, offending and intervention, moral considerations, emotions, social dynamics, criminological theory, 360° virtual reality",
           "profile_url": "https://csl.mpg.de/person/shaina-herman/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Philipp-Alexander Hirsch",
+          "title": "Research Group Leader (Criminal Law)",
+          "email": "p.hirsch@csl.mpg.de",
+          "research_interests": "The role of the victim in substantive criminal law and criminal proceedings, Theory of rights, Questions of subjective imputation (mens rea/culpability), Theory of norms, Theories of normativity and their significance for (criminal) law, Theories of criminalization, Theories of punishment, Development of criminal law in the late eighteenth and early nineteenth centuries, Comparison of legal theory (especially between German and Anglo-American traditions)",
+          "profile_url": "https://csl.mpg.de/person/philipp-alexander-hirsch/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Jakob Hohnerlein",
+          "title": "Senior Researcher (Public Law)",
+          "email": "j.hohnerlein@csl.mpg.de",
+          "research_interests": "public law, constitutional law, constitutional theory, legal philosophy, democratic reversibility, public security law",
+          "profile_url": "https://csl.mpg.de/person/jakob-hohnerlein/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Tatjana Hörnle",
+          "title": "Director (Criminal Law)",
+          "email": "criminal-law@csl.mpg.de",
+          "research_interests": "transnational criminal law theory, problem-centered comparative law, shaping of law, foundations of criminal law, theories of punishment and criminalization, attribution of responsibility, role of the victim, law of sexual offenses",
+          "profile_url": "https://csl.mpg.de/person/tatjana-hoernle/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Lukas Huthmann",
+          "title": "Postdoc (Criminal Law)",
+          "email": "l.huthmann@csl.mpg.de",
+          "research_interests": "Principles and Foundations of (European) Criminal Law, Criminal Constitutional Law, Interdisciplinary Legal Research",
+          "profile_url": "https://csl.mpg.de/person/lukas-huthmann/124809",
           "crimrxiv_member": true
         },
         {
@@ -11211,11 +11570,35 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Konstanze Jarvers",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "k.jarvers@csl.mpg.de",
+          "research_interests": "Italian criminal law, criminal procedure, and prison law, Comparative law (e.g., co-lead of the project International Max Planck Information System for Comparative Criminal Law), Alternative dispute resolution in criminal law, Incest (co-lead of project and expert opinion for the German Federal Constitutional Court – BVerfG), Domestic and gender-based violence, Femicide",
+          "profile_url": "https://csl.mpg.de/person/konstanze-jarvers/124809",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Florian Kaiser",
           "title": "Senior Researcher (Criminology)",
           "email": "f.kaiser@csl.mpg.de",
           "research_interests": "Juvenile Delinquency, Effects of Juvenile Justice Interventions, Consequences of Criminal Victimization, Generalized Trust, Quantitative Data Analysis in the Social Sciences, Criminological Theories",
           "profile_url": "https://csl.mpg.de/person/florian-kaiser/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Martha Basazienw Kassa",
+          "title": "Postdoc",
+          "email": "m.kassa@csl.mpg.de",
+          "research_interests": "Proportionality principle and review; legitimacy of aims review; European Human Rights Law; international and regional human rights systems; constitutional law and theory; Critical Terrorism Studies; public international law and international humanitarian law",
+          "profile_url": "https://csl.mpg.de/person/martha-basazienw-kassa/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Michael Kilchling",
+          "title": "Senior Researcher (Public Law)",
+          "email": "m.kilchling@csl.mpg.de",
+          "research_interests": "Organized crime, terrorism, money laundering, confiscation of illegal proceeds, public prosecution, juvenile justice, penal sanctions and sanctioning systems, restorative justice (victim/offender mediation), victimology",
+          "profile_url": "https://csl.mpg.de/person/michael-kilchling/124809",
           "crimrxiv_member": true
         },
         {
@@ -11227,6 +11610,38 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Qin (Sky) Ma",
+          "title": "Postdoc (Criminal Law)",
+          "email": "q.ma@csl.mpg.de",
+          "research_interests": "Comparative criminal law and procedure, Artificial intelligence, courts, and criminal justice, Epistemology, evidence and proof theory, International criminal law and human rights",
+          "profile_url": "https://csl.mpg.de/person/qin-sky-ma/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Esther Mertens",
+          "title": "Senior Researcher",
+          "email": "e.mertens@csl.mpg.de",
+          "research_interests": "Mental health and behavioral intervention programs and their active components, particularly technology-based interventions using smartphone applications and virtual reality.",
+          "profile_url": "https://csl.mpg.de/person/esther-mertens/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Lucas Montenegro",
+          "title": "Postdoc (Criminal Law)",
+          "email": "l.montenegro@csl.mpg.de",
+          "research_interests": "foundations of criminal law, criminal law doctrine, structure of the criminal offense, culpability, homicide, offenses involving criminal organizations, confiscation in criminal law",
+          "profile_url": "https://csl.mpg.de/person/lucas-montenegro/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Eleni Nerantzi",
+          "title": "Postdoc (Criminal Law)",
+          "email": "e.nerantzi@csl.mpg.de",
+          "research_interests": "criminal liability for harms from agentic AI systems, AI-crimes, AI ethics, legal alignment, criminal law, artificial intelligence, criminal responsibility, deterrence",
+          "profile_url": "https://csl.mpg.de/person/eleni-nerantzi/124809",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Dietrich Oberwittler",
           "title": "Research Group Leader (Criminology)",
           "email": "d.oberwittler@csl.mpg.de",
@@ -11235,11 +11650,43 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Julian Peichl",
-          "title": "Researcher (Criminology)",
-          "email": "j.peichl@csl.mpg.de",
-          "research_interests": "prosocial behavior, antisocial behavior, moral identity, personality traits, self-knowledge, moral behavior, identity change",
-          "profile_url": "https://csl.mpg.de/person/julian-peichl/124809",
+          "name": "Elisa Orrù",
+          "title": "Senior Researcher (Public Law)",
+          "email": "e.orru@csl.mpg.de",
+          "research_interests": "Digitalisation, Data Protection and Privacy, Security and Legitimacy, Conceptions of Autonomy, Ethics of Artificial Intelligence, Research ethics",
+          "profile_url": "https://csl.mpg.de/person/elisa-orru/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Simon Palmer",
+          "title": "Postdoc (Public Law)",
+          "email": "s.palmer@csl.mpg.de",
+          "research_interests": "Public Law",
+          "profile_url": "https://csl.mpg.de/person/simon-palmer/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Otava Piha",
+          "title": "Postdoc (Criminal Law)",
+          "email": "o.piha@csl.mpg.de",
+          "research_interests": "Sustainability and criminal justice, Environmental activism, human rights, and criminal law, Evidence evaluation in the context of criminal offenses, Criminal law and psychology approaches, Sexual offenses, Gender-based violence, Qualitative methods, especially content analysis of judgments",
+          "profile_url": "https://csl.mpg.de/person/otava-piha/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Anna Pingen",
+          "title": "Researcher (Public Law)",
+          "email": "a.pingen@csl.mpg.de",
+          "research_interests": "Comparative criminal law, The Role of criminal law in the context of the emerging preventive orientation, Speech crimes, European criminal law, International criminal law",
+          "profile_url": "https://csl.mpg.de/person/anna-pingen/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Ralf Poscher",
+          "title": "Managing Director (Public Law)",
+          "email": "public-law@csl.mpg.de",
+          "research_interests": "principle of proportionality, concept of danger, human dignity, transformation of jurisprudence, public security law, fundamental rights, legal hermeneutics, constitutional law, state surveillance, policing, resilience management",
+          "profile_url": "https://csl.mpg.de/person/ralf-poscher/124809",
           "crimrxiv_member": true
         },
         {
@@ -11259,6 +11706,30 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Paul Rehren",
+          "title": "Postdoc (Criminal Law)",
+          "email": "p.rehren@csl.mpg.de",
+          "research_interests": "Moral (incl. punitive) judgment, Moral progress, Theories of criminal punishment, Role of empirical data in philosophical research, Digital humanities",
+          "profile_url": "https://csl.mpg.de/person/paul-rehren/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Cornelia Riehle",
+          "title": "Researcher (Public Law)",
+          "email": "c.riehle@csl.mpg.de",
+          "research_interests": "European criminal law, prevention, investigation, prosecution, public law, cross-border crime, Europol, procedural rights",
+          "profile_url": "https://csl.mpg.de/person/cornelia-riehle/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Johanna Rinceanu",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "j.rinceanu@csl.mpg.de",
+          "research_interests": "Criminal procedure, Internet regulation, Comparative law, Human rights law, International Max Planck Information System for Comparative Criminal Law",
+          "profile_url": "https://csl.mpg.de/person/johanna-rinceanu/124809",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Hannes Rusch",
           "title": "Research Group Leader (Criminology)",
           "email": "h.rusch@csl.mpg.de",
@@ -11267,11 +11738,75 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Marthe Goudsmit Samaritter",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "m.goudsmit@csl.mpg.de",
+          "research_interests": "criminal law theory, jurisprudence, personhood theory, criminalisation theories, technology-facilitated violence, image-based sexual abuse, gender-based violence, AI integration in law and society",
+          "profile_url": "https://csl.mpg.de/person/marthe-goudsmit-samaritter/124809",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Maximilian Lukas Schmitt",
           "title": "Postdoc (Criminology)",
           "email": "m.schmitt@csl.mpg.de",
           "research_interests": "Exploitation and Criminal Behavior, Microeconomic Theory and Game Theory, Equivariant Cohomology and Hamiltonian Group Actions",
           "profile_url": "https://csl.mpg.de/person/maximilian-lukas-schmitt/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sebastian Schwab",
+          "title": "Postdoc (Public Law)",
+          "email": "s.schwab@csl.mpg.de",
+          "research_interests": "Regulatory law, German constitutional law, the principle of democracy, the internal procedural rules of parliaments (Geschäftsordnungsrecht), the relationship of religious communities to the state, Legal theory, Kelsenian positivism, legal methodology, Theories of (legal) history, Protestant ecclesiastical law",
+          "profile_url": "https://csl.mpg.de/person/sebastian-schwab/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Ulrich Sieber",
+          "title": "Director Emeritus (Criminal Law)",
+          "email": "u.sieber@csl.mpg.de",
+          "research_interests": "terrorism, organized crime, economic crime, cybercrime, comparative criminal law, international criminal law, security law, information law",
+          "profile_url": "https://csl.mpg.de/person/ulrich-sieber/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Emily Silverman",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "e.silverman@csl.mpg.de",
+          "research_interests": "criminal law, criminal policy, comparative criminal law, transnational criminal law, new technologies, femicide, smart products",
+          "profile_url": "https://csl.mpg.de/person/emily-silverman/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Jan-Michael Simon",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "j.simon@csl.mpg.de",
+          "research_interests": "Grand Corruption, human rights, international security, transitional justice, criminal justice reforms, organized crime, rule of law",
+          "profile_url": "https://csl.mpg.de/person/jan-michael-simon/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sarah Katharina Stein",
+          "title": "Postdoc (Public Law)",
+          "email": "k.stein@csl.mpg.de",
+          "research_interests": "public international law, international humanitarian law, comparative constitutional law, jurisprudence, military outsourcing, private military contractors, non-decisions",
+          "profile_url": "https://csl.mpg.de/person/sarah-katharina-stein/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Randall Stephenson",
+          "title": "Senior Researcher (Public Law)",
+          "email": "r.stephenson@csl.mpg.de",
+          "research_interests": "comparative public law, defamation, press freedom, democratic theory, networked accountability dynamics, digital communications, information surveillance, media regulation",
+          "profile_url": "https://csl.mpg.de/person/randall-stephenson/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Silvia Tellenbach",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "s.tellenbach@csl.mpg.de",
+          "research_interests": "Turkish criminal law and law of criminal procedure, Islamic criminal law in the modern world, particularly in the Islamic Republic of Iran, Constitutional law of the Near Eastern countries",
+          "profile_url": "https://csl.mpg.de/person/silvia-tellenbach/124809",
           "crimrxiv_member": true
         },
         {
@@ -11291,11 +11826,27 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Jean-Louis van Gelder",
-          "title": "Director (Criminology)",
-          "email": "sek-kriminologie@csl.mpg.de",
-          "research_interests": "aggression, behavioral problems, emotions, executive functioning, self-regulation, criminal decision making, virtual reality, offender rehabilitation",
-          "profile_url": "https://csl.mpg.de/person/jean-louis-van-gelder/124809",
+          "name": "Ivó Coca-Vila",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "i.coca-vila@csl.mpg.de",
+          "research_interests": "foundations of criminal law, theory of crime and criminalization, intersection of criminal law, philosophy and ethics, property and white-collar crimes, Criminal legislation in a democratic constitutional state, Relations between the “core” and “peripheral” criminal law, Citizenship and criminal Law, Triage – constitutional and criminal law perspective",
+          "profile_url": "https://csl.mpg.de/person/ivo-coca-vila/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Benjamin Vogel",
+          "title": "Senior Researcher (Criminal Law)",
+          "email": "b.vogel@csl.mpg.de",
+          "research_interests": "comparative law, criminal law theory, sociology, concepts of culpability, the role of private corporations in the detection and investigation of crime, supranational responses to transnational organized crime, Anti-Money Laundering, Counter-Terrorism Financing law",
+          "profile_url": "https://csl.mpg.de/person/benjamin-vogel/124809",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Thomas Wahl",
+          "title": "Senior Researcher (Public Law)",
+          "email": "t.wahl@csl.mpg.de",
+          "research_interests": "European criminal law, extradition law, international cooperation in criminal matters and the public order, mutual legal assistance, European Investigation Order, data protection in police and judicial co-operation in Europe, new architecture of European law enforcement, procedural safeguards, combating terrorism within the EU",
+          "profile_url": "https://csl.mpg.de/person/thomas-wahl/124809",
           "crimrxiv_member": true
         },
         {
@@ -11323,288 +11874,17 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Tatjana H\u00f6rnle",
-          "title": "Director (Criminal Law)",
-          "email": "criminal-law@csl.mpg.de",
-          "research_interests": "transnational criminal law theory, problem-centered comparative law, shaping of law, foundations of criminal law, theories of punishment and criminalization, attribution of responsibility, role of the victim, law of sexual offenses",
-          "profile_url": "https://csl.mpg.de/person/tatjana-hoernle/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ulrich Sieber",
-          "title": "Director Emeritus (Criminal Law)",
-          "email": "u.sieber@csl.mpg.de",
-          "research_interests": "terrorism, organized crime, economic crime, cybercrime, comparative criminal law, international criminal law, security law, information law",
-          "profile_url": "https://csl.mpg.de/person/ulrich-sieber/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Iv\u00f3 Coca-Vila",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "i.coca-vila@csl.mpg.de",
-          "research_interests": "foundations of criminal law, theory of crime and criminalization, intersection of criminal law, philosophy and ethics, property and white-collar crimes, Criminal legislation in a democratic constitutional state, Relations between the \u201ccore\u201d and \u201cperipheral\u201d criminal law, Citizenship and criminal Law, Triage \u2013 constitutional and criminal law perspective",
-          "profile_url": "https://csl.mpg.de/person/ivo-coca-vila/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sabine Gless",
-          "title": "Max Planck Research Fellow (Criminal Law)",
-          "email": "s.gless@csl.mpg.de",
-          "research_interests": "Economic and Legal Challenges in the Advent of Smart Products, (Ro)Bot-Human Interaction \u2013 A Digital Shift in the Administration of Criminal Justice?, Substantive Law Procedure & Verdicts in Ambient Intelligent Environments, Open Data and Legal Strings \u2013 Mapping the Ground for Public Funding Research, Legal Challenges in Big Data. Allocating benefits. Averting risks., Prosecuting Corporations for international Crime \u2013 The Jurisdictional Issues/AIDP Panel 4, Intelligent Agents \u2013 International Perspectives on New Challenges for Traditional Concepts of Criminal, Civil and Data Protection Law, Securing a fair trial through excluding evidence? A comparative perspective, General Principles of Transnational Criminal Law",
-          "profile_url": "https://csl.mpg.de/person/sabine-gless/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Marthe Goudsmit Samaritter",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "m.goudsmit@csl.mpg.de",
-          "research_interests": "criminal law theory, jurisprudence, personhood theory, criminalisation theories, technology-facilitated violence, image-based sexual abuse, gender-based violence, AI integration in law and society",
-          "profile_url": "https://csl.mpg.de/person/marthe-goudsmit-samaritter/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Philipp-Alexander Hirsch",
-          "title": "Research Group Leader (Criminal Law)",
-          "email": "p.hirsch@csl.mpg.de",
-          "research_interests": "The role of the victim in substantive criminal law and criminal proceedings, Theory of rights, Questions of subjective imputation (mens rea/culpability), Theory of norms, Theories of normativity and their significance for (criminal) law, Theories of criminalization, Theories of punishment, Development of criminal law in the late eighteenth and early nineteenth centuries, Comparison of legal theory (especially between German and Anglo-American traditions)",
-          "profile_url": "https://csl.mpg.de/person/philipp-alexander-hirsch/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Lukas Huthmann",
-          "title": "Postdoc (Criminal Law)",
-          "email": "l.huthmann@csl.mpg.de",
-          "research_interests": "Principles and Foundations of (European) Criminal Law, Criminal Constitutional Law, Interdisciplinary Legal Research",
-          "profile_url": "https://csl.mpg.de/person/lukas-huthmann/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Konstanze Jarvers",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "k.jarvers@csl.mpg.de",
-          "research_interests": "Italian criminal law, criminal procedure, and prison law, Comparative law (e.g., co-lead of the project International Max Planck Information System for Comparative Criminal Law), Alternative dispute resolution in criminal law, Incest (co-lead of project and expert opinion for the German Federal Constitutional Court \u2013 BVerfG), Domestic and gender-based violence, Femicide",
-          "profile_url": "https://csl.mpg.de/person/konstanze-jarvers/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Qin (Sky) Ma",
-          "title": "Postdoc (Criminal Law)",
-          "email": "q.ma@csl.mpg.de",
-          "research_interests": "Comparative criminal law and procedure, Artificial intelligence, courts, and criminal justice, Epistemology, evidence and proof theory, International criminal law and human rights",
-          "profile_url": "https://csl.mpg.de/person/qin-sky-ma/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Lucas Montenegro",
-          "title": "Postdoc (Criminal Law)",
-          "email": "l.montenegro@csl.mpg.de",
-          "research_interests": "foundations of criminal law, criminal law doctrine, structure of the criminal offense, culpability, homicide, offenses involving criminal organizations, confiscation in criminal law",
-          "profile_url": "https://csl.mpg.de/person/lucas-montenegro/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Eleni Nerantzi",
-          "title": "Postdoc (Criminal Law)",
-          "email": "e.nerantzi@csl.mpg.de",
-          "research_interests": "criminal liability for harms from agentic AI systems, AI-crimes, AI ethics, legal alignment, criminal law, artificial intelligence, criminal responsibility, deterrence",
-          "profile_url": "https://csl.mpg.de/person/eleni-nerantzi/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Otava Piha",
-          "title": "Postdoc (Criminal Law)",
-          "email": "o.piha@csl.mpg.de",
-          "research_interests": "Sustainability and criminal justice, Environmental activism, human rights, and criminal law, Evidence evaluation in the context of criminal offenses, Criminal law and psychology approaches, Sexual offenses, Gender-based violence, Qualitative methods, especially content analysis of judgments",
-          "profile_url": "https://csl.mpg.de/person/otava-piha/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Paul Rehren",
-          "title": "Postdoc (Criminal Law)",
-          "email": "p.rehren@csl.mpg.de",
-          "research_interests": "Moral (incl. punitive) judgment, Moral progress, Theories of criminal punishment, Role of empirical data in philosophical research, Digital humanities",
-          "profile_url": "https://csl.mpg.de/person/paul-rehren/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Johanna Rinceanu",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "j.rinceanu@csl.mpg.de",
-          "research_interests": "Criminal procedure, Internet regulation, Comparative law, Human rights law, International Max Planck Information System for Comparative Criminal Law",
-          "profile_url": "https://csl.mpg.de/person/johanna-rinceanu/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Jan-Michael Simon",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "j.simon@csl.mpg.de",
-          "research_interests": "Grand Corruption, human rights, international security, transitional justice, criminal justice reforms, organized crime, rule of law",
-          "profile_url": "https://csl.mpg.de/person/jan-michael-simon/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Emily Silverman",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "e.silverman@csl.mpg.de",
-          "research_interests": "criminal law, criminal policy, comparative criminal law, transnational criminal law, new technologies, femicide, smart products",
-          "profile_url": "https://csl.mpg.de/person/emily-silverman/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Florian Slogsnat",
-          "title": "Postdoc (Criminal Law)",
-          "email": "f.slogsnat@csl.mpg.de",
-          "research_interests": "Foundations of criminal law and criminal procedure law, Influences of constitutional and administrative law on criminal law and criminal procedure law, Criminal law for the protection of democracy, Grounds of justification in criminal law, Finality and reopening of proceedings",
-          "profile_url": "https://csl.mpg.de/person/florian-slogsnat/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Silvia Tellenbach",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "s.tellenbach@csl.mpg.de",
-          "research_interests": "Turkish criminal law and law of criminal procedure, Islamic criminal law in the modern world, particularly in the Islamic Republic of Iran, Constitutional law of the Near Eastern countries",
-          "profile_url": "https://csl.mpg.de/person/silvia-tellenbach/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Benjamin Vogel",
-          "title": "Senior Researcher (Criminal Law)",
-          "email": "b.vogel@csl.mpg.de",
-          "research_interests": "comparative law, criminal law theory, sociology, concepts of culpability, the role of private corporations in the detection and investigation of crime, supranational responses to transnational organized crime, Anti-Money Laundering, Counter-Terrorism Financing law",
-          "profile_url": "https://csl.mpg.de/person/benjamin-vogel/124809",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Valerij Zisman",
           "title": "Postdoc (Criminal Law)",
           "email": "v.zisman@csl.mpg.de",
           "research_interests": "criminal law, ethics, moral psychology, punitive attitudes, theories of criminal punishment, normative ethics, moral judgments",
           "profile_url": "https://csl.mpg.de/person/valerij-zisman/124809",
           "crimrxiv_member": true
-        },
-        {
-          "name": "James Michael Angove",
-          "title": "Senior Researcher (Public Law)",
-          "email": "j.angove@csl.mpg.de",
-          "research_interests": "stochastic terrorism, public security law, political violence, political philosophy, free speech, responsibility, harm, dehumanising rhetoric",
-          "profile_url": "https://csl.mpg.de/person/james-michael-angove/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Svenja Behrendt",
-          "title": "Research Affiliate (Public Law)",
-          "email": "s.behrendt@csl.mpg.de",
-          "research_interests": "Fundamental Rights and Human Rights (Concepts, Theory, and Doctrine), Constitutional Theory and Constitutional Law, (Modern) Legal Theory, Socio-Legal Studies, and Legal Philosophy, Democracy and Democratic Backsliding, Foundations of Law and Legal Systems, Digitalization & Datafication, Artificial Intelligence and Law",
-          "profile_url": "https://csl.mpg.de/person/svenja-behrendt/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Eran Fish",
-          "title": "Senior Researcher (Public Law)",
-          "email": "e.fish@csl.mpg.de",
-          "research_interests": "human rights, national security, counter-terrorism law, state responsibility, legal philosophy, moral philosophy, terrorism, public affairs",
-          "profile_url": "https://csl.mpg.de/person/eran-fish/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Jakob Hohnerlein",
-          "title": "Senior Researcher (Public Law)",
-          "email": "j.hohnerlein@csl.mpg.de",
-          "research_interests": "public law, constitutional law, constitutional theory, legal philosophy, democratic reversibility, public security law",
-          "profile_url": "https://csl.mpg.de/person/jakob-hohnerlein/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Michael Kilchling",
-          "title": "Senior Researcher (Public Law)",
-          "email": "m.kilchling@csl.mpg.de",
-          "research_interests": "Organized crime, terrorism, money laundering, confiscation of illegal proceeds, public prosecution, juvenile justice, penal sanctions and sanctioning systems, restorative justice (victim/offender mediation), victimology",
-          "profile_url": "https://csl.mpg.de/person/michael-kilchling/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Elisa Orr\u00f9",
-          "title": "Senior Researcher (Public Law)",
-          "email": "e.orru@csl.mpg.de",
-          "research_interests": "Digitalisation, Data Protection and Privacy, Security and Legitimacy, Conceptions of Autonomy, Ethics of Artificial Intelligence, Research ethics",
-          "profile_url": "https://csl.mpg.de/person/elisa-orru/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Simon Palmer",
-          "title": "Postdoc (Public Law)",
-          "email": "s.palmer@csl.mpg.de",
-          "research_interests": "Public Law",
-          "profile_url": "https://csl.mpg.de/person/simon-palmer/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Anna Pingen",
-          "title": "Researcher (Public Law)",
-          "email": "a.pingen@csl.mpg.de",
-          "research_interests": "Comparative criminal law, The Role of criminal law in the context of the emerging preventive orientation, Speech crimes, European criminal law, International criminal law",
-          "profile_url": "https://csl.mpg.de/person/anna-pingen/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ralf Poscher",
-          "title": "Managing Director (Public Law)",
-          "email": "public-law@csl.mpg.de",
-          "research_interests": "principle of proportionality, concept of danger, human dignity, transformation of jurisprudence, public security law, fundamental rights, legal hermeneutics, constitutional law, state surveillance, policing, resilience management",
-          "profile_url": "https://csl.mpg.de/person/ralf-poscher/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Rachel Pougnet",
-          "title": "Senior Researcher (Public Law)",
-          "email": "r.pougnet@csl.mpg.de",
-          "research_interests": "Citizenship Studies, Comparative Constitutional Law, Public Law, Socio-Legal Studies, National Security, Migration and Mobilities, Empire and Decolonization, Human Rights",
-          "profile_url": "https://csl.mpg.de/person/rachel-pougnet/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Cornelia Riehle",
-          "title": "Researcher (Public Law)",
-          "email": "c.riehle@csl.mpg.de",
-          "research_interests": "European criminal law, prevention, investigation, prosecution, public law, cross-border crime, Europol, procedural rights",
-          "profile_url": "https://csl.mpg.de/person/cornelia-riehle/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sebastian Schwab",
-          "title": "Postdoc (Public Law)",
-          "email": "s.schwab@csl.mpg.de",
-          "research_interests": "Regulatory law, German constitutional law, the principle of democracy, the internal procedural rules of parliaments (Gesch\u00e4ftsordnungsrecht), the relationship of religious communities to the state, Legal theory, Kelsenian positivism, legal methodology, Theories of (legal) history, Protestant ecclesiastical law",
-          "profile_url": "https://csl.mpg.de/person/sebastian-schwab/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sarah Katharina Stein",
-          "title": "Postdoc (Public Law)",
-          "email": "k.stein@csl.mpg.de",
-          "research_interests": "public international law, international humanitarian law, comparative constitutional law, jurisprudence, military outsourcing, private military contractors, non-decisions",
-          "profile_url": "https://csl.mpg.de/person/sarah-katharina-stein/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Randall Stephenson",
-          "title": "Senior Researcher (Public Law)",
-          "email": "r.stephenson@csl.mpg.de",
-          "research_interests": "comparative public law, defamation, press freedom, democratic theory, networked accountability dynamics, digital communications, information surveillance, media regulation",
-          "profile_url": "https://csl.mpg.de/person/randall-stephenson/124809",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Thomas Wahl",
-          "title": "Senior Researcher (Public Law)",
-          "email": "t.wahl@csl.mpg.de",
-          "research_interests": "European criminal law, extradition law, international cooperation in criminal matters and the public order, mutual legal assistance, European Investigation Order, data protection in police and judicial co-operation in Europe, new architecture of European law enforcement, procedural safeguards, combating terrorism within the EU",
-          "profile_url": "https://csl.mpg.de/person/thomas-wahl/124809",
-          "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Simon Fraser University",
@@ -11613,8 +11893,16 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.sfu.ca/criminology/about/faculty.html",
       "extraction_status": "complete",
       "extraction_notes": "Extracted from [Simon Fraser University directory](https://www.sfu.ca/criminology/about/faculty.html)",
-      "faculty_count": 50,
+      "faculty_count": 51,
       "faculty": [
+        {
+          "name": "Anil Aggarwal",
+          "title": "Visiting Professor (Applied Legal Studies)",
+          "email": "anil_aggarwal@sfu.ca",
+          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
+          "crimrxiv_member": true
+        },
         {
           "name": "Gail Anderson",
           "title": "Professor",
@@ -11640,6 +11928,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Michael Begg",
+          "title": "Visiting Professor (Applied Legal Studies)",
+          "email": "",
+          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Lynne Bell",
           "title": "Professor",
           "email": "lynneb@sfu.ca",
@@ -11656,11 +11952,75 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Graeme Bowbrick",
+          "title": "Visiting Professor (Applied Legal Studies)",
+          "email": "gbowbric@sfu.ca",
+          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Neil T. Boyd",
+          "title": "Professor Emeritus",
+          "email": "nboyd@sfu.ca",
+          "research_interests": "Critical analysis of Canadian criminal law, homicide, Canadian narcotics legislation, legal control of pornography, workplace violence, biology of male and female violence",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Patricia Brantingham",
+          "title": "Professor Emerita",
+          "email": "pbrantin@sfu.ca",
+          "research_interests": "Computational criminology, pattern theory, environmental criminology, crime prevention through environmental design, criminal justice planning, policy evaluations",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Paul J. Brantingham",
+          "title": "Professor Emeritus",
+          "email": "branting@sfu.ca",
+          "research_interests": "Computational criminology, environmental criminology, ecology of crime, crime analysis, historical criminology",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Joan Brockman",
+          "title": "Professor Emerita",
+          "email": "brockman@sfu.ca",
+          "research_interests": "Sociology of professions, corporate financial crimes and misconduct, white collar crime",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Brian Burtch",
+          "title": "Professor Emeritus",
+          "email": "burtch@sfu.ca",
+          "research_interests": "Criminological theory, prisons, sociology of law, critical criminology, gender and law, midwifery",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Amanda Butler",
           "title": "Assistant Professor",
           "email": "albutler@sfu.ca",
           "research_interests": "Mental health, substance use, drug policy, forensic systems, correctional policy and programming, prisons/jails, epidemiology",
           "profile_url": "https://www.sfu.ca/criminology/about/faculty/criminology-faculty/amanda-butler.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Barry Cartwright",
+          "title": "Retired Senior Lecturer",
+          "email": "bcartwri@sfu.ca",
+          "research_interests": "Cyber-research ethics, cyberbullying, cyberlaw, cyber-terrorism, cyber-warfare, online disinformation",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Paul Choi",
+          "title": "Visiting Professor (Applied Legal Studies)",
+          "email": "",
+          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
           "crimrxiv_member": true
         },
         {
@@ -11672,11 +12032,35 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Raymond Corrado",
+          "title": "Professor Emeritus",
+          "email": "corrado@sfu.ca",
+          "research_interests": "Youth violence, comparative juvenile justice, terrorism, mental health and crime, victimization",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Sheri Fabian",
           "title": "University Lecturer",
           "email": "sfabian@sfu.ca",
           "research_interests": "Qualitative research methods, academic integrity, minorities and justice, scholarship of teaching and learning",
           "profile_url": "https://www.sfu.ca/criminology/about/faculty/criminology-faculty/sheri-fabian.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Andrea Fammartino",
+          "title": "Visiting Professor (Applied Legal Studies)",
+          "email": "andrea_fammartino@sfu.ca",
+          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Ezzat A. Fattah",
+          "title": "Professor Emeritus",
+          "email": "fattah@sfu.ca",
+          "research_interests": "Theoretical and comparative criminology, crime and social change, integrative theory",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
           "crimrxiv_member": true
         },
         {
@@ -11688,11 +12072,35 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Bill Glackman",
+          "title": "Retired Associate Professor",
+          "email": "glackman@sfu.ca",
+          "research_interests": "Research methodology, program evaluation, multivariate statistical techniques, forensic psychology",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Chisen Goto",
+          "title": "Visiting Faculty",
+          "email": "cgoto@sfu.ca",
+          "research_interests": "Intersubjective perceptions in policing, crime and intelligence analysis, organizational change management, child and youth mental health, race and gender issues in public safety, organized crime, border security",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/visiting-faculty---term-lecturers.html",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Alissa M. Greer",
           "title": "Associate Professor",
           "email": "alissa_greer@sfu.ca",
           "research_interests": "Drug policy, policymaking, policing, critical perspectives, community-based research, qualitative research methods",
           "profile_url": "https://www.sfu.ca/criminology/about/faculty/criminology-faculty/alissa-m--gree.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Curt T. Griffiths",
+          "title": "Professor Emeritus",
+          "email": "griffith@sfu.ca",
+          "research_interests": "Comparative criminal justice process and decision making, comparative criminal justice, legal reform",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
           "crimrxiv_member": true
         },
         {
@@ -11712,6 +12120,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Margaret A. Jackson",
+          "title": "Professor Emerita",
+          "email": "margarej@sfu.ca",
+          "research_interests": "Criminal justice policy analysis, violence against women and children, judicial attitudes, sentencing",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Bryan J. Kinney",
           "title": "Associate Professor",
           "email": "bkinney@sfu.ca",
@@ -11720,7 +12136,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Andrea Kr\u00fcsi",
+          "name": "Andrea Krüsi",
           "title": "Assistant Professor",
           "email": "andrea_krusi@sfu.ca",
           "research_interests": "Sex work policy, criminalization of HIV, critical public health, gender, policing, critical perspectives, qualitative and methods, community-based participatory approaches",
@@ -11729,7 +12145,7 @@ window.__DATA__ = {
         },
         {
           "name": "Shannon J. Linning",
-          "title": "Assistant Professor",
+          "title": "Associate Professor",
           "email": "shannon_linning@sfu.ca",
           "research_interests": "Environmental criminology, crime and place, crime prevention, crime science, place management, urban redevelopment, community criminology",
           "profile_url": "https://www.sfu.ca/criminology/about/faculty/criminology-faculty/shannon-j--linning.html",
@@ -11757,6 +12173,14 @@ window.__DATA__ = {
           "email": "dmacalis@sfu.ca",
           "research_interests": "Criminal Law, criminal procedure and evidence, civil liberties and the Charter of Rights and Freedoms, sentencing, policing and police powers, criminal justice accountability, wrongful conviction, legal responses to terrorism, philosophy of law, legal aspects of youth justice",
           "profile_url": "https://www.sfu.ca/criminology/about/faculty/criminology-faculty/david-macalister.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Krish Maharaj",
+          "title": "Visiting Professor (Applied Legal Studies)",
+          "email": "",
+          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
           "crimrxiv_member": true
         },
         {
@@ -11808,6 +12232,22 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Rick Parent",
+          "title": "Retired Associate Professor",
+          "email": "rparent@sfu.ca",
+          "research_interests": "Terrorism, extremism, police ethics, police service delivery, community policing, police use of force",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Ryan Prox",
+          "title": "Visiting Faculty / Adjunct Professor",
+          "email": "rprox@sfu.ca",
+          "research_interests": "Artificial intelligence and technosocial implications of algorithmic policing, machine learning predictive policing, police resource allocation, crime and intelligence analysis, organizational change management, transnational organized crime, cybercrime",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/visiting-faculty---term-lecturers.html",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Dawn Rault",
           "title": "Lecturer",
           "email": "dawn.rault@sfu.ca",
@@ -11848,51 +12288,11 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Anil Aggarwal",
-          "title": "Visiting Professor (Applied Legal Studies)",
-          "email": "anil_aggarwal@sfu.ca",
-          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Michael Begg",
-          "title": "Visiting Professor (Applied Legal Studies)",
-          "email": "",
-          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Graeme Bowbrick",
-          "title": "Visiting Professor (Applied Legal Studies)",
-          "email": "gbowbric@sfu.ca",
-          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Paul Choi",
-          "title": "Visiting Professor (Applied Legal Studies)",
-          "email": "",
-          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Andrea Fammartino",
-          "title": "Visiting Professor (Applied Legal Studies)",
-          "email": "andrea_fammartino@sfu.ca",
-          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Krish Maharaj",
-          "title": "Visiting Professor (Applied Legal Studies)",
-          "email": "",
-          "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
+          "name": "Sarah Yercich",
+          "title": "Visiting Faculty, Freda Centre for Research on Violence Against Women and Children",
+          "email": "sarah_yercich@sfu.ca",
+          "research_interests": "Domestic and gender-based violence; domestic homicide; family law; coercive control; power and control crimes; critical criminology; research methods; advanced qualitative methods; prison education; the scholarship of teaching and learning; and knowledge mobilization.",
+          "profile_url": "https://www.sfu.ca/criminology/about/faculty/visiting-faculty---term-lecturers.html",
           "crimrxiv_member": true
         },
         {
@@ -11902,135 +12302,24 @@ window.__DATA__ = {
           "research_interests": "legal frameworks for fiscal efficiency, statutory design, administrative law, public policy, conflict resolution, justice reform, multiculturalism, economic development",
           "profile_url": "https://www.sfu.ca/criminology/about/faculty/applied-legal-studies-faculty.html",
           "crimrxiv_member": true
-        },
-        {
-          "name": "Neil T. Boyd",
-          "title": "Professor Emeritus",
-          "email": "nboyd@sfu.ca",
-          "research_interests": "Critical analysis of Canadian criminal law, homicide, Canadian narcotics legislation, legal control of pornography, workplace violence, biology of male and female violence",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Patricia Brantingham",
-          "title": "Professor Emerita",
-          "email": "pbrantin@sfu.ca",
-          "research_interests": "Computational criminology, pattern theory, environmental criminology, crime prevention through environmental design, criminal justice planning, policy evaluations",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Paul J. Brantingham",
-          "title": "Professor Emeritus",
-          "email": "branting@sfu.ca",
-          "research_interests": "Computational criminology, environmental criminology, ecology of crime, crime analysis, historical criminology",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Joan Brockman",
-          "title": "Professor Emerita",
-          "email": "brockman@sfu.ca",
-          "research_interests": "Sociology of professions, corporate financial crimes and misconduct, white collar crime",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Brian Burtch",
-          "title": "Professor Emeritus",
-          "email": "burtch@sfu.ca",
-          "research_interests": "Criminological theory, prisons, sociology of law, critical criminology, gender and law, midwifery",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Barry Cartwright",
-          "title": "Retired Senior Lecturer",
-          "email": "bcartwri@sfu.ca",
-          "research_interests": "Cyber-research ethics, cyberbullying, cyberlaw, cyber-terrorism, cyber-warfare, online disinformation",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Raymond Corrado",
-          "title": "Professor Emeritus",
-          "email": "corrado@sfu.ca",
-          "research_interests": "Youth violence, comparative juvenile justice, terrorism, mental health and crime, victimization",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ezzat A. Fattah",
-          "title": "Professor Emeritus",
-          "email": "fattah@sfu.ca",
-          "research_interests": "Theoretical and comparative criminology, crime and social change, integrative theory",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Bill Glackman",
-          "title": "Retired Associate Professor",
-          "email": "glackman@sfu.ca",
-          "research_interests": "Research methodology, program evaluation, multivariate statistical techniques, forensic psychology",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Curt T. Griffiths",
-          "title": "Professor Emeritus",
-          "email": "griffith@sfu.ca",
-          "research_interests": "Comparative criminal justice process and decision making, comparative criminal justice, legal reform",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Margaret A. Jackson",
-          "title": "Professor Emerita",
-          "email": "margarej@sfu.ca",
-          "research_interests": "Criminal justice policy analysis, violence against women and children, judicial attitudes, sentencing",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Rick Parent",
-          "title": "Retired Associate Professor",
-          "email": "rparent@sfu.ca",
-          "research_interests": "Terrorism, extremism, police ethics, police service delivery, community policing, police use of force",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/emeritus---retired-faculty.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Chisen Goto",
-          "title": "Visiting Faculty",
-          "email": "cgoto@sfu.ca",
-          "research_interests": "Intersubjective perceptions in policing, crime and intelligence analysis, organizational change management, child and youth mental health, race and gender issues in public safety, organized crime, border security",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/visiting-faculty---term-lecturers.html",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ryan Prox",
-          "title": "Visiting Faculty / Adjunct Professor",
-          "email": "rprox@sfu.ca",
-          "research_interests": "Artificial intelligence and technosocial implications of algorithmic policing, machine learning predictive policing, police resource allocation, crime and intelligence analysis, organizational change management, transnational organized crime, cybercrime",
-          "profile_url": "https://www.sfu.ca/criminology/about/faculty/visiting-faculty---term-lecturers.html",
-          "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
-      "institution": "University of Hawai\u02bbi at M\u0101noa",
+      "institution": "University of Hawaiʻi at Mānoa",
       "department_name": "Department of Sociology",
       "department_homepage": "https://sociology.manoa.hawaii.edu/",
       "faculty_directory_url": "https://sociology.manoa.hawaii.edu/ashley-rubin/",
       "extraction_status": "complete",
-      "extraction_notes": "Extracted from [University of Hawai\u02bbi at M\u0101noa directory](https://sociology.manoa.hawaii.edu/ashley-rubin/)",
+      "extraction_notes": "Extracted from [University of Hawaiʻi at Mānoa directory](https://sociology.manoa.hawaii.edu/ashley-rubin/)",
       "faculty_count": 1,
       "faculty": [
         {
           "name": "Ashley Rubin",
-          "title": "Associate Professor",
+          "title": "Professor",
           "email": "atrubin@hawaii.edu",
           "research_interests": "criminal punishment, social control, penal trends over time, major moments of transition (e.g., decline of the death penalty, rise of incarceration), periods of stasis or stability, theories from law and society, organizational studies, deviance studies",
           "profile_url": "https://sociology.manoa.hawaii.edu/ashley-rubin/",
@@ -12038,7 +12327,8 @@ window.__DATA__ = {
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Cambridge",
@@ -12067,7 +12357,8 @@ window.__DATA__ = {
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Georgia",
@@ -12076,24 +12367,8 @@ window.__DATA__ = {
       "faculty_directory_url": "https://sociology.uga.edu/directory/faculty?field_research_areas_target_id_verf=1930",
       "extraction_status": "complete",
       "extraction_notes": "Extracted from [University of Georgia directory](https://sociology.uga.edu/directory/faculty?field_research_areas_target_id_verf=1930)",
-      "faculty_count": 12,
+      "faculty_count": 11,
       "faculty": [
-        {
-          "name": "Jody Clay-Warner",
-          "title": "Meigs Professor of Sociology; Director, Owens Institute for Behavioral Research",
-          "email": "jclayw@uga.edu",
-          "research_interests": "Responses to injustice; social psychology of justice; gender, crime, and justice; experimental methods in sociology",
-          "profile_url": "https://sociology.uga.edu/directory/people/jody-claywarner",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Mark Cooney",
-          "title": "Professor",
-          "email": "mcooney@uga.edu",
-          "research_interests": "Moral conflict, particularly violence; conditions under which violence occurs; social geometrical theory",
-          "profile_url": "https://sociology.uga.edu/directory/people/mark-cooney",
-          "crimrxiv_member": true
-        },
         {
           "name": "Jorge Derpic",
           "title": "Assistant Director and Academic Professional Associate, Latin American and Caribbean Studies Institute",
@@ -12173,10 +12448,19 @@ window.__DATA__ = {
           "research_interests": "Social Psychology, Race and Ethnicity, Inequality, Gender, Crime, Law, and Deviance",
           "profile_url": "https://sociology.uga.edu/directory/people/justine-tinkler",
           "crimrxiv_member": true
+        },
+        {
+          "name": "Jody Clay-Warner",
+          "title": "Meigs Professor of Sociology; Director, Owens Institute for Behavioral Research",
+          "email": "jclayw@uga.edu",
+          "research_interests": "Responses to injustice; social psychology of justice; gender, crime, and justice; experimental methods in sociology",
+          "profile_url": "https://sociology.uga.edu/directory/people/jody-claywarner",
+          "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Leeds",
@@ -12187,14 +12471,6 @@ window.__DATA__ = {
       "extraction_notes": "Extracted from [University of Leeds directory](https://essl.leeds.ac.uk/law-research-centre-criminal-justice-studies/stafflist)",
       "faculty_count": 27,
       "faculty": [
-        {
-          "name": "Louise Ellison",
-          "title": "Professor of Law; Director of Centre for Criminal Justice Studies",
-          "email": "l.e.ellison@leeds.ac.uk",
-          "research_interests": "Evidence Law, Criminal Law, Criminal Justice, Law of Evidence, criminal trial procedure, criminal justice responses to gender based violence, access to justice, jury decision-making, victims of crime, trauma, psychosocial disabilities",
-          "profile_url": "https://essl.leeds.ac.uk/law/staff/192/professor-louise-ellison",
-          "crimrxiv_member": true
-        },
         {
           "name": "Laura Bainbridge",
           "title": "Associate Professor in Criminal Justice",
@@ -12268,19 +12544,19 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Louise Ellison",
+          "title": "Professor of Law; Director of Centre for Criminal Justice Studies",
+          "email": "l.e.ellison@leeds.ac.uk",
+          "research_interests": "Evidence Law, Criminal Law, Criminal Justice, Law of Evidence, criminal trial procedure, criminal justice responses to gender based violence, access to justice, jury decision-making, victims of crime, trauma, psychosocial disabilities",
+          "profile_url": "https://essl.leeds.ac.uk/law/staff/192/professor-louise-ellison",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Graham Farrell",
           "title": "Professor of Crime Science",
           "email": "G.Farrell@leeds.ac.uk",
           "research_interests": "situational crime prevention, crime science, crime trends, the crime drop, the security hypothesis, designing-out crime, problem-oriented policing",
           "profile_url": "https://essl.leeds.ac.uk/law/staff/193/professor-graham-farrell",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "James Greenwood-Reeves",
-          "title": "Lecturer in Law",
-          "email": "J.R.H.Greenwood-Reeves@leeds.ac.uk",
-          "research_interests": "public order, violent protest, public law, legal theory, security and justice, surveillance, queer legal theory, drag and the law",
-          "profile_url": "https://essl.leeds.ac.uk/law/staff/2132/dr-james-greenwood-reeves",
           "crimrxiv_member": true
         },
         {
@@ -12324,15 +12600,15 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Richard Peake",
-          "title": "Associate Professor in Criminology and Criminal Justice",
-          "email": "R.Peake@leeds.ac.uk",
-          "research_interests": "The prison system, particularly long-term prisoners and the private sector, Probation and offender supervision, Youth justice",
-          "profile_url": "https://essl.leeds.ac.uk/law/staff/220/dr-richard-peake",
+          "name": "James Greenwood-Reeves",
+          "title": "Lecturer in Law",
+          "email": "J.R.H.Greenwood-Reeves@leeds.ac.uk",
+          "research_interests": "public order, violent protest, public law, legal theory, security and justice, surveillance, queer legal theory, drag and the law",
+          "profile_url": "https://essl.leeds.ac.uk/law/staff/2132/dr-james-greenwood-reeves",
           "crimrxiv_member": true
         },
         {
-          "name": "Jose Pina-S\u00e1nchez",
+          "name": "Jose Pina-Sánchez",
           "title": "Professor in Quantitative Criminology",
           "email": "J.PinaSanchez@leeds.ac.uk",
           "research_interests": "criminal justice statistics, sentencing, disparities, measurement error, multilevel modelling, longitudinal data analysis",
@@ -12349,7 +12625,7 @@ window.__DATA__ = {
         },
         {
           "name": "Laurene Soubise",
-          "title": "Lecturer in Law",
+          "title": "Associate Professor in Law",
           "email": "L.Soubise@leeds.ac.uk",
           "research_interests": "Comparative criminal justice, Public prosecutors, Criminal Law",
           "profile_url": "https://essl.leeds.ac.uk/law/staff/2133/dr-laurene-soubise",
@@ -12369,6 +12645,14 @@ window.__DATA__ = {
           "email": "D.S.Wall@leeds.ac.uk",
           "research_interests": "Criminology, Cybercrime, Cybersecurity, Policing, Data Theft, Organised Crime, Intellectual Property Crime, Identity Theft, Popular Cultures, Criminal Justice, Law and Technology, Digital evidence",
           "profile_url": "https://essl.leeds.ac.uk/law/staff/238/professor-david-s-wall-facss",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Christine Weirich",
+          "title": "Research Fellow at the ESRC Centre for Vulnerability and Policing",
+          "email": "C.A.Weirich@leeds.ac.uk",
+          "research_interests": "Crime prevention; illicit markets; crime script analysis; cultural heritage and property protection; antiquities trafficking; crime science",
+          "profile_url": "https://essl.leeds.ac.uk/law/staff/1337/dr-christine-a-weirich",
           "crimrxiv_member": true
         },
         {
@@ -12397,7 +12681,7 @@ window.__DATA__ = {
         },
         {
           "name": "Ilaria Zavoli",
-          "title": "Lecturer in Law",
+          "title": "Associate Professor in Law",
           "email": "I.Zavoli@leeds.ac.uk",
           "research_interests": "international criminal justice, money laundering, financial crimes, cryptocurrencies, international law, academic integrity, international legal professions",
           "profile_url": "https://essl.leeds.ac.uk/law/staff/247/dr-ilaria-zavoli",
@@ -12405,141 +12689,142 @@ window.__DATA__ = {
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
-      "institution": "Universit\u00e9 de Montr\u00e9al",
-      "department_name": "\u00c9cole de criminologie",
+      "institution": "Université de Montréal",
+      "department_name": "École de criminologie",
       "department_homepage": "https://crim.umontreal.ca/",
       "faculty_directory_url": "https://crim.umontreal.ca/repertoire-departement/professeurs/",
       "extraction_status": "complete",
-      "extraction_notes": "Extracted from [Universit\u00e9 de Montr\u00e9al directory](https://crim.umontreal.ca/repertoire-departement/professeurs/)",
+      "extraction_notes": "Extracted from [Université de Montréal directory](https://crim.umontreal.ca/repertoire-departement/professeurs/)",
       "faculty_count": 34,
       "faculty": [
         {
-          "name": "Anthony Amicelle",
-          "title": "Professeur associ\u00e9",
+          "name": "Luis Valentin Pereda Aguado",
+          "title": "Professeur adjoint",
+          "email": "valentin.pereda@umontreal.ca",
+          "research_interests": "Crime organisé, Réseaux criminels",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sébastien Brouillette-Alarie",
+          "title": "Professeur associé",
           "email": "",
-          "research_interests": "Sociologie de l'action publique, D\u00e9linquance \u00e9conomique et financi\u00e8re",
+          "research_interests": "Extrémisme violent, Radicalisation",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Anthony Amicelle",
+          "title": "Professeur associé",
+          "email": "anthony.amicelle@umontreal.ca",
+          "research_interests": "Sociologie de l'action publique, Délinquance économique et financière",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Catherine Arseneault",
-          "title": "Professeure agr\u00e9g\u00e9e",
-          "email": "",
-          "research_interests": "Toxicomanie, D\u00e9sistement du crime",
+          "title": "Professeure agrégée",
+          "email": "catherine.arseneault.1@umontreal.ca",
+          "research_interests": "Toxicomanie, Désistement du crime",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "Andr\u00e9anne Bergeron",
-          "title": "Professeure associ\u00e9e",
+          "name": "Andréanne Bergeron",
+          "title": "Professeure associée",
           "email": "",
-          "research_interests": "Piratage informatique, Cybers\u00e9curit\u00e9 (politiques de)",
+          "research_interests": "Piratage informatique, Cybersécurité (politiques de)",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "\u00c9tienne Blais",
+          "name": "Étienne Blais",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Politiques publiques, Pr\u00e9vention du crime",
+          "email": "etienne.blais@umontreal.ca",
+          "research_interests": "Politiques publiques, Prévention du crime",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "R\u00e9mi Boivin",
+          "name": "Rémi Boivin",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Analyse de la criminalit\u00e9, Pratiques polici\u00e8res",
+          "email": "remi.boivin@umontreal.ca",
+          "research_interests": "Analyse de la criminalité, Pratiques policières",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "S\u00e9bastien Brouillette-Alarie",
-          "title": "Professeur associ\u00e9",
-          "email": "",
-          "research_interests": "Extr\u00e9misme violent, Radicalisation",
+          "name": "Karine Côté-Boucher",
+          "title": "Professeure agrégée",
+          "email": "karine.cote-boucher@umontreal.ca",
+          "research_interests": "Frontières, Immigration",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "St\u00e9phanie Chouinard-Thivierge",
+          "name": "Masarah Paquet-Clouston",
           "title": "Professeure adjointe",
-          "email": "",
-          "research_interests": "Criminologie d\u00e9veloppementale, D\u00e9linquance sexuelle",
+          "email": "m.paquet-clouston@umontreal.ca",
+          "research_interests": "Délinquance économique et financière, Technologies de l'information",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Franca Cortoni",
-          "title": "Professeure associ\u00e9e",
-          "email": "",
-          "research_interests": "Psychologie criminologique et correctionnelle, D\u00e9linquance sexuelle",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Karine C\u00f4t\u00e9-Boucher",
-          "title": "Professeure agr\u00e9g\u00e9e",
-          "email": "",
-          "research_interests": "Fronti\u00e8res, Immigration",
+          "title": "Professeure associée",
+          "email": "franca.cortoni@umontreal.ca",
+          "research_interests": "Psychologie criminologique et correctionnelle, Délinquance sexuelle",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Marie-Marthe Cousineau",
-          "title": "Professeure associ\u00e9e, Professeure honoraire",
-          "email": "",
-          "research_interests": "Femmes victimes de violence, Mariages forc\u00e9s",
+          "title": "Professeure associée, Professeure honoraire",
+          "email": "mm.cousineau@umontreal.ca",
+          "research_interests": "Femmes victimes de violence, Mariages forcés",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Anne Crocker",
           "title": "Professeure titulaire",
-          "email": "",
-          "research_interests": "Violence, Criminalit\u00e9",
+          "email": "anne.crocker@umontreal.ca",
+          "research_interests": "Violence, Criminalité",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Isabelle V. Daignault",
-          "title": "Professeure agr\u00e9g\u00e9e",
-          "email": "",
+          "title": "Professeure agrégée",
+          "email": "isabelle.daignault@umontreal.ca",
           "research_interests": "Traumatismes pendant l'enfance, Agression sexuelle",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "David D\u00e9cary-H\u00e9tu",
-          "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Analyse de la criminalit\u00e9, Analyse de r\u00e9seaux",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Vincent Denault",
           "title": "Professeur adjoint",
-          "email": "",
-          "research_interests": "Tribunaux, T\u00e9moignages",
+          "email": "vincent.denault@umontreal.ca",
+          "research_interests": "Tribunaux, Témoignages",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "Beno\u00eet Dupont",
+          "name": "Benoît Dupont",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Vol d'identit\u00e9, Fraude bancaire",
+          "email": "benoit.dupont@umontreal.ca",
+          "research_interests": "Vol d'identité, Fraude bancaire",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Nathalie Fontaine",
           "title": "Professeure titulaire",
-          "email": "",
+          "email": "nathalie.fontaine@umontreal.ca",
           "research_interests": "Violence, Victimisation",
           "profile_url": "",
           "crimrxiv_member": true
@@ -12547,150 +12832,151 @@ window.__DATA__ = {
         {
           "name": "Francis Fortin",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Criminalit\u00e9, Pornographie",
+          "email": "francis.fortin@umontreal.ca",
+          "research_interests": "Criminalité, Pornographie",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Jean-Pierre Guay",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Mesure des ph\u00e9nom\u00e8nes criminels, \u00c9valuation du risque de r\u00e9cidive",
+          "email": "jean-pierre.guay@umontreal.ca",
+          "research_interests": "Mesure des phénomènes criminels, Évaluation du risque de récidive",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "St\u00e9phane Guay",
+          "name": "Stéphane Guay",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Pratique clinique aupr\u00e8s des victimes, \u00c9tat de stress post-traumatique (ESPT)",
+          "email": "stephane.guay@umontreal.ca",
+          "research_interests": "Pratique clinique auprès des victimes, État de stress post-traumatique (ESPT)",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "Myl\u00e8ne Jaccoud",
+          "name": "David Décary-Hétu",
+          "title": "Professeur titulaire",
+          "email": "david.decary-hetu@umontreal.ca",
+          "research_interests": "Analyse de la criminalité, Analyse de réseaux",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Mylène Jaccoud",
           "title": "Professeure titulaire",
-          "email": "",
-          "research_interests": "Justice r\u00e9paratrice, M\u00e9diation",
+          "email": "mylene.jaccoud@umontreal.ca",
+          "research_interests": "Justice réparatrice, Médiation",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Denis Lafortune",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Adolescents auteurs d'agression sexuelle, D\u00e9linquance et troubles mentaux",
+          "email": "denis.lafortune@umontreal.ca",
+          "research_interests": "Adolescents auteurs d'agression sexuelle, Délinquance et troubles mentaux",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "Chlo\u00e9 Leclerc",
+          "name": "Chloé Leclerc",
           "title": "Professeure titulaire",
-          "email": "",
-          "research_interests": "D\u00e9termination et am\u00e9nagement de la peine, Opinion publique et syst\u00e8me de justice",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Massimiliano Mulone",
-          "title": "Professeur agr\u00e9g\u00e9",
-          "email": "",
-          "research_interests": "Profilage racial, Police et discrimination",
-          "profile_url": "",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Fr\u00e9d\u00e9ric Ouellet",
-          "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "Carri\u00e8res criminelles, R\u00e9ussite criminelle",
+          "email": "chloe.leclerc@umontreal.ca",
+          "research_interests": "Détermination et aménagement de la peine, Opinion publique et système de justice",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Isabelle Ouellet-Morin",
           "title": "Professeure titulaire",
-          "email": "",
+          "email": "isabelle.ouellet-morin@umontreal.ca",
           "research_interests": "Effet de la victimisation, Conduites antisociales",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "Masarah Paquet-Clouston",
-          "title": "Professeure adjointe",
-          "email": "",
-          "research_interests": "D\u00e9linquance \u00e9conomique et financi\u00e8re, Technologies de l'information",
+          "name": "Massimiliano Mulone",
+          "title": "Professeur agrégé",
+          "email": "massimiliano.mulone@umontreal.ca",
+          "research_interests": "Profilage racial, Police et discrimination",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
-          "name": "Luis Valentin Pereda Aguado",
-          "title": "Professeur adjoint",
-          "email": "",
-          "research_interests": "Crime organis\u00e9, R\u00e9seaux criminels",
+          "name": "Frédéric Ouellet",
+          "title": "Professeur titulaire",
+          "email": "frederic.ouellet.1@umontreal.ca",
+          "research_interests": "Carrières criminelles, Réussite criminelle",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Jean Proulx",
           "title": "Professeur titulaire",
-          "email": "",
-          "research_interests": "P\u00e9dophiles, Meurtriers sexuels",
+          "email": "jean.proulx@umontreal.ca",
+          "research_interests": "Pédophiles, Meurtriers sexuels",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Marianne Quirouette",
-          "title": "Professeure agr\u00e9g\u00e9e",
-          "email": "",
-          "research_interests": "Sociologie de la punition, Contr\u00f4le et criminalisation des personnes marginalis\u00e9es",
+          "title": "Professeure agrégée",
+          "email": "marianne.quirouette@umontreal.ca",
+          "research_interests": "Sociologie de la punition, Contrôle et criminalisation des personnes marginalisées",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Alain-Guy Sipowo",
           "title": "Professeur adjoint",
-          "email": "",
-          "research_interests": "Victimologie, Justice p\u00e9nale",
+          "email": "alain-guy.tachou.sipowo@umontreal.ca",
+          "research_interests": "Victimologie, Justice pénale",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Samuel Tanner",
-          "title": "Directeur de d\u00e9partement, Professeur titulaire",
-          "email": "",
-          "research_interests": "Impact des technologies sur la s\u00e9curit\u00e9, Extr\u00e9misme violent",
+          "title": "Directeur de département, Professeur titulaire",
+          "email": "samuel.tanner@umontreal.ca",
+          "research_interests": "Impact des technologies sur la sécurité, Extrémisme violent",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Stéphanie Chouinard-Thivierge",
+          "title": "Professeure adjointe",
+          "email": "stephanie.chouinard-thivierge@umontreal.ca",
+          "research_interests": "Criminologie développementale, Délinquance sexuelle",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Marion Vacheret",
           "title": "Professeure titulaire",
-          "email": "",
-          "research_interests": "Politiques et pratiques p\u00e9nales, Institutions carc\u00e9rales",
+          "email": "marion.vacheret@umontreal.ca",
+          "research_interests": "Politiques et pratiques pénales, Institutions carcérales",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Jo-Anne Wemmers",
           "title": "Professeure titulaire",
-          "email": "",
-          "research_interests": "Victimologie, Justice p\u00e9nale",
+          "email": "jo-anne.m.wemmers@umontreal.ca",
+          "research_interests": "Victimologie, Justice pénale",
           "profile_url": "",
           "crimrxiv_member": true
         },
         {
           "name": "Alexandra Zidenberg",
           "title": "Professeure adjointe",
-          "email": "",
-          "research_interests": "D\u00e9linquance sexuelle, Agression sexuelle",
+          "email": "alexandra.zidenberg@umontreal.ca",
+          "research_interests": "Délinquance sexuelle, Agression sexuelle",
           "profile_url": "",
           "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Liverpool",
@@ -12699,16 +12985,8 @@ window.__DATA__ = {
       "faculty_directory_url": "https://www.liverpool.ac.uk/sociology-social-policy-and-criminology/staff/",
       "extraction_status": "complete",
       "extraction_notes": "Extracted from [University of Liverpool directory](https://www.liverpool.ac.uk/sociology-social-policy-and-criminology/staff/)",
-      "faculty_count": 46,
+      "faculty_count": 50,
       "faculty": [
-        {
-          "name": "Shadd Maruna",
-          "title": "Head of Department / Chair",
-          "email": "S.Maruna@liverpool.ac.uk",
-          "research_interests": "desistance from crime, prisoner reintegration, redemption, penal reform, narrative criminology, restorative justice, rehabilitation, community violence intervention",
-          "profile_url": "https://www.liverpool.ac.uk/people/shadd-maruna",
-          "crimrxiv_member": true
-        },
         {
           "name": "Gemma Ahearne",
           "title": "Senior Lecturer",
@@ -12721,7 +12999,7 @@ window.__DATA__ = {
           "name": "Elham Amini",
           "title": "Lecturer",
           "email": "Elham.Amini@liverpool.ac.uk",
-          "research_interests": "Medical Sociology, Sociology of Emotions, Sociology of Health and Illness, Gender, Sexuality, and Feminist Sociology, Women\u2019s Health and Reproductive Health, Menopause, Ageing, and the Life Course, Qualitative and Narrative Research Methods, Biographical and Life History Approaches",
+          "research_interests": "Medical Sociology, Sociology of Emotions, Sociology of Health and Illness, Gender, Sexuality, and Feminist Sociology, Women’s Health and Reproductive Health, Menopause, Ageing, and the Life Course, Qualitative and Narrative Research Methods, Biographical and Life History Approaches",
           "profile_url": "https://www.liverpool.ac.uk/people/elham-amini",
           "crimrxiv_member": true
         },
@@ -12739,6 +13017,22 @@ window.__DATA__ = {
           "email": "David.Baker@liverpool.ac.uk",
           "research_interests": "avoidable deaths, coroners' courts, police accountability, regulation and governance of publicly funded organisations",
           "profile_url": "https://www.liverpool.ac.uk/people/david-baker",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Yusef Bakkali",
+          "title": "Lecturer",
+          "email": "Y.Bakkali@liverpool.ac.uk",
+          "research_interests": "",
+          "profile_url": "https://www.liverpool.ac.uk/people/yusef-bakkali",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Daniela Tepe-Belfrage",
+          "title": "Senior Lecturer; School PGR Co Lead",
+          "email": "D.Tepe-Belfrage@liverpool.ac.uk",
+          "research_interests": "social policy, gender, political economy of social reproduction, private debt, social care, troubled families, parenting, household economies",
+          "profile_url": "https://www.liverpool.ac.uk/people/daniela-tepe-belfrage",
           "crimrxiv_member": true
         },
         {
@@ -12785,8 +13079,24 @@ window.__DATA__ = {
           "name": "Ross Coomber",
           "title": "Professor (ESRC Research Project)",
           "email": "Ross.Coomber@liverpool.ac.uk",
-          "research_interests": "Drug/substance markets/supply (laws / policy / CJS approaches / macro-micro analyses of illicit drug markets and drug suppliers / conceptual development of / cross-cultural comparisons / policing of), Vulnerability and exploitation in drug markets /vulnerability policing / Child Criminal Exploitation in drug markets, Drug/substance use (policy / initiation / cultures / to crime and violence / transitions / meaning / effects / history / cross-cultural comparisons). Includes drug use in sport and/or in public gyms., Drug/substance use treatment (policy / \u2019recovery\u2019 / approaches to / evaluations /history of), Harm reduction interventions - particularly in relation to the use of steroids and other image and performance enhancing drugs, Harm reduction interventions - particularly in relation to policing vulnerability in drug markets, Cultural change and social problems, Social, Cultural and Criminological Theory, How globalisation is affecting change around notions of \u2018civility\u2019 and the so-called civilising process; international relations of, Conceptualising deviance, fear and the \u2018other\u2019, Research methods (innovation/mixed/qualitative), Interdisciplinary research (forensic science; health; public health), The theoretical interconnections of risk and fear, Transgression, culture and history (spitting and other maligned behaviours), Agency/structure and socio-legal understanding of crime",
+          "research_interests": "Drug/substance markets/supply (laws / policy / CJS approaches / macro-micro analyses of illicit drug markets and drug suppliers / conceptual development of / cross-cultural comparisons / policing of), Vulnerability and exploitation in drug markets /vulnerability policing / Child Criminal Exploitation in drug markets, Drug/substance use (policy / initiation / cultures / to crime and violence / transitions / meaning / effects / history / cross-cultural comparisons). Includes drug use in sport and/or in public gyms., Drug/substance use treatment (policy / ’recovery’ / approaches to / evaluations /history of), Harm reduction interventions - particularly in relation to the use of steroids and other image and performance enhancing drugs, Harm reduction interventions - particularly in relation to policing vulnerability in drug markets, Cultural change and social problems, Social, Cultural and Criminological Theory, How globalisation is affecting change around notions of ‘civility’ and the so-called civilising process; international relations of, Conceptualising deviance, fear and the ‘other’, Research methods (innovation/mixed/qualitative), Interdisciplinary research (forensic science; health; public health), The theoretical interconnections of risk and fear, Transgression, culture and history (spitting and other maligned behaviours), Agency/structure and socio-legal understanding of crime",
           "profile_url": "https://www.liverpool.ac.uk/people/ross-coomber",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Patrik Dahl",
+          "title": "Lecturer",
+          "email": "Patrik.Dahl@liverpool.ac.uk",
+          "research_interests": "",
+          "profile_url": "https://www.liverpool.ac.uk/people/patrik-dahl",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Elizabeth Ettorre",
+          "title": "Emeritus Professor",
+          "email": "E.Ettorre@liverpool.ac.uk",
+          "research_interests": "feminist sociology, gender and drugs, drug use and women, autoethnography, critical drug studies, embodiment, reproductive genetics",
+          "profile_url": "",
           "crimrxiv_member": true
         },
         {
@@ -12799,10 +13109,18 @@ window.__DATA__ = {
         },
         {
           "name": "Barry Godfrey",
-          "title": "Professor of Social Justice; Associate Dean of School for Research & Impact",
+          "title": "Associate Dean of School for Research & Impact / Professor of Social Justice",
           "email": "Barry.Godfrey@liverpool.ac.uk",
           "research_interests": "Longitudinal studies of crime and sentencing, how individual and structural factors can affect desistence from crime, comparative international studies of offending and sentencing, court culture and practice, the history of Liverpool, convicts in America and Australia",
           "profile_url": "https://www.liverpool.ac.uk/people/barry-godfrey",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Barry Goldson",
+          "title": "Emeritus Professor",
+          "email": "B.Goldson@liverpool.ac.uk",
+          "research_interests": "criminal justice, criminology, law, social/public policy, social and economic history, sociology, socio-legal studies, human rights, social justice, youth criminology, youth/juvenile justice studies",
+          "profile_url": "https://www.liverpool.ac.uk/people/barry-goldson",
           "crimrxiv_member": true
         },
         {
@@ -12814,7 +13132,7 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Laura Guti\u00e9rrez",
+          "name": "Laura Gutiérrez",
           "title": "Lecturer",
           "email": "Laura.Gutierrez@liverpool.ac.uk",
           "research_interests": "green criminology, socio-environmental harm, extractive industries, wildlife crime, Global North-Global South dynamics, political ecologies, green-collar crime, illegal wildlife trade",
@@ -12870,14 +13188,6 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Matthew Kearney",
-          "title": "Lecturer",
-          "email": "Matthew.Kearney@liverpool.ac.uk",
-          "research_interests": "Activism, protests, and resistance, Class, Politics and Government, Social theory, Sociology of health and illness, Sociology of gender",
-          "profile_url": "https://www.liverpool.ac.uk/people/matthew-kearney",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Andrew Kirton",
           "title": "Lecturer; School PGR Co Lead",
           "email": "A.W.Kirton@liverpool.ac.uk",
@@ -12894,14 +13204,6 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Ross McGarry",
-          "title": "Reader",
-          "email": "S.R.Mcgarry@liverpool.ac.uk",
-          "research_interests": "critical military studies, military harms, class and social inequalities, military geographies and landscapes, knowledge economies of defence estates and establishments, sociological study of war, criminological study of war",
-          "profile_url": "https://www.liverpool.ac.uk/people/ross-mcgarry",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Michael Mair",
           "title": "Professor",
           "email": "Michael.Mair@liverpool.ac.uk",
@@ -12910,19 +13212,35 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Liam Markey",
-          "title": "Research Associate",
-          "email": "L.P.Markey@liverpool.ac.uk",
-          "research_interests": "digital public histories, legacy of enslavement, militarism, military victimhood, periods of remembrance, First World War, archives of war, British history",
-          "profile_url": "https://www.liverpool.ac.uk/people/liam-markey",
+          "name": "Shadd Maruna",
+          "title": "Head of Department / Chair",
+          "email": "S.Maruna@liverpool.ac.uk",
+          "research_interests": "desistance from crime, prisoner reintegration, redemption, penal reform, narrative criminology, restorative justice, rehabilitation, community violence intervention",
+          "profile_url": "https://www.liverpool.ac.uk/people/shadd-maruna",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Ross McGarry",
+          "title": "Reader",
+          "email": "S.R.Mcgarry@liverpool.ac.uk",
+          "research_interests": "critical military studies, military harms, class and social inequalities, military geographies and landscapes, knowledge economies of defence estates and establishments, sociological study of war, criminological study of war",
+          "profile_url": "https://www.liverpool.ac.uk/people/ross-mcgarry",
           "crimrxiv_member": true
         },
         {
           "name": "Fiona Measham",
           "title": "Chair in Criminology",
           "email": "F.Measham@liverpool.ac.uk",
-          "research_interests": "criminology, sociology, social policy, history, gender studies, transgressive leisure, the psychoactive zeitgeist, the public/policy interface, harm reduction, drug checking, gendering of nightlife, sexual harassment and violence in nightlife and festival settings, women\u2019s experiences of imprisonment",
+          "research_interests": "criminology, sociology, social policy, history, gender studies, transgressive leisure, the psychoactive zeitgeist, the public/policy interface, harm reduction, drug checking, gendering of nightlife, sexual harassment and violence in nightlife and festival settings, women’s experiences of imprisonment",
           "profile_url": "https://www.liverpool.ac.uk/people/fiona-measham",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Robert Moore",
+          "title": "Emeritus Professor",
+          "email": "Rsmoore@liverpool.ac.uk",
+          "research_interests": "race relations, immigration, community studies, ethnic identities, social cohesion, social policy, sustainable communities, social theory",
+          "profile_url": "https://www.liverpool.ac.uk/people/robert-moore",
           "crimrxiv_member": true
         },
         {
@@ -12945,7 +13263,7 @@ window.__DATA__ = {
           "name": "Gabe Mythen",
           "title": "Professor of Criminology",
           "email": "G.Mythen@liverpool.ac.uk",
-          "research_interests": "Examining Key Factors Present in Pathways into Engagement with Violent Ideologies, Understanding the Drivers of Violence Fixated Forms of Extremism, Studying the Consequences and Effects of Counter Terrorism Regulation, Understanding Resilience Building Amongst Survivors of Terrorist Attacks, Environmental Activism and the Climate Emergency, Examining the Effectiveness of Counter Radicalisation Strategies, Expanding and Modernising Risk Theory, Developing Critical Approaches to \u2018Fear of Crime\u2019",
+          "research_interests": "Examining Key Factors Present in Pathways into Engagement with Violent Ideologies, Understanding the Drivers of Violence Fixated Forms of Extremism, Studying the Consequences and Effects of Counter Terrorism Regulation, Understanding Resilience Building Amongst Survivors of Terrorist Attacks, Environmental Activism and the Climate Emergency, Examining the Effectiveness of Counter Radicalisation Strategies, Expanding and Modernising Risk Theory, Developing Critical Approaches to ‘Fear of Crime’",
           "profile_url": "https://www.liverpool.ac.uk/people/gabriel-mythen",
           "crimrxiv_member": true
         },
@@ -12966,6 +13284,14 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Jennifer Rae",
+          "title": "Research Associate",
+          "email": "",
+          "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": true
+        },
+        {
           "name": "Brittany Ralph",
           "title": "Lecturer",
           "email": "Brittany.Ralph@liverpool.ac.uk",
@@ -12977,8 +13303,16 @@ window.__DATA__ = {
           "name": "Ellen Reeves",
           "title": "Lecturer",
           "email": "Ellen.Reeves@liverpool.ac.uk",
-          "research_interests": "effectiveness of intervention/protection orders as a response to domestic abuse, role of police in responding to domestic abuse, criminalisation of coercive control, misidentification of women victim-survivors as predominant aggressors, domestic violence disclosure schemes, LGBTQA+ victim-survivors\u2019 experiences of using the law for domestic abuse, qualitative methodologies, ethical approaches to researching sensitive issues such as gendered crime",
+          "research_interests": "effectiveness of intervention/protection orders as a response to domestic abuse, role of police in responding to domestic abuse, criminalisation of coercive control, misidentification of women victim-survivors as predominant aggressors, domestic violence disclosure schemes, LGBTQA+ victim-survivors’ experiences of using the law for domestic abuse, qualitative methodologies, ethical approaches to researching sensitive issues such as gendered crime",
           "profile_url": "https://www.liverpool.ac.uk/people/ellen-reeves",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Ken Roberts",
+          "title": "Emeritus Professor",
+          "email": "K.Roberts@liverpool.ac.uk",
+          "research_interests": "sociology of youth, school to work transitions, sociology of leisure, youth unemployment, post-communist societies, class in contemporary Britain",
+          "profile_url": "",
           "crimrxiv_member": true
         },
         {
@@ -13014,50 +13348,34 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Daniela Tepe-Belfrage",
-          "title": "Senior Lecturer; School PGR Co Lead",
-          "email": "D.Tepe-Belfrage@liverpool.ac.uk",
-          "research_interests": "social policy, gender, political economy of social reproduction, private debt, social care, troubled families, parenting, household economies",
-          "profile_url": "https://www.liverpool.ac.uk/people/daniela-tepe-belfrage",
+          "name": "Leona Vaughn",
+          "title": "Senior Lecturer/Derby Fellowship Researcher",
+          "email": "Leona.Vaughn@liverpool.ac.uk",
+          "research_interests": "Social policy areas of risk, harm, prevention and repair; slavery and unfree labour; decolonial and anticolonial research; safeguarding in research; counter-terrorism and children; race hate crime; COVID-19 lockdown policy; modern slavery; reparatory justice and health inequalities",
+          "profile_url": "https://www.liverpool.ac.uk/people/leona-vaughn",
           "crimrxiv_member": true
         },
         {
           "name": "Nicole Vitellone",
-          "title": "AF Warr Senior Lecturer in Sociology",
+          "title": "AF Warr Professor in Sociology",
           "email": "N.Vitellone@liverpool.ac.uk",
           "research_interests": "Sociology of Harm Reduction and Recovery, safe sex education, Needle Exchange programs, thinking with water, human geography, STS, climate change adaptation, Indigenous art practices",
           "profile_url": "https://www.liverpool.ac.uk/people/nicole-vitellone",
           "crimrxiv_member": true
         },
         {
-          "name": "Elizabeth Ettorre",
-          "title": "Emeritus Professor",
-          "email": "E.Ettorre@liverpool.ac.uk",
-          "research_interests": "feminist sociology, gender and drugs, drug use and women, autoethnography, critical drug studies, embodiment, reproductive genetics",
-          "profile_url": "",
+          "name": "Susan Waigwa",
+          "title": "Research Associate",
+          "email": "Susan.Waigwa@liverpool.ac.uk",
+          "research_interests": "Women’s health; reproductive health, including childbirth and menopause; violence against women and girls, including domestic abuse, female genital mutilation/cutting, and forced marriage; health and social issues affecting minority and marginalised groups",
+          "profile_url": "https://www.liverpool.ac.uk/people/susan-waigwa",
           "crimrxiv_member": true
         },
         {
-          "name": "Barry Goldson",
-          "title": "Emeritus Professor",
-          "email": "B.Goldson@liverpool.ac.uk",
-          "research_interests": "criminal justice, criminology, law, social/public policy, social and economic history, sociology, socio-legal studies, human rights, social justice, youth criminology, youth/juvenile justice studies",
-          "profile_url": "https://www.liverpool.ac.uk/people/barry-goldson",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Robert Moore",
-          "title": "Emeritus Professor",
-          "email": "Rsmoore@liverpool.ac.uk",
-          "research_interests": "race relations, immigration, community studies, ethnic identities, social cohesion, social policy, sustainable communities, social theory",
-          "profile_url": "https://www.liverpool.ac.uk/people/robert-moore",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Ken Roberts",
-          "title": "Emeritus Professor",
-          "email": "K.Roberts@liverpool.ac.uk",
-          "research_interests": "sociology of youth, school to work transitions, sociology of leisure, youth unemployment, post-communist societies, class in contemporary Britain",
+          "name": "Ngaire Waine",
+          "title": "Research Assistant",
+          "email": "",
+          "research_interests": "",
           "profile_url": "",
           "crimrxiv_member": true
         },
@@ -13071,11 +13389,12 @@ window.__DATA__ = {
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "University of Waikato",
-      "department_name": "Te Puna Haumaru \u2014 New Zealand Institute for Security and Crime Science",
+      "department_name": "Te Puna Haumaru — New Zealand Institute for Security and Crime Science",
       "department_homepage": "https://www.waikato.ac.nz/int/research/institutes-centres-entities/centres/security-crime-science/",
       "faculty_directory_url": "https://www.waikato.ac.nz/int/research/institutes-centres-entities/centres/security-crime-science/our-people/",
       "extraction_status": "complete",
@@ -13083,51 +13402,11 @@ window.__DATA__ = {
       "faculty_count": 22,
       "faculty": [
         {
-          "name": "Devon Polaschek",
-          "title": "Professor",
-          "email": "devon.polaschek@waikato.ac.nz",
-          "research_interests": "Biological psychology, Clinical and health psychology, Social and personality psychology, Causes and prevention of crime, Criminology, Forensic psychology, Theory, intervention, intervention evaluation with serious violent and sexual offenders, family violence perpetrators, psychopathy, violence risk assessment, effects of imprisonment",
-          "profile_url": "https://profiles.waikato.ac.nz/devon.polaschek",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Richard Wortley",
-          "title": "Professor",
-          "email": "richard.wortley@waikato.ac.nz",
-          "research_interests": "Criminology, Cognitive and computational psychology, Causes and prevention of crime, Correctional theory, offender treatment and rehabilitation, Decision theory, situational crime prevention, violence around licensed premises, prison violence, whistle blowing, homicide, child sexual abuse",
-          "profile_url": "https://profiles.waikato.ac.nz/richard.wortley",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Lisa Tompson",
-          "title": "Director, NZ Institute for Security & Crime Science; Associate Professor",
-          "email": "lisa.tompson@waikato.ac.nz",
-          "research_interests": "Criminology, Causes and prevention of crime, Environmental crime, Crime policy, Technology, crime and surveillance, White collar crime",
-          "profile_url": "https://profiles.waikato.ac.nz/lisa.tompson",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Apriel Jolliffe Simpson",
-          "title": "Lecturer",
-          "email": "apriel.jolliffesimpson@waikato.ac.nz",
-          "research_interests": "Forensic psychology, Causes and prevention of crime, Health and ecological risk assessment, Police administration, procedures and practice, Applied statistics, Psychology, M\u0101tauranga hinengaro kaupapa M\u0101ori (M\u0101ori psychology), Criminology, Crime policy",
-          "profile_url": "https://profiles.waikato.ac.nz/apriel.jolliffesimpson",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Brian Cole",
-          "title": "Research Associate",
-          "email": "brian.cole@waikato.ac.nz",
-          "research_interests": "Security, Defence, Disaster Recovery, Information security management",
-          "profile_url": "https://profiles.waikato.ac.nz/brian.cole",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Maryanne Garry",
-          "title": "Emeritus Professor",
-          "email": "maryanne.garry@waikato.ac.nz",
-          "research_interests": "Clinical and health psychology, Memory and attention, Cognitive and computational psychology",
-          "profile_url": "https://profiles.waikato.ac.nz/maryanne.garry",
+          "name": "Apo Aporosa",
+          "title": "Senior Lecturer",
+          "email": "apo.aporosa@waikato.ac.nz",
+          "research_interests": "Culture, Education, Education Policy, Education Research, Health, History and Medicine, Indigenous Education, Indigenous Rights, Maori Education, Pacific Island Politics, Pacific Issues, Pacific Education, Psychology, Road Safety, Social Science Research, Teacher Practice/Practicum, Teacher Professional Learning/Development, Pacific cultural values, Pacific Studies, Fiji, Fijian culture, Pacific methodologies, Decolonizing quantitative methods, Ethnopharmacology: Kava, traditional (drug) substances, Eurocentrism, Aesthetics of modernity, Data science capacity: Pacific capacity in data science to support the UN Sustainable Development Goals",
+          "profile_url": "https://profiles.waikato.ac.nz/apo.aporosa",
           "crimrxiv_member": true
         },
         {
@@ -13136,54 +13415,6 @@ window.__DATA__ = {
           "email": "mark.apperley@waikato.ac.nz",
           "research_interests": "Electrical energy transmission, networks and systems, Electrical energy generation (incl. renewables, excl. photovoltaics), Human-computer interaction, Information visualisation, Electrical energy storage",
           "profile_url": "https://profiles.waikato.ac.nz/mark.apperley",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Sandy Morrison",
-          "title": "Professor of M\u0101ori and Indigenous Studies",
-          "email": "",
-          "research_interests": "Climate Change, M\u0101tauranga M\u0101ori in the Antarctic space, Sustainability, Te Tiriti o Waitangi/ Treaty of Waitangi, Adult education, Indigenous development issues, Education systems, Curriculum and pedagogy, Creative and professional writing, Te ahurea, reo me te h\u012btori o te M\u0101ori (M\u0101ori culture, language and history), Communication and media studies",
-          "profile_url": "https://profiles.waikato.ac.nz/sandy.morrison",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Tom Roa",
-          "title": "Professor of Te Reo M\u0101ori",
-          "email": "tom.roa@waikato.ac.nz",
-          "research_interests": "Library and information studies, Anthropology, Creative and professional writing, Music, Performing arts, Te ahurea reo me te h\u012btori o te M\u0101ori (M\u0101ori culture language and history)",
-          "profile_url": "https://profiles.waikato.ac.nz/tom.roa",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Reuben Steff",
-          "title": "Research Associate",
-          "email": "reuben.steff@waikato.ac.nz",
-          "research_interests": "Deterrence Theory and Missile Defense, Arms Controls/Arms Races, Security Dilemma, US Foreign Policy, Russian and Chinese Foreign Policy, New Zealand Foreign Policy and Security, Great Power Competition, Science, Technology and International Security (including Missile Defence, Hypersonic Missiles, Railguns, Artificial Intelligence and Drone Warfare), Asia-Pacific Security, International Terrorism",
-          "profile_url": "https://profiles.waikato.ac.nz/reuben.steff",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Andreea Calude",
-          "title": "Associate Professor; Research Associate",
-          "email": "andreea.calude@waikato.ac.nz",
-          "research_interests": "Linguistics, Language studies, Sociolinguistics, New Zealand English, language contact, borrowing of lexical content, cognitive linguistics, variationist linguistics, corpus linguistics, social media language, language change, spoken grammar",
-          "profile_url": "https://profiles.waikato.ac.nz/andreea.calude",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Anna Sutton",
-          "title": "Associate Professor; Research Associate",
-          "email": "anna.sutton@waikato.ac.nz",
-          "research_interests": "Applied and developmental psychology, Social and personality psychology, Business systems in context, Human resources and industrial relations, Strategy, management and organisational behaviour, Industrial and organisational psychology (incl. human factors), Workplace wellbeing and quality of working life",
-          "profile_url": "https://profiles.waikato.ac.nz/anna.sutton",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Armon Tamatea",
-          "title": "Associate Professor; Research Associate",
-          "email": "armon.tamatea@waikato.ac.nz",
-          "research_interests": "Clinical sciences, Applied and developmental psychology, Clinical and health psychology, Social and personality psychology, Clinical psychology, Forensic psychology, Mental health services, Te whaikaha me te M\u0101ori (M\u0101ori and disability), Psychiatry (incl. psychotherapy), Law and society and socio-legal research, Ng\u0101 t\u0101ngata, te porihanga me ng\u0101 hapori o te M\u0101ori (M\u0101ori peoples, society and community), Counselling, wellbeing and community services, Te rangahau kei r\u014d hapori o te M\u0101ori (M\u0101ori community-based research)",
-          "profile_url": "https://profiles.waikato.ac.nz/armon.tamatea",
           "crimrxiv_member": true
         },
         {
@@ -13203,30 +13434,6 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Justin Phillips",
-          "title": "Research Associate",
-          "email": "justin.phillips@waikato.ac.nz",
-          "research_interests": "political communication, mis/disinformation, fact-checking, violent extremism, conspiracy beliefs, social media data",
-          "profile_url": "https://profiles.waikato.ac.nz/justin.phillips",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Andrew Evelo",
-          "title": "Research Associate",
-          "email": "andrew.evelo@waikato.ac.nz",
-          "research_interests": "Psychology, Social psychology, Forensic psychology, social influence, legal decision-making, jury decision-making, interrogations, eyewitness identifications, research methods",
-          "profile_url": "https://profiles.waikato.ac.nz/andrew.evelo",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Vimal Kumar",
-          "title": "Senior Lecturer",
-          "email": "vimal.kumar@waikato.ac.nz",
-          "research_interests": "Malware Analysis and Detection, Systems Security, Cybersecurity, Applied cryptography, Cybersecurity and privacy, Distributed computing and systems software, Data security and protection",
-          "profile_url": "https://profiles.waikato.ac.nz/vimal.kumar",
-          "crimrxiv_member": true
-        },
-        {
           "name": "Anna Marie Brennan",
           "title": "Research Associate",
           "email": "annamarie.brennan@waikato.ac.nz",
@@ -13238,8 +13445,120 @@ window.__DATA__ = {
           "name": "Paul Brown",
           "title": "Lecturer",
           "email": "paul.brown@waikato.ac.nz",
-          "research_interests": "Computational Bayesian methods, applied statistical modelling, spatiotemporal modelling, M\u0101ori data sovereignty.",
+          "research_interests": "Computational Bayesian methods, applied statistical modelling, spatiotemporal modelling, Māori data sovereignty.",
           "profile_url": "https://profiles.waikato.ac.nz/paul.brown",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Andreea Calude",
+          "title": "Associate Professor; Research Associate",
+          "email": "andreea.calude@waikato.ac.nz",
+          "research_interests": "Linguistics, Language studies, Sociolinguistics, New Zealand English, language contact, borrowing of lexical content, cognitive linguistics, variationist linguistics, corpus linguistics, social media language, language change, spoken grammar",
+          "profile_url": "https://profiles.waikato.ac.nz/andreea.calude",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Brian Cole",
+          "title": "Research Associate",
+          "email": "brian.cole@waikato.ac.nz",
+          "research_interests": "Security, Defence, Disaster Recovery, Information security management",
+          "profile_url": "https://profiles.waikato.ac.nz/brian.cole",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Andrew Evelo",
+          "title": "Research Associate",
+          "email": "andrew.evelo@waikato.ac.nz",
+          "research_interests": "Psychology, Social psychology, Forensic psychology, social influence, legal decision-making, jury decision-making, interrogations, eyewitness identifications, research methods",
+          "profile_url": "https://profiles.waikato.ac.nz/andrew.evelo",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Maryanne Garry",
+          "title": "Emeritus Professor",
+          "email": "maryanne.garry@waikato.ac.nz",
+          "research_interests": "Clinical and health psychology, Memory and attention, Cognitive and computational psychology",
+          "profile_url": "https://profiles.waikato.ac.nz/maryanne.garry",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Vimal Kumar",
+          "title": "Senior Lecturer",
+          "email": "vimal.kumar@waikato.ac.nz",
+          "research_interests": "Malware Analysis and Detection, Systems Security, Cybersecurity, Applied cryptography, Cybersecurity and privacy, Distributed computing and systems software, Data security and protection",
+          "profile_url": "https://profiles.waikato.ac.nz/vimal.kumar",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Sandy Morrison",
+          "title": "Professor of Māori and Indigenous Studies",
+          "email": "",
+          "research_interests": "Climate Change, Mātauranga Māori in the Antarctic space, Sustainability, Te Tiriti o Waitangi/ Treaty of Waitangi, Adult education, Indigenous development issues, Education systems, Curriculum and pedagogy, Creative and professional writing, Te ahurea, reo me te hītori o te Māori (Māori culture, language and history), Communication and media studies",
+          "profile_url": "https://profiles.waikato.ac.nz/sandy.morrison",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Justin Phillips",
+          "title": "Research Associate",
+          "email": "justin.phillips@waikato.ac.nz",
+          "research_interests": "political communication, mis/disinformation, fact-checking, violent extremism, conspiracy beliefs, social media data",
+          "profile_url": "https://profiles.waikato.ac.nz/justin.phillips",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Devon Polaschek",
+          "title": "Professor",
+          "email": "devon.polaschek@waikato.ac.nz",
+          "research_interests": "Biological psychology, Clinical and health psychology, Social and personality psychology, Causes and prevention of crime, Criminology, Forensic psychology, Theory, intervention, intervention evaluation with serious violent and sexual offenders, family violence perpetrators, psychopathy, violence risk assessment, effects of imprisonment",
+          "profile_url": "https://profiles.waikato.ac.nz/devon.polaschek",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Tom Roa",
+          "title": "Professor of Te Reo Māori",
+          "email": "tom.roa@waikato.ac.nz",
+          "research_interests": "Library and information studies, Anthropology, Creative and professional writing, Music, Performing arts, Te ahurea reo me te hītori o te Māori (Māori culture language and history)",
+          "profile_url": "https://profiles.waikato.ac.nz/tom.roa",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Apriel Jolliffe Simpson",
+          "title": "Lecturer",
+          "email": "apriel.jolliffesimpson@waikato.ac.nz",
+          "research_interests": "Forensic psychology, Causes and prevention of crime, Health and ecological risk assessment, Police administration, procedures and practice, Applied statistics, Psychology, Mātauranga hinengaro kaupapa Māori (Māori psychology), Criminology, Crime policy",
+          "profile_url": "https://profiles.waikato.ac.nz/apriel.jolliffesimpson",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Reuben Steff",
+          "title": "Research Associate",
+          "email": "reuben.steff@waikato.ac.nz",
+          "research_interests": "Deterrence Theory and Missile Defense, Arms Controls/Arms Races, Security Dilemma, US Foreign Policy, Russian and Chinese Foreign Policy, New Zealand Foreign Policy and Security, Great Power Competition, Science, Technology and International Security (including Missile Defence, Hypersonic Missiles, Railguns, Artificial Intelligence and Drone Warfare), Asia-Pacific Security, International Terrorism",
+          "profile_url": "https://profiles.waikato.ac.nz/reuben.steff",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Anna Sutton",
+          "title": "Associate Professor; Research Associate",
+          "email": "anna.sutton@waikato.ac.nz",
+          "research_interests": "Applied and developmental psychology, Social and personality psychology, Business systems in context, Human resources and industrial relations, Strategy, management and organisational behaviour, Industrial and organisational psychology (incl. human factors), Workplace wellbeing and quality of working life",
+          "profile_url": "https://profiles.waikato.ac.nz/anna.sutton",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Armon Tamatea",
+          "title": "Associate Professor; Research Associate",
+          "email": "armon.tamatea@waikato.ac.nz",
+          "research_interests": "Clinical sciences, Applied and developmental psychology, Clinical and health psychology, Social and personality psychology, Clinical psychology, Forensic psychology, Mental health services, Te whaikaha me te Māori (Māori and disability), Psychiatry (incl. psychotherapy), Law and society and socio-legal research, Ngā tāngata, te porihanga me ngā hapori o te Māori (Māori peoples, society and community), Counselling, wellbeing and community services, Te rangahau kei rō hapori o te Māori (Māori community-based research)",
+          "profile_url": "https://profiles.waikato.ac.nz/armon.tamatea",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Lisa Tompson",
+          "title": "Director, NZ Institute for Security & Crime Science; Associate Professor",
+          "email": "lisa.tompson@waikato.ac.nz",
+          "research_interests": "Criminology, Causes and prevention of crime, Environmental crime, Crime policy, Technology, crime and surveillance, White collar crime",
+          "profile_url": "https://profiles.waikato.ac.nz/lisa.tompson",
           "crimrxiv_member": true
         },
         {
@@ -13251,16 +13570,17 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Apo Aporosa",
-          "title": "Senior Lecturer",
-          "email": "apo.aporosa@waikato.ac.nz",
-          "research_interests": "Culture, Education, Education Policy, Education Research, Health, History and Medicine, Indigenous Education, Indigenous Rights, Maori Education, Pacific Island Politics, Pacific Issues, Pacific Education, Psychology, Road Safety, Social Science Research, Teacher Practice/Practicum, Teacher Professional Learning/Development, Pacific cultural values, Pacific Studies, Fiji, Fijian culture, Pacific methodologies, Decolonizing quantitative methods, Ethnopharmacology: Kava, traditional (drug) substances, Eurocentrism, Aesthetics of modernity, Data science capacity: Pacific capacity in data science to support the UN Sustainable Development Goals",
-          "profile_url": "https://profiles.waikato.ac.nz/apo.aporosa",
+          "name": "Richard Wortley",
+          "title": "Professor",
+          "email": "richard.wortley@waikato.ac.nz",
+          "research_interests": "Criminology, Cognitive and computational psychology, Causes and prevention of crime, Correctional theory, offender treatment and rehabilitation, Decision theory, situational crime prevention, violence around licensed premises, prison violence, whistle blowing, homicide, child sexual abuse",
+          "profile_url": "https://profiles.waikato.ac.nz/richard.wortley",
           "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     },
     {
       "institution": "Ghent University",
@@ -13272,11 +13592,11 @@ window.__DATA__ = {
       "faculty_count": 19,
       "faculty": [
         {
-          "name": "Gert Vermeulen",
-          "title": "Senior Full Professor",
-          "email": "gert.vermeulen@ugent.be",
-          "research_interests": "European and International Criminal Law and Criminal Justice, Sexual Offending, Prostitution and Human Trafficking, Privacy, Technology, Cyber, Big Data and Surveillance",
-          "profile_url": "https://ircp.ugent.be/researchers/gert-vermeulen/",
+          "name": "Frédérique Bawin",
+          "title": "Visiting Professor (part-time)",
+          "email": "Frederique.Bawin@safe.brussels",
+          "research_interests": "medicinal cannabis, cannabis cultivation and trafficking, qualitative criminological methods, drug policy, environmental justice, recreational cannabis use",
+          "profile_url": "https://www.ugent.be/re/cssr/en/research-groups/isd/staff.htm",
           "crimrxiv_member": true
         },
         {
@@ -13288,19 +13608,43 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Lieven Pauwels",
-          "title": "Full Professor",
-          "email": "lieven.pauwels@ugent.be",
-          "research_interests": "Antisocial behaviour and person-environment interactions, Human prosociality, empathic concern, (dark) traits and individual differences, Moral emotions, moral judgments, and moral decision-making, Crime Statistics, (International) Crime Victim Surveys, Self-Reported Delinquency Surveys, Crime Concentrations and Human (Behavioural) Ecology, Sociobiology of Intergroup Violence",
-          "profile_url": "https://ircp.ugent.be/researchers/lieven-pauwels/",
+          "name": "Wendy De Bondt",
+          "title": "Associate Professor",
+          "email": "wendy.debondt@ugent.be",
+          "research_interests": "International, European and national criminal (procedural) law, Juvenile delinquency law, Rights of the child",
+          "profile_url": "https://ircp.ugent.be/researchers/wendy-de-bondt/",
           "crimrxiv_member": true
         },
         {
-          "name": "Antoinette Verhage",
+          "name": "Stéphanie De Coensel",
+          "title": "Assistant Professor",
+          "email": "stephanie.decoensel@ugent.be",
+          "research_interests": "Counterterrorism, Radicalization, Terrorism",
+          "profile_url": "https://ircp.ugent.be/researchers/stephanie-de-coensel/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Charlotte Colman",
           "title": "Associate Professor",
-          "email": "antoinette.verhage@ugent.be",
-          "research_interests": "Policing, AML & compliance, Integrity",
-          "profile_url": "https://ircp.ugent.be/researchers/antoinette-verhage/",
+          "email": "charlotte.colman@ugent.be",
+          "research_interests": "Drug policy, Drug markets, Recovery and desistance",
+          "profile_url": "https://ircp.ugent.be/researchers/charlotte-colman/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Tom Decorte",
+          "title": "Professor",
+          "email": "Tom.Decorte@UGent.be",
+          "research_interests": "drug use, drug trafficking, drug policy, qualitative criminological methods, critical criminology, cocaine and crack users, cannabis cultivation, private policing",
+          "profile_url": "https://www.ugent.be/re/cssr/en/research-groups/isd/staff.htm",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Louis Favril",
+          "title": "Assistant Professor",
+          "email": "louis.favril@ugent.be",
+          "research_interests": "Prison, Mental health, Suicide, Drug use, Harm reduction, Offender reintegration",
+          "profile_url": "https://ircp.ugent.be/researchers/louis-favril/",
           "crimrxiv_member": true
         },
         {
@@ -13320,27 +13664,11 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Wendy De Bondt",
-          "title": "Associate Professor",
-          "email": "wendy.debondt@ugent.be",
-          "research_interests": "International, European and national criminal (procedural) law, Juvenile delinquency law, Rights of the child",
-          "profile_url": "https://ircp.ugent.be/researchers/wendy-de-bondt/",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Charlotte Colman",
-          "title": "Associate Professor",
-          "email": "charlotte.colman@ugent.be",
-          "research_interests": "Drug policy, Drug markets, Recovery and desistance",
-          "profile_url": "https://ircp.ugent.be/researchers/charlotte-colman/",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Christophe Vandeviver",
-          "title": "Assistant Professor",
-          "email": "christophe.vandeviver@ugent.be",
-          "research_interests": "Geography of crime and crime control, Crime science, Sexual violence, Quantitative research methods",
-          "profile_url": "https://ircp.ugent.be/researchers/christophe-vandeviver/",
+          "name": "Charlotte De Kock",
+          "title": "Postdoctoral Researcher and Lecturer",
+          "email": "Charlotte.DeKock@UGent.be",
+          "research_interests": "migration-drugs nexus, drug prevention, substance use among migrants, drug-related interventions for people on the move, recovery capital among refugees, diversity and migration in criminology",
+          "profile_url": "https://www.ugent.be/re/cssr/en/research-groups/isd/staff.htm",
           "crimrxiv_member": true
         },
         {
@@ -13352,35 +13680,11 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Griet Verhenneman",
-          "title": "Assistant Professor",
-          "email": "griet.verhenneman@ugent.be",
-          "research_interests": "Privacy, Data Protection, Artificial Intelligence",
-          "profile_url": "https://ircp.ugent.be/researchers/griet-verhenneman/",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Louis Favril",
-          "title": "Assistant Professor",
-          "email": "louis.favril@ugent.be",
-          "research_interests": "Prison, Mental health, Suicide, Drug use, Harm reduction, Offender reintegration",
-          "profile_url": "https://ircp.ugent.be/researchers/louis-favril/",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "St\u00e9phanie De Coensel",
-          "title": "Assistant Professor",
-          "email": "stephanie.decoensel@ugent.be",
-          "research_interests": "Counterterrorism, Radicalization, Terrorism",
-          "profile_url": "https://ircp.ugent.be/researchers/stephanie-de-coensel/",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Mahsa Shabani",
-          "title": "Visiting Professor",
-          "email": "",
-          "research_interests": "Data protection, Health Privacy, Biomedical and genomics research (ethics, law and policy)",
-          "profile_url": "https://ircp.ugent.be/researchers/mahsa-shabani/",
+          "name": "Lieven Pauwels",
+          "title": "Full Professor",
+          "email": "lieven.pauwels@ugent.be",
+          "research_interests": "Antisocial behaviour and person-environment interactions, Human prosociality, empathic concern, (dark) traits and individual differences, Moral emotions, moral judgments, and moral decision-making, Crime Statistics, (International) Crime Victim Surveys, Self-Reported Delinquency Surveys, Crime Concentrations and Human (Behavioural) Ecology, Sociobiology of Intergroup Violence",
+          "profile_url": "https://ircp.ugent.be/researchers/lieven-pauwels/",
           "crimrxiv_member": true
         },
         {
@@ -13392,6 +13696,38 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
+          "name": "Mahsa Shabani",
+          "title": "Visiting Professor",
+          "email": "",
+          "research_interests": "Data protection, Health Privacy, Biomedical and genomics research (ethics, law and policy)",
+          "profile_url": "https://ircp.ugent.be/researchers/mahsa-shabani/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Christophe Vandeviver",
+          "title": "Assistant Professor",
+          "email": "christophe.vandeviver@ugent.be",
+          "research_interests": "Geography of crime and crime control, Crime science, Sexual violence, Quantitative research methods",
+          "profile_url": "https://ircp.ugent.be/researchers/christophe-vandeviver/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Antoinette Verhage",
+          "title": "Associate Professor",
+          "email": "antoinette.verhage@ugent.be",
+          "research_interests": "Policing, AML & compliance, Integrity",
+          "profile_url": "https://ircp.ugent.be/researchers/antoinette-verhage/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Griet Verhenneman",
+          "title": "Assistant Professor",
+          "email": "griet.verhenneman@ugent.be",
+          "research_interests": "Privacy, Data Protection, Artificial Intelligence",
+          "profile_url": "https://ircp.ugent.be/researchers/griet-verhenneman/",
+          "crimrxiv_member": true
+        },
+        {
           "name": "An Vermeersch",
           "title": "Visiting Professor",
           "email": "an.vermeersch@ugent.be",
@@ -13400,36 +13736,22 @@ window.__DATA__ = {
           "crimrxiv_member": true
         },
         {
-          "name": "Tom Decorte",
-          "title": "Professor",
-          "email": "Tom.Decorte@UGent.be",
-          "research_interests": "drug use, drug trafficking, drug policy, qualitative criminological methods, critical criminology, cocaine and crack users, cannabis cultivation, private policing",
-          "profile_url": "https://www.ugent.be/re/cssr/en/research-groups/isd/staff.htm",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Charlotte De Kock",
-          "title": "Postdoctoral Researcher and Lecturer",
-          "email": "Charlotte.DeKock@UGent.be",
-          "research_interests": "migration-drugs nexus, drug prevention, substance use among migrants, drug-related interventions for people on the move, recovery capital among refugees, diversity and migration in criminology",
-          "profile_url": "https://www.ugent.be/re/cssr/en/research-groups/isd/staff.htm",
-          "crimrxiv_member": true
-        },
-        {
-          "name": "Fr\u00e9d\u00e9rique Bawin",
-          "title": "Visiting Professor (part-time)",
-          "email": "Frederique.Bawin@safe.brussels",
-          "research_interests": "medicinal cannabis, cannabis cultivation and trafficking, qualitative criminological methods, drug policy, environmental justice, recreational cannabis use",
-          "profile_url": "https://www.ugent.be/re/cssr/en/research-groups/isd/staff.htm",
+          "name": "Gert Vermeulen",
+          "title": "Senior Full Professor",
+          "email": "gert.vermeulen@ugent.be",
+          "research_interests": "European and International Criminal Law and Criminal Justice, Sexual Offending, Prostitution and Human Trafficking, Privacy, Technology, Cyber, Big Data and Surveillance",
+          "profile_url": "https://ircp.ugent.be/researchers/gert-vermeulen/",
           "crimrxiv_member": true
         }
       ],
       "source": "CrimConsortium",
-      "crimrxiv_member": true
+      "crimrxiv_member": true,
+      "last_verified": "2026-10-31"
     }
   ],
   "sources_note": "Departments in this directory come from two sources: the U.S. News & World Report criminology rankings and the Academy of Doctoral Programs in Criminology & Criminal Justice (ADPCCJ) member roster. Rankings are intentionally not shown or used for sorting. Additional CrimConsortium member directories (US plus international) were collected from each institution's public faculty page.",
-  "compiled_at": "2026-04-29T14:54:52.985025+00:00",
-  "build_version": 21,
-  "build_date": "2026-05-15"
+  "compiled_at": "2026-10-31T00:00:00+00:00",
+  "build_version": 22,
+  "build_date": "2026-10-31",
+  "refresh_note": "Rosters re-verified against each department directory on 2026-10-31; additions, departures, promotions and title changes applied. Departments with unchanged scope rules: see extraction_notes."
 };
