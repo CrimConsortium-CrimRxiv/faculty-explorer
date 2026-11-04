@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T12:00:00Z",
+  "generated_at": "2026-11-04T12:00:00Z",
   "source": "U.S. News & World Report criminology rankings + ADPCCJ member roster",
-  "total_departments": 56,
-  "total_faculty": 1599,
+  "total_departments": 57,
+  "total_faculty": 1594,
   "coverage_log": [
     {
       "institution": "Data sources",
@@ -81,10 +81,6 @@
       "issue": "emails not shown on directory (0/35 captured). Full profiles available via individual faculty page links."
     },
     {
-      "institution": "Tarleton State University",
-      "issue": "research interests not shown on directory (1/24 captured). Full profiles available via individual faculty page links."
-    },
-    {
       "institution": "Texas State University",
       "issue": "research interests not shown on directory (0/30 captured). Full profiles available via individual faculty page links."
     },
@@ -121,10 +117,6 @@
       "issue": "research interests not shown on directory (0/17 captured). Full profiles available via individual faculty page links."
     },
     {
-      "institution": "University of Louisville",
-      "issue": "research interests not shown on directory (0/41 captured). Full profiles available via individual faculty page links."
-    },
-    {
       "institution": "University of Pennsylvania",
       "issue": "research interests not shown on directory (0/18 captured). Full profiles available via individual faculty page links."
     },
@@ -155,6 +147,18 @@
     {
       "institution": "The University of Texas at Dallas",
       "issue": "Directory (EPPS) covers multiple departments; filtered to Criminology & Criminal Justice titles only."
+    },
+    {
+      "institution": "Tarleton State University",
+      "issue": "Department of Criminal Justice page lists emails and CVs but no profile pages; new faculty link to their posted CV or personal site."
+    },
+    {
+      "institution": "University of Louisville",
+      "issue": "Rebuilt from the department faculty page (18 faculty incl. 4 emeriti); part-time lecturers and adjuncts excluded."
+    },
+    {
+      "institution": "Georgia State University / University of South Florida",
+      "issue": "Jacob Harris (GSU) and Alex Knorre (USF) are confirmed department faculty not yet listed on their directory pages; linked to personal sites."
     }
   ],
   "departments": [
@@ -696,8 +700,8 @@
       "department_homepage": "https://criminaljustice.gsu.edu",
       "faculty_directory_url": "https://aysps.gsu.edu/criminal-justice-criminology/faculty-staff/",
       "extraction_status": "complete",
-      "extraction_notes": "Excluded Adam Pah (Assistant Dean for Research and Innovation - administrative role) and Nicolle Parsons-Pollard (Provost and Executive Vice President - administrative role) as they hold primarily administrative titles without faculty rank. All 16 faculty members with teaching/research faculty titles were captured. No pagination was present on the directory page. Research interests sourced from profile pages' Specializations sections or biography text when specializations were not explicitly listed.",
-      "faculty_count": 16,
+      "extraction_notes": "Excluded Adam Pah (Assistant Dean for Research and Innovation - administrative role) and Nicolle Parsons-Pollard (Provost and Executive Vice President - administrative role) as they hold primarily administrative titles without faculty rank. All 16 faculty members with teaching/research faculty titles were captured. No pagination was present on the directory page. Research interests sourced from profile pages' Specializations sections or biography text when specializations were not explicitly listed. Build 23 (2026-11-04): added Jacob Harris (Assistant Professor, Department of Criminal Justice & Criminology), not yet on the AYSPS faculty-staff page but identified as department faculty by Georgia State (AYS Research Day, Oct 2026) and his own site; linked to his personal site pending a GSU profile.",
+      "faculty_count": 17,
       "faculty": [
         {
           "name": "Ellen Ballard",
@@ -745,6 +749,14 @@
           "email": "ldaigle@gsu.edu",
           "research_interests": "Recurring victimization, sexual victimization of college women, correlates of victimization",
           "profile_url": "https://aysps.gsu.edu/profile/leah-elizabeth-daigle/",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Jacob Harris",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "How interactions with criminal justice institutions affect political participation; how convictions and criminal records shape socioeconomic outcomes; consequences of prison conditions for incarcerated individuals and correctional officers",
+          "profile_url": "https://www.jacob-harris.com/",
           "crimrxiv_member": true
         },
         {
@@ -830,7 +842,7 @@
       ],
       "source": "US News",
       "crimrxiv_member": true,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "Indiana University of Pennsylvania",
@@ -2918,10 +2930,10 @@
       "institution": "Temple University",
       "department_name": "Department of Criminal Justice, College of Liberal Arts, Temple University",
       "department_homepage": "https://liberalarts.temple.edu/academics/departments-and-programs/criminal-justice",
-      "faculty_directory_url": "https://liberalarts.temple.edu/academics/departments-and-programs/criminal-justice/faculty",
+      "faculty_directory_url": "https://liberalarts.temple.edu/academics/departments-programs/criminal-justice-temple-university-college-liberal-arts/faculty",
       "extraction_status": "complete",
-      "extraction_notes": "Original URL returned 404. Used correct URL: https://liberalarts.temple.edu/academics/departments-programs/criminal-justice-temple-university-college-liberal-arts/faculty. Extracted 26 faculty members listed on the main directory page. Excluded administrative staff (Kim Campanese, Joseph DelMastro). Franklin Moreno listed as Postdoctoral Research Fellow but included since he appears in the faculty directory. Emails were only visible for Elizabeth Adams via search results; other emails require clicking 'click-for-email' buttons and were not extracted to avoid excessive clicks. Research interests sourced from the department research page. Instructional faculty (Green, Irons, Metzger, Meyers, Sentner, Sullivan, Thompson, Tripp) included as they hold faculty titles.",
-      "faculty_count": 26,
+      "extraction_notes": "Original URL returned 404. Used correct URL: https://liberalarts.temple.edu/academics/departments-programs/criminal-justice-temple-university-college-liberal-arts/faculty. Extracted 26 faculty members listed on the main directory page. Excluded administrative staff (Kim Campanese, Joseph DelMastro). Franklin Moreno listed as Postdoctoral Research Fellow but included since he appears in the faculty directory. Emails were only visible for Elizabeth Adams via search results; other emails require clicking 'click-for-email' buttons and were not extracted to avoid excessive clicks. Research interests sourced from the department research page. Instructional faculty (Green, Irons, Metzger, Meyers, Sentner, Sullivan, Thompson, Tripp) included as they hold faculty titles. Build 23 (2026-11-04): added Marisa Booty (Assistant Professor), who is listed on the department faculty page; directory URL updated to the working page.",
+      "faculty_count": 27,
       "faculty": [
         {
           "name": "Elizabeth Adams",
@@ -2945,6 +2957,14 @@
           "email": "",
           "research_interests": "Substance Abuse Treatment, Prisons, HIV Risks and Service Needs, Criminal Justice and Public Health, Implementation Science, Organizational Change, Research Methods and Evaluation",
           "profile_url": "https://liberalarts.temple.edu/directory/steven-belenko",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Marisa Booty",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Intersection of public health and the criminal legal system; health outcomes during reentry; substance use disorder treatment and recovery; incarceration and reentry; gun violence prevention; Photovoice; egocentric network analysis",
+          "profile_url": "https://liberalarts.temple.edu/directory/marisa-booty",
           "crimrxiv_member": true
         },
         {
@@ -3134,7 +3154,7 @@
       ],
       "source": "US News",
       "crimrxiv_member": true,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "Texas Southern University",
@@ -4178,8 +4198,8 @@
       "department_homepage": "https://catalog.olemiss.edu/applied-sciences/criminal-justice-legal-studies/",
       "faculty_directory_url": "https://catalog.olemiss.edu/applied-sciences/criminal-justice-legal-studies/faculty",
       "extraction_status": "complete",
-      "extraction_notes": "Excluded all Adjunct faculty (25 individuals) and non-CJ emeritus faculty (Charles L Clark as Dean Emeritus, Marcia Sheryl Cole as Applied Gerontology). Captured 16 non-adjunct/tenure-track/teaching/emeritus faculty. Page had no pagination; all entries on single page. No research interests listed on directory page.",
-      "faculty_count": 17,
+      "extraction_notes": "Excluded all Adjunct faculty (25 individuals) and non-CJ emeritus faculty (Charles L Clark as Dean Emeritus, Marcia Sheryl Cole as Applied Gerontology). Captured 16 non-adjunct/tenure-track/teaching/emeritus faculty. Page had no pagination; all entries on single page. No research interests listed on directory page. Build 23 (2026-11-04): added Wesley G. Jennings, who is absent from the catalog faculty list while serving as Interim Dean of Applied Sciences but remains Professor of Criminal Justice and Legal Studies per his university profile.",
+      "faculty_count": 18,
       "faculty": [
         {
           "name": "Francis Danso Boateng",
@@ -4243,6 +4263,14 @@
           "email": "dhalljr@olemiss.edu",
           "research_interests": "",
           "profile_url": "http://www.olemiss.edu/people/dhalljr",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Wesley G. Jennings",
+          "title": "Interim Dean of Applied Sciences, Gillespie Distinguished Scholar and Professor of Criminal Justice and Legal Studies",
+          "email": "wgj@olemiss.edu",
+          "research_interests": "Quantitative methods (trajectory analysis, meta-analysis), experimental and quasi-experimental designs, police use of force, police technology, evidence-based policing, national security and resilience",
+          "profile_url": "https://olemiss.edu/profiles/wgj.php",
           "crimrxiv_member": false
         },
         {
@@ -4320,7 +4348,7 @@
       ],
       "source": "US News",
       "crimrxiv_member": false,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "University of New Haven",
@@ -4574,8 +4602,8 @@
       "department_homepage": "https://www.usf.edu/cbcs/criminology/",
       "faculty_directory_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/faculty.aspx",
       "extraction_status": "complete",
-      "extraction_notes": "All 34 faculty from the USF Criminology directory captured. Research interests are not displayed on the directory page and were not fetched from individual profiles. No pagination required.",
-      "faculty_count": 35,
+      "extraction_notes": "All 34 faculty from the USF Criminology directory captured. Research interests are not displayed on the directory page and were not fetched from individual profiles. No pagination required. Build 23 (2026-11-04): added Alex Knorre (Assistant Professor since August 2025), who is not yet on the USF criminology directory page but is confirmed by USF news (May 2026) and his own site.",
+      "faculty_count": 36,
       "faculty": [
         {
           "name": "Nicolette Bardele",
@@ -4730,6 +4758,14 @@
           "crimrxiv_member": false
         },
         {
+          "name": "Alex Knorre",
+          "title": "Assistant Professor",
+          "email": "",
+          "research_interests": "Measurement problems in criminology; crime victims; illegal markets; criminal justice in settings with politicized administrative data; firearm homicide disparities; bias-motivated violence; causal evaluation of natural experiments and policies; reproducible research infrastructure",
+          "profile_url": "https://alexknorre.com/",
+          "crimrxiv_member": false
+        },
+        {
           "name": "YongJei Lee",
           "title": "Assistant Professor",
           "email": "lee224@usf.edu",
@@ -4786,6 +4822,14 @@
           "crimrxiv_member": false
         },
         {
+          "name": "SooHyun O",
+          "title": "Assistant Professor",
+          "email": "soohyuno@usf.edu",
+          "research_interests": "Criminological theory, victimology, school offending, crime prevention, crime hot spot forecasting, land use and crime, cyber delinquency",
+          "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/soohyun-o.aspx",
+          "crimrxiv_member": false
+        },
+        {
           "name": "Amber Oderinde",
           "title": "Assistant Instructor & Undergraduate Coordinator",
           "email": "aoderinde@usf.edu",
@@ -4826,14 +4870,6 @@
           "crimrxiv_member": false
         },
         {
-          "name": "SooHyun O",
-          "title": "Assistant Professor",
-          "email": "soohyuno@usf.edu",
-          "research_interests": "Criminological theory, victimology, school offending, crime prevention, crime hot spot forecasting, land use and crime, cyber delinquency",
-          "profile_url": "https://www.usf.edu/cbcs/criminology/faculty-staff/soohyun-o.aspx",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Sandra Stone",
           "title": "Professor",
           "email": "sandrastone@usf.edu",
@@ -4860,7 +4896,7 @@
       ],
       "source": "US News",
       "crimrxiv_member": false,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "Southern Illinois University Carbondale",
@@ -5999,16 +6035,16 @@
     {
       "institution": "Tarleton State University",
       "source": "ADPCCJ",
-      "department_name": "School of Criminology, Criminal Justice & Public Administration",
-      "department_homepage": "https://www.tarleton.edu/criminology/",
-      "faculty_directory_url": "https://www.tarleton.edu/criminology/people/",
+      "department_name": "Department of Criminal Justice",
+      "department_homepage": "https://www.tarleton.edu/criminal-justice/",
+      "faculty_directory_url": "https://www.tarleton.edu/criminal-justice/faculty/",
       "extraction_status": "complete",
-      "extraction_notes": "Research interests are not shown on the directory page; only names, titles, and contact info are listed. Some faculty (Dr. Alex del Carmen, Dr. Han Bae, Dr. Joohi Kim, Dr. Shantol McIntosh, Richard Taylor) do not have individual profile links on the page. Richard Taylor's bio note (\"Retired U.S. Marshal, Northern District of Texas\") is included in research_interests as a description. Staff members (Madison Marsh, Tamara Percivill) were excluded as they are not faculty.",
-      "faculty_count": 24,
+      "extraction_notes": "Build 23 (2026-11-04): source switched from the School of Criminology, Criminal Justice & Public Administration people page (tarleton.edu/criminology/people/, out of date) to the Department of Criminal Justice faculty page (tarleton.edu/criminal-justice/faculty/). All 19 faculty listed there are included; the administrative coordinator (Tamara Percivill) is excluded. Public Administration faculty who appeared on the old School page (Galia Cohen, Joohi Kim, Tracy Rickman, Jie Tao, Richard Taylor) now sit in the separate Department of Public Administration and are out of scope. Alex del Carmen retired effective January 2026. Chris Copeland, George Eichenberg, Rebecca Morrow and Tom Petrowski are no longer listed by the department. 'Han Bae' is now listed as Junghwan Bae, Assistant Professor. The department page shows emails but not profile links; new faculty link to the CV posted on the department page or a personal site, and research interests were taken from those CVs. Dr. Shelley and Dr. Semukhina's institute directorships are listed on the department page.",
+      "faculty_count": 19,
       "faculty": [
         {
-          "name": "Han Bae",
-          "title": "Post-Doctoral Research Scholar",
+          "name": "Junghwan Bae",
+          "title": "Assistant Professor",
           "email": "jbae@tarleton.edu",
           "research_interests": "spatial-temporal neighborhood crime analysis, human mobility and crime, ecological disorganization, concentrated disadvantage, environmental justice, climate change-temperature-crime hypothesis, place-based crime control policies, green criminology",
           "profile_url": "https://www.tarleton.edu/criminal-justice/faculty/dr-han-bae/",
@@ -6016,55 +6052,31 @@
         },
         {
           "name": "Katherine Brown",
-          "title": "Professional Associate Professor",
+          "title": "Professional Full Professor",
           "email": "kmbrown@tarleton.edu",
           "research_interests": "Non-fatal strangulation in intimate partner violence, child abduction murder investigation, crime scene assessment, crime scene investigation, serial murder, sex-related homicide, technology-facilitated crimes against children, forensic evidence, solvability factors in murder investigations",
           "profile_url": "https://faculty.tarleton.edu/brown",
           "crimrxiv_member": false
         },
         {
-          "name": "Alex del Carmen",
-          "title": "Professor, College of Liberal and Fine Arts",
-          "email": "delcarmen@tarleton.edu",
-          "research_interests": "racial profiling, race and crime, police reform, predictive policing",
-          "profile_url": "https://www.tarleton.edu/ipac/alejandro-del-carmen-ph-d-2/",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Galia Cohen",
-          "title": "Department Head and Associate Professor",
-          "email": "cohen@tarleton.edu",
-          "research_interests": "",
-          "profile_url": "https://faculty.tarleton.edu/cohen",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Chris Copeland",
-          "title": "Assistant Professor and Director, Institute for Homeland Security, Cyber Crime and International Crime",
-          "email": "ccopeland@tarleton.edu",
-          "research_interests": "Critical infrastructure, cybercrime, homeland security, law enforcement technology, dark web research, darkweb firearms and drug markets, automated web scraping for investigations",
-          "profile_url": "https://faculty.tarleton.edu/copeland",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Rhonda Dobbs",
-          "title": "Associate Professor",
+          "title": "Associate Professor and Ph.D. Coordinator",
           "email": "dobbs@tarleton.edu",
           "research_interests": "Fear of crime, Punitive Attitudes, Media and Perceptions of Crime and Justice, Women in prison, Violence against women",
           "profile_url": "https://faculty.tarleton.edu/dobbs",
           "crimrxiv_member": false
         },
         {
-          "name": "George Eichenberg",
-          "title": "Assistant Department Chair, Professor",
-          "email": "eichenberg@tarleton.edu",
-          "research_interests": "Criminal Justice ethics; Police operations and management/rural law enforcement; Native Americans and criminal justice; Internal affairs systems and practices; Historical aspects of social control in the American South",
-          "profile_url": "https://faculty.tarleton.edu/eichenberg",
+          "name": "Leo J. Genco",
+          "title": "Assistant Professor",
+          "email": "lgenco@tarleton.edu",
+          "research_interests": "Green criminology, conservation criminology, wildlife crime and illegal hunting, rural crime, animal cruelty and animal protection law enforcement, economic structural and spatial analyses",
+          "profile_url": "https://leogenco.org/about/",
           "crimrxiv_member": false
         },
         {
           "name": "Shannon Hankhouse",
-          "title": "Associate Professor and Executive Director, Waco/Texas A&M-RELLIS Outreach Initiatives",
+          "title": "Associate Professor, Waco Outreach Initiatives",
           "email": "",
           "research_interests": "Assault and battery; policing race, gender, and ethnicity; car-jacking; DUI penalties; racial disparity and pre-trial services; driving safety behaviors; guardianship",
           "profile_url": "https://faculty.tarleton.edu/hankhouse",
@@ -6072,23 +6084,31 @@
         },
         {
           "name": "William 'Casey' Heath",
-          "title": "Assistant Professor",
+          "title": "Professional Assistant Professor, BAAS Coordinator and Internship Coordinator",
           "email": "heath@tarleton.edu",
           "research_interests": "policing; Interview and Interrogation Methods; Criminal Investigations; Intelligence Led Policing; Supervision and Management; Issues in Governance; Criminal Justice Policy Evaluation; Homeland Security; International Terrorism",
           "profile_url": "https://faculty.tarleton.edu/heath",
           "crimrxiv_member": false
         },
         {
-          "name": "Joohi Kim",
+          "name": "Ming-Li Hsieh",
+          "title": "Associate Professor",
+          "email": "mhsieh@tarleton.edu",
+          "research_interests": "Institutional and community corrections and recidivism; criminal justice officials' conduct and performance; women in the justice system; interdisciplinary and comparative criminal justice; program evaluation and policy analysis; cybersecurity, cybercrime and risk management",
+          "profile_url": "https://www.tarleton.edu/criminal-justice/wp-content/uploads/sites/191/2026/08/CV_Hsieh-26.pdf",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Tyler Keller",
           "title": "Assistant Professor",
-          "email": "jkim1@tarleton.edu",
-          "research_interests": "",
-          "profile_url": "",
+          "email": "tkeller@tarleton.edu",
+          "research_interests": "Spatial methods, policing, police technology, police use of force, hate crime, data collection and data quality, risk terrain modeling",
+          "profile_url": "https://www.tarleton.edu/criminal-justice/wp-content/uploads/sites/191/2026/08/Keller-CV-2026_1.pdf",
           "crimrxiv_member": false
         },
         {
           "name": "Stan Korotchenko",
-          "title": "Assistant Professor",
+          "title": "Assistant Professor and MCJ Coordinator",
           "email": "skorotchenko@tarleton.edu",
           "research_interests": "Police tools effectiveness, evidence-based policing strategies, automated police data sharing, spatial crime predictors, violent victimization, police technology, generative AI in policing, community trust",
           "profile_url": "https://faculty.tarleton.edu/korotchenko",
@@ -6099,44 +6119,20 @@
           "title": "Assistant Professor",
           "email": "smcintosh@tarleton.edu",
           "research_interests": "policing, police-youth interaction, youth gangs, delinquency, victimization, child/youth maltreatment, crimes against girls/women, prison population, corrections officers' use of force, policy",
-          "profile_url": "[Criminal Justice Faculty](https://www.tarleton.edu/criminal-justice/faculty/), [Criminology People](https://www.tarleton.edu/criminology/people/)",
+          "profile_url": "https://www.tarleton.edu/criminal-justice/faculty/",
           "crimrxiv_member": false
         },
         {
           "name": "Tiffany McLaurin",
-          "title": "Professional Assistant Professor, Coordinator of Criminal Justice BAAS Program",
+          "title": "Professional Assistant Professor",
           "email": "tmclaurin@tarleton.edu",
           "research_interests": "Juvenile Delinquency, Female Crime, Explanations of Human Behavior, Criminal Justice, Women's Studies",
           "profile_url": "https://faculty.tarleton.edu/mclaurin",
           "crimrxiv_member": false
         },
         {
-          "name": "Rebecca Morrow",
-          "title": "Assistant Professor",
-          "email": "rmorrow@tarleton.edu",
-          "research_interests": "Intimate partner violence, gendered violence, structural violence, police (un)helpfulness, human trafficking, violence against women, PTSD and depression in marginalized communities, environmental health and gender in East Africa",
-          "profile_url": "https://faculty.tarleton.edu/rmorrow",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Tom Petrowski",
-          "title": "Senior Lecturer, MCJ Graduate Advisor",
-          "email": "petrowski@tarleton.edu",
-          "research_interests": "",
-          "profile_url": "https://faculty.tarleton.edu/petrowski",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Tracy E Rickman",
-          "title": "Instructor and Coordinator of Public Administration BAAS Program",
-          "email": "trickman@tarleton.edu",
-          "research_interests": "",
-          "profile_url": "https://faculty.tarleton.edu/rickman",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Brittany Rodriguez",
-          "title": "Professional Associate Professor",
+          "title": "Professional Full Professor",
           "email": "brodriguez@tarleton.edu",
           "research_interests": "",
           "profile_url": "https://faculty.tarleton.edu/rodriguez",
@@ -6144,15 +6140,15 @@
         },
         {
           "name": "Olga Semukhina",
-          "title": "Associate Professor and Director, Institute for Predictive and Analytical Policing Science",
+          "title": "Department Head, Professor and Director, Institute for Predictive and Analytical Policing Science",
           "email": "semukhina@tarleton.edu",
           "research_interests": "public perceptions of police; intelligence and law enforcement data-sharing; spatial analysis for crime-reduction strategies; targeted community-policing efforts; predictive and analytical policing science",
           "profile_url": "https://faculty.tarleton.edu/semukhina",
           "crimrxiv_member": false
         },
         {
-          "name": "Tara Shelley",
-          "title": "Professor and Director, Institute on Violence against Women and Human Trafficking",
+          "name": "Tara O'Connor Shelley",
+          "title": "Associate Dean of Research and Faculty Excellence, Professor and Director, Institute on Violence against Women and Human Trafficking",
           "email": "shelley@tarleton.edu",
           "research_interests": "Violence against women, human trafficking, environmental crime, environmental threat, social control, criminology and criminal justice",
           "profile_url": "https://faculty.tarleton.edu/shelley",
@@ -6175,19 +6171,11 @@
           "crimrxiv_member": false
         },
         {
-          "name": "Jie Tao",
+          "name": "Emily Walker",
           "title": "Assistant Professor",
-          "email": "jtao@tarleton.edu",
-          "research_interests": "Digital governance, performance measurement, smart city, civic engagement, local government management, inter-governmental relations, public policy analysis, research methods, data visualization, analytics",
-          "profile_url": "https://faculty.tarleton.edu/tao",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Richard (Rick) Taylor",
-          "title": "Instructor",
-          "email": "",
-          "research_interests": "Retired U.S. Marshal, Northern District of Texas",
-          "profile_url": "",
+          "email": "ewalker1@tarleton.edu",
+          "research_interests": "Interpersonal violence, gender-based violence, human trafficking, impacts of trauma, minority and marginalized populations, community-engaged research",
+          "profile_url": "https://www.tarleton.edu/criminal-justice/wp-content/uploads/sites/191/2026/09/Emily-D-Walker-CV-9.1.26.pdf",
           "crimrxiv_member": false
         },
         {
@@ -6197,10 +6185,18 @@
           "research_interests": "Policing, Comparative Justice, Police-Citizens Relation, Cybercrime, Information Technology in Criminal Justice, Juvenile Justice and Juvenile Delinquency",
           "profile_url": "https://faculty.tarleton.edu/wang",
           "crimrxiv_member": false
+        },
+        {
+          "name": "Kate Wilds",
+          "title": "Assistant Professor",
+          "email": "kwilds@tarleton.edu",
+          "research_interests": "Drug policy, drug use and abuse, cannabis policy and police productivity, media literacy",
+          "profile_url": "https://www.tarleton.edu/criminal-justice/wp-content/uploads/sites/191/2026/08/Wilds_CV_08262026.pdf",
+          "crimrxiv_member": false
         }
       ],
       "crimrxiv_member": false,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "Indiana University Bloomington",
@@ -7749,8 +7745,8 @@
       "department_homepage": "https://ccie.ucf.edu/criminaljustice/",
       "faculty_directory_url": "https://ccie.ucf.edu/criminaljustice/contact/#faculty",
       "extraction_status": "complete",
-      "extraction_notes": "Research interests and emails are not displayed on the directory page — only names, titles, and profile links are shown. Staff members (coordinators, administrative assistant, and interim dean) were excluded. All 26 faculty members listed on the page are included.",
-      "faculty_count": 23,
+      "extraction_notes": "Research interests and emails are not displayed on the directory page — only names, titles, and profile links are shown. Staff members (coordinators, administrative assistant, and interim dean) were excluded. All 26 faculty members listed on the page are included. Build 23 (2026-11-04): added Ross Wolf, listed on the department contact page as Interim Dean; he holds faculty rank as Professor in the Department of Criminal Justice, so he is included under the same rule as other faculty with administrative appointments (e.g., associate deans). Non-faculty staff remain excluded.",
+      "faculty_count": 24,
       "faculty": [
         {
           "name": "Thomas Baker",
@@ -7889,14 +7885,6 @@
           "crimrxiv_member": false
         },
         {
-          "name": "James Ray V",
-          "title": "Associate Professor",
-          "email": "",
-          "research_interests": "Juvenile Justice, Juvenile Delinquency, Delinquency Prevention, Personality and Offending, Person-Context Nexus in Offending",
-          "profile_url": "https://ccie.ucf.edu/person/james-ray/",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Debra Ross",
           "title": "Associate Lecturer",
           "email": "",
@@ -7910,6 +7898,14 @@
           "email": "",
           "research_interests": "Religion and social control theory; critical race theory; criminal legal systems responses to domestic violence; domestic violence research; race, crime, and justice",
           "profile_url": "https://ccie.ucf.edu/person/lee-ross/",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "James Ray V",
+          "title": "Associate Professor",
+          "email": "",
+          "research_interests": "Juvenile Justice, Juvenile Delinquency, Delinquency Prevention, Personality and Offending, Person-Context Nexus in Offending",
+          "profile_url": "https://ccie.ucf.edu/person/james-ray/",
           "crimrxiv_member": false
         },
         {
@@ -7935,10 +7931,18 @@
           "research_interests": "Genocide, Serial Murder, Mental Disorders and Crime",
           "profile_url": "https://ccie.ucf.edu/person/mark-winton/",
           "crimrxiv_member": false
+        },
+        {
+          "name": "Ross Wolf",
+          "title": "Professor and Interim Dean, College of Community Innovation and Education",
+          "email": "ross.wolf@ucf.edu",
+          "research_interests": "Campus law enforcement, police administration and management, volunteer policing, tourism policing, international comparative policing",
+          "profile_url": "https://ccie.ucf.edu/person/ross-wolf/",
+          "crimrxiv_member": false
         }
       ],
       "crimrxiv_member": false,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "University of Cincinnati",
@@ -9365,181 +9369,133 @@
       "source": "ADPCCJ",
       "department_name": "College of Arts & Sciences - Criminal Justice",
       "department_homepage": "https://artsandsciences.louisville.edu/criminal-justice",
-      "faculty_directory_url": "https://artsandsciences.louisville.edu/search?collection=uol1~sp-main&query=&f_Tabs%7Cuol1~ds-directory=Directory&f_People_Directory%7Cdepartment=college%20of%20arts%20%26%20sciences%20-%20criminal%20-%20justice&sort=metalastName",
+      "faculty_directory_url": "https://artsandsciences.louisville.edu/criminal-justice/about/faculty-staff",
       "extraction_status": "complete",
-      "extraction_notes": "Directory lists 41 total people across all employee types (faculty, staff, graduate teaching assistants). Research interests are not shown on the directory listing — only name, title, phone, and email are provided. No individual profile URLs are available on the listing pages as entries lack links to personal profile pages. The directory is sorted alphabetically by last name and includes active, inactive, and contract/term faculty.",
-      "faculty_count": 24,
+      "extraction_notes": "Build 23 (2026-11-04): source switched from the university search directory to the Department of Criminal Justice faculty page (artsandsciences.louisville.edu/criminal-justice/about/faculty-staff). Includes the 14 faculty under 'Meet Our People' (full titles as listed, including administrative appointments held with faculty rank) and the 4 emeriti. Excludes part-time lecturers, adjunct faculty, graduate assistants, staff, and 'inactive' directory entries (Michelle Kuiper, Anthony Vito), consistent with other departments. Research areas are taken from the department page, with existing profile-derived interests retained where available.",
+      "faculty_count": 18,
       "faculty": [
         {
           "name": "Viviana Andreescu",
-          "title": "Professor",
+          "title": "Director of Graduate Studies (MS Program), Professor",
           "email": "viviana.andreescu@louisville.edu",
           "research_interests": "empirical testing of criminological theory, violent crime and fear of crime, policing, human rights and social justice issues related to social minorities",
           "profile_url": "https://profiles.louisville.edu/viviana.andreescu",
           "crimrxiv_member": false
         },
         {
-          "name": "Charles Baker",
-          "title": "Lecturer / Contract",
-          "email": "charles.baker.1@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Virginia Braden",
-          "title": "Lecturer / Contract",
-          "email": "virginia.braden@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
           "name": "Bradley Campbell",
-          "title": "Associate Professor",
+          "title": "Interim Chair, Associate Professor",
           "email": "bradley.campbell@louisville.edu",
           "research_interests": "policing, training, evaluation research, experiments, quasi-experiments, trauma-informed policing, action research",
-          "profile_url": "https://louisville.edu/directory/bradley_campbell",
+          "profile_url": "https://profiles.louisville.edu/bradley.campbell",
           "crimrxiv_member": false
         },
         {
           "name": "Jennifer Cox",
-          "title": "Professor",
+          "title": "Assistant Professor Term",
           "email": "jennifer.cox.2@louisville.edu",
           "research_interests": "juvenile delinquency, bullying, cyberbullying, domestic violence, policing, PTSD in veterans, veteran treatment services",
           "profile_url": "https://profiles.louisville.edu/jennifer.cox.2",
           "crimrxiv_member": false
         },
         {
-          "name": "Barry Denton",
-          "title": "Lecturer / Contract",
-          "email": "barry.denton@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
+          "name": "Cherie Dawson-Edwards",
+          "title": "Vice Provost for Faculty Affairs, Director of Social Change, Professor",
+          "email": "cherie.dawson@louisville.edu",
+          "research_interests": "Intersection of public policy and criminal justice with a focus on race, schools and juvenile justice; restorative justice; social change",
+          "profile_url": "https://profiles.louisville.edu/cherie.dawson",
           "crimrxiv_member": false
         },
         {
           "name": "Terry Edwards",
-          "title": "Lecturer",
+          "title": "Associate Professor Emeritus",
           "email": "terry.edwards@louisville.edu",
           "research_interests": "police civil liability, environmental crime, Constitutional Law",
           "profile_url": "",
           "crimrxiv_member": false
         },
         {
-          "name": "Joseph Grant",
-          "title": "Asst Professor Term",
-          "email": "joseph.grant@louisville.edu",
+          "name": "J. Price Foster",
+          "title": "Professor Emeritus",
+          "email": "jpfost01@louisville.edu",
           "research_interests": "",
+          "profile_url": "",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Joseph S. Grant",
+          "title": "Assistant Professor Term",
+          "email": "joseph.grant@louisville.edu",
+          "research_interests": "Law enforcement, cultural intelligence, conflict management",
           "profile_url": "https://profiles.louisville.edu/joseph.grant",
           "crimrxiv_member": false
         },
         {
-          "name": "John Gregory",
-          "title": "Lecturer / Contract",
-          "email": "john.gregory@louisville.edu",
-          "research_interests": "",
-          "profile_url": "https://louisville.edu/directory/john_gregory",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Elizabeth Grossi",
-          "title": "Assoc Professor",
+          "name": "Elizabeth L. Grossi",
+          "title": "Associate Professor",
           "email": "grossi@louisville.edu",
           "research_interests": "justice-involved veterans and specialty treatment courts, interpersonal violence, racial profiling, program evaluation",
           "profile_url": "https://profiles.louisville.edu/grossi",
           "crimrxiv_member": false
         },
         {
-          "name": "Joseph Gutmann",
-          "title": "Lecturer / Contract",
-          "email": "joseph.gutmann@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
+          "name": "George E. Higgins",
+          "title": "Interim Dean of the Graduate School and Interim Vice Provost of Graduate Affairs, Professor",
+          "email": "george.higgins@louisville.edu",
+          "research_interests": "Criminological theory testing, advanced quantitative methods, cybercrime",
+          "profile_url": "https://profiles.louisville.edu/george.higgins",
           "crimrxiv_member": false
         },
         {
-          "name": "Theresa Hayden",
-          "title": "Lecturer Contract Faculty",
-          "email": "theresa.hayden@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Deborah Keeling",
-          "title": "Lecturer / Contract",
-          "email": "deborah.wilson@louisville.edu",
-          "research_interests": "Policing, citizen attitudes toward police, bias in policing, vehicle stops, criminal justice administration",
-          "profile_url": "https://louisville.edu/justice/people-1/Keeling.html",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Michelle Kuiper",
-          "title": "Lecturer Inactive",
-          "email": "michelle.kuiper@louisville.edu",
-          "research_interests": "",
-          "profile_url": "https://louisville.edu/directory/michelle_kuiper",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Michael Losavio",
-          "title": "Assoc Professor",
-          "email": "michael.losavio@louisville.edu",
-          "research_interests": "cybercrime, digital forensics, computer crime, cybersecurity, electronic evidence, transnational cybercrime, information assurance",
-          "profile_url": "https://profiles.louisville.edu/michael.losavio",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Heather Ouellette",
-          "title": "Assoc Professor",
-          "email": "heather.ouellette@louisville.edu",
-          "research_interests": "jails, local corrections, pretrial detention, public attitudes toward justice policy, prisoner reentry, juvenile justice",
-          "profile_url": "https://profiles.louisville.edu/heather.ouellette",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "George Richards",
-          "title": "Lecturer",
-          "email": "george.richards.1@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Geetha Suresh",
-          "title": "Lecturer",
-          "email": "geetha.suresh@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
-          "crimrxiv_member": false
-        },
-        {
-          "name": "Kristin Swartz",
-          "title": "Assoc Professor",
-          "email": "kristin.swartz@louisville.edu",
-          "research_interests": "correctional officer stress, trauma and violence exposure, mindfulness interventions, correctional culture, contextual influences on offending and victimization",
-          "profile_url": "https://profiles.louisville.edu/kristin.swartz",
+          "name": "Thomas W. Hughes",
+          "title": "Professor",
+          "email": "thomas.hughes@louisville.edu",
+          "research_interests": "Policing, criminal procedure, criminal law, evidence-based policing, Fourth Amendment issues",
+          "profile_url": "https://profiles.louisville.edu/thomas.hughes",
           "crimrxiv_member": false
         },
         {
           "name": "Katie Hughes-Taylor",
-          "title": "Asst Professor Term",
+          "title": "Director of Undergraduate Studies, Assistant Professor Term",
           "email": "katie.hughes@louisville.edu",
           "research_interests": "corrections, correctional officers, stress, trauma exposure, PTSD, coping mechanisms, mental health, health and wellness in LEOs",
           "profile_url": "https://profiles.louisville.edu/katie.hughes",
           "crimrxiv_member": false
         },
         {
-          "name": "Cassandra Rausch-Todd",
-          "title": "Lecturer / Contract",
-          "email": "cassandra.rausch@louisville.edu",
-          "research_interests": "",
-          "profile_url": "",
+          "name": "Deborah G. Keeling",
+          "title": "Professor Emeritus",
+          "email": "deborah.wilson@louisville.edu",
+          "research_interests": "Policing, citizen attitudes toward police, bias in policing, vehicle stops, criminal justice administration",
+          "profile_url": "https://louisville.edu/justice/people-1/Keeling.html",
           "crimrxiv_member": false
         },
         {
-          "name": "Gennaro Vito",
+          "name": "Michael Losavio",
+          "title": "Associate Professor",
+          "email": "michael.losavio@louisville.edu",
+          "research_interests": "cybercrime, digital forensics, computer crime, cybersecurity, electronic evidence, transnational cybercrime, information assurance",
+          "profile_url": "https://profiles.louisville.edu/michael.losavio",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Heather M. Ouellette",
+          "title": "Associate Professor",
+          "email": "heather.ouellette@louisville.edu",
+          "research_interests": "jails, local corrections, pretrial detention, public attitudes toward justice policy, prisoner reentry, juvenile justice",
+          "profile_url": "https://profiles.louisville.edu/heather.ouellette",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Kristin Swartz",
+          "title": "Associate Professor",
+          "email": "kristin.swartz@louisville.edu",
+          "research_interests": "correctional officer stress, trauma and violence exposure, mindfulness interventions, correctional culture, contextual influences on offending and victimization",
+          "profile_url": "https://profiles.louisville.edu/kristin.swartz",
+          "crimrxiv_member": false
+        },
+        {
+          "name": "Gennaro F. Vito",
           "title": "Professor",
           "email": "gennaro.vito@louisville.edu",
           "research_interests": "capital sentencing, attitudes toward capital punishment, police leadership and administration, evaluation of criminal policies and programs",
@@ -9547,16 +9503,16 @@
           "crimrxiv_member": false
         },
         {
-          "name": "Anthony Vito",
-          "title": "Lecturer Inactive",
-          "email": "anthony.vito@louisville.edu",
+          "name": "William F. Walsh",
+          "title": "Professor Emeritus",
+          "email": "william.walsh@louisville.edu",
           "research_interests": "",
-          "profile_url": "https://louisville.edu/directory/anthony_vito",
+          "profile_url": "",
           "crimrxiv_member": false
         },
         {
-          "name": "Alex Widdowson",
-          "title": "Assoc Professor",
+          "name": "Alex O. Widdowson",
+          "title": "Vice Chair, Director of Graduate Studies (Ph.D. Program), Associate Professor",
           "email": "alex.widdowson@louisville.edu",
           "research_interests": "life-course crime development, consequences of criminal behavior and justice system sanctioning, prisoner reentry",
           "profile_url": "https://profiles.louisville.edu/alex.widdowson",
@@ -9564,7 +9520,7 @@
         }
       ],
       "crimrxiv_member": false,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "University of Pennsylvania",
@@ -10525,10 +10481,10 @@
       "source": "ADPCCJ",
       "department_name": "School of Economic, Political and Policy Sciences",
       "department_homepage": "https://epps.utdallas.edu/about/programs/criminology-and-criminal-justice/",
-      "faculty_directory_url": "https://profiles.utdallas.edu/schools/EPPS",
+      "faculty_directory_url": "https://epps.utdallas.edu/criminology/faculty/",
       "extraction_status": "complete",
-      "extraction_notes": "Original page (EPPS School profiles) listed faculty across multiple departments (Economics, Political Science, Geospatial, Public/Nonprofit Management, Sociology, and Criminology). Filtered to titles containing 'criminology' or 'criminal justice' — reduced 104 → 7.",
-      "faculty_count": 8,
+      "extraction_notes": "Original page (EPPS School profiles) listed faculty across multiple departments (Economics, Political Science, Geospatial, Public/Nonprofit Management, Sociology, and Criminology). Filtered to titles containing 'criminology' or 'criminal justice' — reduced 104 → 7. Build 23 (2026-11-04): added Andrew Krajewski (Assistant Professor; PhD Criminology, Penn State), who appears on epps.utdallas.edu/criminology/faculty/ and is tagged Criminology & Criminal Justice in UT Dallas Profiles but carries a school-level title that the title filter missed. Directory URL now points to the criminology faculty page. Denise Boots remains excluded because her primary appointment is Public Policy and Political Economy.",
+      "faculty_count": 9,
       "faculty": [
         {
           "name": "Megan Augustyn",
@@ -10552,6 +10508,14 @@
           "email": "",
           "research_interests": "Intimate Partner Violence, Victimology, Sexual Violence, Life-Course Criminology",
           "profile_url": "https://profiles.utdallas.edu/jessica.garcia",
+          "crimrxiv_member": true
+        },
+        {
+          "name": "Andrew Krajewski",
+          "title": "Assistant Professor - Economic Political and Policy",
+          "email": "Andrew.Krajewski@UTDallas.edu",
+          "research_interests": "Interpersonal violence, aggressive behavior, social network analysis",
+          "profile_url": "https://profiles.utdallas.edu/andrew.krajewski",
           "crimrxiv_member": true
         },
         {
@@ -10596,7 +10560,7 @@
         }
       ],
       "crimrxiv_member": true,
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-04"
     },
     {
       "institution": "University of Maribor",
@@ -13750,8 +13714,8 @@
     }
   ],
   "sources_note": "Departments in this directory come from two sources: the U.S. News & World Report criminology rankings and the Academy of Doctoral Programs in Criminology & Criminal Justice (ADPCCJ) member roster. Rankings are intentionally not shown or used for sorting. Additional CrimConsortium member directories (US plus international) were collected from each institution's public faculty page.",
-  "compiled_at": "2026-10-31T00:00:00+00:00",
-  "build_version": 22,
-  "build_date": "2026-10-31",
-  "refresh_note": "Rosters re-verified against each department directory on 2026-10-31; additions, departures, promotions and title changes applied. Departments with unchanged scope rules: see extraction_notes."
+  "compiled_at": "2026-11-04T00:00:00+00:00",
+  "build_version": 23,
+  "build_date": "2026-11-04",
+  "refresh_note": "Build 23 (2026-11-04): roster corrections from reader feedback. Tarleton State and Louisville now draw from their department faculty pages instead of a stale school page and a search directory; verified omissions added at Temple, UT Dallas, UCF, Georgia State, Ole Miss and USF. Previous full re-verification: 2026-10-31 (build 22)."
 }
