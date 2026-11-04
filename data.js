@@ -6595,7 +6595,7 @@ window.__DATA__ = {
           "title": "Associate Professor",
           "email": "mwl39@txstate.edu",
           "research_interests": "corrections, military veterans, white-collar crime",
-          "profile_url": "[Texas State University School of Criminal Justice and Criminology Faculty Page](https://www.cj.txst.edu/about/faculty-staff.html), [Texas State Faculty Profile](https://faculty.txst.edu/profile/2252343)",
+          "profile_url": "https://faculty.txst.edu/profile/2252343",
           "crimrxiv_member": true
         },
         {
@@ -6619,7 +6619,7 @@ window.__DATA__ = {
           "title": "Assistant Professor",
           "email": "kepadil@txstate.edu",
           "research_interests": "police officer mental health and wellness, gender equity in policing, ethics and technology, qualitative methodologies",
-          "profile_url": "[Texas State Faculty Profile](https://faculty.txst.edu/profile/2381360)",
+          "profile_url": "https://faculty.txst.edu/profile/2381360",
           "crimrxiv_member": true
         },
         {
@@ -6659,7 +6659,7 @@ window.__DATA__ = {
           "title": "Assistant Professor of Instruction",
           "email": "as1297@txstate.edu",
           "research_interests": "marijuana laws; college campus crime; racial disparities in arrests; juvenile delinquency; racial threat theory",
-          "profile_url": "[Texas State University Faculty Profile](https://faculty.txst.edu/profile/2504995), [School of Criminal Justice and Criminology Directory](https://www.cj.txst.edu/about/faculty-staff.html)",
+          "profile_url": "https://faculty.txst.edu/profile/2504995",
           "crimrxiv_member": true
         },
         {
